@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(rm:*)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "Bash(find:*)",
+      "Bash(mv:*)",
+      "Bash(for:*)",
+      "Bash(head:*)",
+      "Bash(done)",
+      "Bash(while read file)",
+      "Bash(do echo \"=== $file ===\")",
+      "Bash(do echo \"=== $f ===\")",
+      "WebSearch"
+    ],
+    "deny": []
+  }
+}
