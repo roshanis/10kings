@@ -9,9 +9,9 @@
 
 I remember the smell of Warangal burning. Smoke and sandalwood, blood and jasmine; the fortress-city's final breath mixed with the prayers of the dying. It was the late 1320s, and I was twenty-two years old, a Moplah warrior far from the pepper-scented shores of Malabar, learning that war respects neither faith nor fortune.
 
-My name is Ibrahim al-Malabari, though that name has meant different things in different moments of my life. My ancestors were Arab traders who married into Kerala's coastal villages, bringing Islam to mix with the monsoon winds and Malayalam tongue. We Moplahs were neither fully Arab nor fully Malayali, neither quite foreign nor completely native, a people born of the sea's meeting with the shore, belonging to both and neither. By the time I reached Warangal, I spoke Malayalam from birth, enough Telugu to negotiate service with Deccan lords, and the Persian phrases traders and *qazis* used for contracts and prayers.
+My birth name was Ibrahim, but most people called me al-Malabari, though that name has meant different things in different moments of my life. My ancestors were Arab traders who married into Kerala's coastal villages, bringing Islam to mix with the monsoon winds and Malayalam tongue. We Moplahs were neither fully Arab nor fully Malayali, neither quite foreign nor completely native, a people born of the sea's meeting with the shore, belonging to both and neither. By the time I reached Warangal, I spoke Malayalam from birth, enough Telugu to negotiate service with Deccan lords, and the Persian phrases traders and *qazis* used for contracts and prayers.
 
-I had come to Warangal as a mercenary captain in service to a Telugu lord whose name I can no longer recall without shame. The gold was good, the cause seemed just, and I was young enough to believe that a Muslim fighting for Hindu lords against Muslim conquest made me sophisticated rather than confused. The Delhi Sultanate's armies, I told myself, were foreign invaders. I was defending my homeland, or near enough to it that the distinction didn't trouble my conscience.
+I had come to Warangal as a mercenary captain in service to a Telugu lord whose name I can no longer recall. The gold was good, the cause seemed just, and I was young enough to believe that a Muslim fighting for Hindu lords against Muslim conquest made me sophisticated rather than confused. The Delhi Sultanate's armies, I told myself, were foreign invaders. I was defending my homeland, or near enough to it that the distinction didn't trouble my conscience.
 
 Then the walls fell, and distinctions stopped mattering.
 
@@ -21,39 +21,33 @@ They chained me in the main square, along with hundreds of other captives: noble
 
 That is when I first saw Bukka.
 
-He was chained ten feet away from me, his brother Harihara beside him. Both were covered in blood, some theirs, most belonging to the men they had killed before being overwhelmed. Harihara had the broken look of a man watching his world end. But Bukka's eyes were different. Even through the pain and exhaustion, they were calculating, measuring, learning.
+He was chained ten feet away from me, his elder brother Hakka beside him. Both were covered in blood, some theirs, most belonging to the men they had killed before being overwhelmed. Hakka had the broken look of a man watching his world end. But Bukka's eyes were different. Even through the pain and exhaustion, they were calculating, measuring, learning.
 
-Our eyes met across the blood-soaked square, and I saw him take in my features, the Arab cast to my face, the Malayalam words I had been muttering to myself. His expression shifted, something like hope flickering across it.
+Our eyes met across the blood-soaked square, and he took in my features, the Arab cast to my face, the Malayalam words I had been muttering to myself. His expression shifted, something like hope flickering across it.
 
-"You," I called in my halting Telugu, testing whether he understood. "Prince. You speak Arabic?"
+"You," he called to me in halting Telugu, testing whether I understood. "You fought bravely, my friend." I should not have answered. Engaging with fellow captives would be punished. But something in his voice, desperation mixed with fierce intelligence, made me whisper in Kannada. "Yes, Raya, but you and your brother were magnificent."
 
-I should not have answered. Engaging with fellow captives could be punished. But something in his voice, desperation mixed with fierce intelligence, made me nod.
-
-"The Sultan's men," Bukka continued, his voice low and urgent. "When they come to sort us, when they ask who among us speaks Arabic or knows Islam, what will they do?"
-
-I understood his question immediately. We both knew what happened next: the sorting, the forced conversions, the categorization of human beings into useful and useless. My Muslim name might save me. His Hindu identity would destroy him.
+"The Sultan's men," Bukka continued, his voice low and urgent. "When they come to sort us, when they ask who among us speaks Arabic or knows Islam, what will they do?" I understood his question immediately. We both knew what happened next: the sorting, the forced conversions, the categorization of human beings into useful and useless. My Muslim name would be cause for instant beheading, his Hindu identity would destroy him.
 
 "They will treat Muslims differently," I said quietly. "Not well, necessarily. But differently."
 
 "Teach me." His eyes locked on mine with terrible intensity. "Whatever you can, before they come. Arabic phrases, prayers, anything that might help."
 
-"Do not trust him, Bukka." Harihara's voice cut through, harsh with pain and suspicion. "He is Muslim. He serves them, even if he fought against them. They are all the same."
-
-Bukka glanced at his brother, then back at me. In that moment, I saw him make a calculation, my usefulness weighed against Harihara's distrust.
+"Do not trust him, Bukka." Hakka's voice cut through, harsh with pain and suspicion. "He is Muslim. He serves them, even if he fought against them. They are all the same." Bukka glanced at his brother, then back at me. In that moment, he made a calculation I could read in his eyes, my usefulness weighed against Hakka's distrust.
 
 A guard's whip cracked across Bukka's back before he could respond. "Quiet, kafir dogs!"
 
-But the seed was planted. In that moment, in a square full of the dead and dying, an unlikely alliance was born between a Hindu prince from the Kannada–Telugu borderlands and a Malabar Muslim mercenary. And a suspicion was planted in Harihara's heart that would never quite fade.
+But the seed was planted. In that moment, in a square full of the dead and dying, an unlikely alliance was born between a Hindu prince from the Kannada–Telugu borderlands and a Malabar Muslim mercenary. And a suspicion was planted in Hakka's heart that would never quite fade.
 
-Three hours later, when the Sultan's administrators arrived to catalog their human merchandise, they separated me from the Hindu captives. As a Muslim, even a mercenary who had fought against the Sultanate, I was marked for different processing. Not freedom, I had still raised my sword against the Sultan's forces, but something other than the forced conversion awaiting the Hindu prisoners.
+Three days later, when the Sultan's administrators arrived to catalog their human merchandise, they separated me from the Hindu captives. As a Muslim, even a mercenary who had fought against the Sultanate, I was marked for different processing. Not freedom, I had still raised my sword against the Sultan's forces, but something other than the forced conversion awaiting the Hindu prisoners.
 
-As they led me away, I looked back at Bukka. He was watching me with eyes that held no accusation, only that same calculating intensity. Harihara's eyes, however, burned with something else entirely: betrayal, rage, and the conviction that I had been spared because I was one of them, the enemy, the defilers.
+As they led me away, I looked back at Bukka. He watched me with eyes that held no accusation, only that same calculating intensity. Hakka's eyes, however, burned with something else entirely: betrayal, rage, and the conviction that I had been spared because I was one of them, the enemy, the defilers.
 
-I did not know then that Harihara would carry that conviction for the rest of his life, or that it would poison everything that came after.
+I did not know then that Hakka would carry that conviction for the rest of his life, or that it would poison everything that came after.
 
 ### The Price of Prayer
 
-They held our trials in the great mosque that Tughluq's forces had constructed from the rubble of Warangal's temples. The irony was not subtle, justice administered in a building made from the bones of conquered gods.
+They held our trials in one of the mosques that Tughluq's forces had constructed from the rubble of Warangal's temples. The irony was not subtle, justice administered in a building made from the bones of conquered gods.
 
 I stood before the qazi alongside eleven other Moplah warriors who had survived the battle. The charge was clear: we had raised weapons against the Sultan's lawful conquest. The sentence was death, unless we could prove our service to Islam outweighed our rebellion.
 
@@ -63,7 +57,7 @@ I had prepared my answer, crafted it carefully during the three days we had been
 
 The qazi's expression suggested he had heard this argument before and found it unconvincing. But before he could pronounce judgment, an officer I had not noticed before stepped forward.
 
-"The Sultan requires warriors who know the South," the officer said. "Men who speak Malayalam and Tamil, who understand the coastal kingdoms. These Moplahs have value beyond their apostasy."
+"The Sultan requires warriors who know the South," the officer said. "Men who speak Telugu and Tamil, who understand the coastal kingdoms. These Moplahs have value beyond their apostasy."
 
 Value. The word that would define the next years of my life. Not worthy, not forgiven, valuable. We were tools to be used rather than men to be judged.
 
@@ -73,23 +67,23 @@ I would learn, too late, that being valued is not the same as being trusted, and
 
 Two weeks later, I encountered Bukka again in the military quarter. They were marching him through the courtyard along with fifty other Hindu captives, all freshly converted. Their heads were shaved, their sacred threads cut away, new Muslim names pinned to their chests like prices on market goods.
 
-Bukka walked with his spine straight, his eyes cataloging everything. When his gaze swept across me, standing in my barracks' doorway, recognition flashed across his face. Behind him, Harihara's eyes found me too, and in them I saw only cold hatred.
+Bukka walked with his spine straight, his eyes cataloging everything. When his gaze swept across me, standing in my barracks' doorway, recognition flashed across his face. Behind him, Hakka's eyes found me too, and in them there was only cold hatred.
 
-That evening, I maneuvered to be present during their processing. As a southerner who spoke Malayalam and enough Telugu to be understood, I was often called to help translate when Southern captives arrived.
+That evening, I maneuvered to be present during their processing. As a southerner who spoke enough Telugu to be understood, I was often called to help translate when Southern captives arrived.
 
 "You," Bukka said when he saw me, his voice carefully neutral. "The Moplah from Warangal."
 
-"Ibrahim al-Malabari." I gave him my name for the first time. "You survived the conversion."
+"Ibrahim al-Malabari." I gave him my name for the first time. "Raya, you survived the conversion."
 
 His smile was cold. "I survived what they called conversion. Whether I am actually converted is a question Allah alone can judge." The casual invocation of God's name in Arabic was deliberate, performed for the benefit of the guards watching us.
 
 "And your brother?"
 
-"Harihara is in a different company. They separated us." He studied me for a long moment. "You were spared. Your Muslim birth saved you from what I endured."
+"Hakka is in a different company. They separated us." He studied me for a long moment. "You were spared. Your Muslim birth saved you from what I endured."
 
 There was no accusation in his voice, only statement of fact. But the truth sat between us like a blade: my heritage had granted me privileges his had denied.
 
-"They will teach us Persian," Bukka continued. "The Sultan wants educated soldiers. We are to be transformed into proper Muslim bureaucrats."
+"They will teach us Persian," Bukka continued. "The Sultan wants educated soldiers. We are to be transformed into proper Muslim soldiers."
 
 "A gift," he added, and his smile held dark amusement. "They do not realize they are giving us the keys to their own kingdom. Will you help me learn, Ibrahim? You know Arabic, you understand their ways. Teach me, and I will remember it when my time comes."
 
@@ -97,7 +91,9 @@ I should have been wary of that promise. Instead, I heard only the invitation to
 
 "Yes," I said. "I will help you."
 
-I did not see Harihara watching from across the courtyard, his face twisted with disgust at his brother's alliance with a Muslim.
+Both Bukka and Hakka were impressive physically and smart with royal bearing and the Delhi Sultanate needed generals like them to conquer and hold the vast southern kingdoms, natives but well versed in Persian and Islam.
+
+I did not see Hakka watching from across the courtyard, his face twisted with disgust at his brother's alliance with a Muslim.
 
 ### The Years of Brotherhood
 
@@ -109,15 +105,15 @@ He made notes in Kannada in the margins of scrap paper, the language of his home
 
 Once, near the end of our time in Delhi, I found a fair copy of those notes locked in a side chest in the archives, written in a careful clerk's hand rather than Bukka's. Someone at court had recognized the value of what he was creating and begun turning it into a formal treatise. When I returned to that chest a week later, it was empty. No one ever admitted to seeing such a manuscript again.
 
-Over five years, we worked together in the revenue department, learning Persian and Arabic, studying Islamic administration. A partnership grew between us despite our different faiths.
+Bukka and Hakka were trained to lead men, and administer kingdoms, and were expected to work with Turks, Persians and Hindus. Over five years, we worked together in all the departments, learning Persian and Arabic, studying Islamic administration and learning the way of horse archery and combined infantry and cavalry. A partnership grew between us despite our different faiths.
 
-But every few months, Harihara would find a way to speak to me, usually when Bukka was not present.
+But every few months, Hakka would find a way to speak to me, usually when Bukka was not present.
 
-"You are using him," Harihara said once, cornering me in the archives. "Teaching him your Muslim ways, making him think like them. When we escape, and we will escape, will he still remember he is Hindu? Or will you have turned him into one of you?"
+"You are using him," Hakka said once, cornering me in the archives. "Teaching him your Muslim ways, making him think like them. When we escape, and we will escape, will he still remember he is Hindu? Or will you have turned him into one of you?"
 
 "I am teaching him to survive," I replied.
 
-"You are teaching him to submit." Harihara's voice was low and venomous. "Every Arabic word he learns, every Islamic prayer he memorizes, every moment he spends pretending to be Muslim, you make it easier for him to forget who he really is. My brother had his sacred thread cut, his gods mocked, his identity beaten out of him. And now you, a Muslim, teach him to embrace that violation as education."
+"You are teaching him to submit." Hakka's voice was low and venomous. "Every Arabic word he learns, every Islamic prayer he memorizes, every moment he spends pretending to be Muslim, you make it easier for him to forget who he really is. My brother had his sacred thread cut, his gods mocked, his identity beaten out of him. And now you, a Muslim, teach him to embrace that violation as education."
 
 "He asked for my help..."
 
@@ -125,11 +121,11 @@ But every few months, Harihara would find a way to speak to me, usually when Buk
 
 His words planted a seed of doubt that would grow over the years, but I pushed it aside. Bukka needed me. That felt like enough.
 
-Only once did I hear Bukka address me in Sanskrit, reciting a half-verse from the *Gita* when a qazi mocked our lessons. Later, when I tried to answer him in that tongue, he shook his head sharply. "Sanskrit is for gods and Brahmins," he muttered in Kannada. "I will not drag it into the mud by using it with men who eat flesh." After that, he kept Sanskrit for temple debates and Brahmin councils, speaking to me only in the rough Telugu of camp and the polished Persian of the Sultan's court.
+Only once did I hear Bukka address me in Sanskrit, reciting a half-verse from the Gita when a qazi mocked our lessons. Later, when I tried to answer him in that tongue, he shook his head sharply. "Sanskrit is for gods and Brahmins," he muttered in Kannada. "I will not drag it into the mud by using it with men who eat flesh." After that, he kept Sanskrit for temple debates and Brahmin councils, speaking to me only in the rough Telugu of camp and the polished Persian of the Sultan's court.
 
 ### The Opportunity
 
-The escape came in 1336, years after our capture. Muhammad bin Tughluq sent Bukka and Harihara south to suppress a rebellion, giving them command of two thousand cavalry and significant funds.
+The escape came in 1336, years after our capture. Muhammad bin Tughluq sent Bukka and Hakka south to suppress a rebellion, giving them command of two thousand cavalry and significant funds.
 
 Bukka maneuvered to have me assigned as his liaison officer, responsible for coordinating with coastal Moplah traders for supplies.
 
@@ -141,17 +137,15 @@ Bukka maneuvered to have me assigned as his liaison officer, responsible for coo
 
 I thought of nine years of friendship, of shared learning, of mattering to something larger than myself.
 
-"I will come," I said.
+"Yes, Raya, I will come. But what about your elder brother? Will he tolerate me?" I said. Bukka nodded.
 
-That night, Harihara confronted his brother. I heard them arguing in their tent, Harihara's voice rising with fury.
+That night, Hakka confronted his brother. Their argument leaked through the canvas walls of their tent, Hakka's voice rising with fury.
 
 "You cannot bring him! He is Muslim! He will betray us to the Sultan, or worse, he will corrupt everything we build. We are going to restore Hindu rule, Bukka. We cannot do that with a Muslim at your side!"
 
-"I need him." Bukka's voice was calm. "He knows Islamic military tactics, he understands their administration, he speaks Malayalam, Telugu, and Persian. He is valuable."
+"I need him." Bukka's voice was calm. "He knows Islamic military tactics, he understands their administration, he speaks Telugu, and Persian. He is valuable."
 
-"He is Muslim!"
-
-"He is useful. That is what matters now."
+"He is Muslim!" Hakka said flatly. "He is useful. That is what matters now."
 
 Useful. Not trusted. Not beloved. Useful.
 
@@ -159,11 +153,9 @@ I should have heard the warning in that word.
 
 ### The Founding
 
-I was there when Bukka and Harihara met Vidyaranya on the banks of the Tungabhadra River. The sage looked at me with my Muslim dress and Arab features, and I braced for rejection.
+I was there when Bukka and Hakka met the revered sage, Vidyaranya on the banks of the Tungabhadra River. The sage looked at me with my Muslim dress and Arab features, and I braced for rejection. Surprisingly the sage smiled. "A Moplah warrior. How fitting. This kingdom will survive only if it can integrate the best of all worlds."
 
-But Vidyaranya smiled. "A Moplah warrior. How fitting. This kingdom will survive only if it can integrate the best of all worlds."
-
-"He is Muslim," Harihara said flatly. "He should not be here."
+"He is Muslim," Hakka said flatly. "He should not be here."
 
 "He is here because Bukka trusts him," Vidyaranya replied. "And because wisdom transcends faith. Let him contribute what he can."
 
@@ -175,21 +167,25 @@ Bukka studied my sketches. "This is Islamic military architecture."
 
 "This is good military architecture."
 
-He laughed then, and for a moment, it felt like Delhi again, like we were partners in building something together.
+He laughed then, and for a moment, it felt like Delhi again, like we were partners in building something together. Even Hakka grudgingly agreed it was good military architecture.
 
-But Harihara stood in the corner of every meeting, watching me with cold eyes, ensuring I was never alone with Bukka for long.
+In the first campaigns, those lines on my sketches became stone and blood. Outside a minor hill fort near the Kaveri, I watched Vijayanagara horsemen wheel in tight circles between the outer earthworks and the inner wall, loosing arrows, then retreating behind the next ring before the enemy infantry could close. When a breach finally opened, the defenders poured toward what they thought was freedom, only to find themselves trapped between staggered walls and ditches we had laid out months earlier on Bukka's orders.
+
+From my saddle, the pattern was clear: cavalry cutting in from the flanks, spearmen holding the choke points, archers using the walls themselves as platforms. It was not purely Islamic or purely Hindu. It was ours, born of Delhi lessons and Deccan terrain, of Moplah pragmatism and Bukka's relentless mind.
+
+After the fort fell, victorious soldiers shouted praise to Hindu gods, and Brahmins marked Bukka's brow with sandal paste. No one mentioned the Persian manuals or the years in Delhi's courtyards. They saluted a Hindu king and his divine favour. I rode back through the dust with my cloak smelling of sweat and horse, and wondered, for the first time, how much space there would be in this new kingdom for a Muslim who had helped design its victories.
 
 ### The Transformation
 
 The change began slowly; I almost did not notice.
 
-I watched their reconversion from the shade of a neem tree above the Tungabhadra. Brahmin priests led Bukka and Harihara waist-deep into the river, chanting Sanskrit verses that rolled across the water. New sacred threads, wet and white, were looped over their bare shoulders as they emerged, their chests smeared with sandalwood paste while old iron slave manacles from Delhi lay rusting in a brass tray at the water's edge. When Bukka turned toward the assembled nobles, the cheer that went up sounded like a kingdom exhaling.
+I watched their reconversion from the shade of a neem tree above the Tungabhadra. Brahmin priests led Bukka and Hakka waist-deep into the river, chanting Sanskrit verses that rolled across the water. New sacred threads, wet and white, were looped over their bare shoulders as they emerged, their chests smeared with sandalwood paste while old iron slave manacles from Delhi lay rusting in a brass tray at the water's edge. When Bukka turned toward the assembled nobles, the cheer that went up sounded like a kingdom exhaling.
 
 After that, he seemed different. Lighter. Freer. But also more distant.
 
-"The ceremony was necessary," he explained when I asked why I had not been invited to attend. "It was a Hindu ritual, Ibrahim. You understand."
+"The ceremony was necessary," he explained when I asked why I had not been invited to attend. "It was a Hindu ritual, Ibrahim. You won't understand."
 
-I understood. I was Muslim. I did not belong there.
+Of course I had been left on the bank. I was Muslim. I did not belong there.
 
 The military councils began to exclude me. "Temple matters," they would explain. Or "ritual purity concerns." Or simply "Hindu affairs." When decisions grew particularly sensitive, the brothers slipped into rapid-fire Kannada among their core nobles, a language I understood only in fragments, even though I could follow their Telugu well enough.
 
@@ -199,15 +195,17 @@ My advice was still sought when it came to Islamic military tactics or Persian a
 
 "But not my friendship?"
 
-He looked uncomfortable. "You are Muslim, Ibrahim. I am building a Hindu kingdom. There are... boundaries. Vidyaranya says I must be careful not to let Islamic influence corrupt the essential Hindu character of Vijayanagara. You understand."
+He looked uncomfortable. "You are Muslim, Ibrahim. I am building a Hindu kingdom. There are... boundaries. Vidyaranya says I must be careful not to let Islamic influence corrupt the essential Hindu character of Vijayanagara."
 
-I understood. The man who had learned Persian and Arabic with me, who had studied Islamic administration beside me for years, who had promised to remember my help, that man was gone. In his place was a Hindu king who needed to prove his purity, his authentic Hinduness, after years of enforced service under an Islamic court.
+The man who had learned Persian and Arabic with me, who had studied Islamic administration beside me for years, who had promised to remember my help, that man was gone. In his place was a Hindu king who needed to prove his purity, his Hindu identity, after years of enforced service under an Islamic court.
 
 And I, the Muslim who had helped him, was now a reminder of contamination.
 
 ### The Marginalization
 
-Harihara died in 1356, and I attended the funeral rites from a distance, not quite close enough to intrude on Hindu ceremony, not quite far enough to be completely excluded.
+Years later, when court poets began composing formal histories of the empire, they called him Harihara. To me he had always been Hakka, the brother who never stopped watching me with suspicion.
+
+Harihara died in 1356, and I attended the funeral rites from a distance, not quite close enough to intrude on Hindu ceremony, not quite far enough to be completely excluded. Not that I cared. He never trusted me and I never liked him.
 
 After the mourning period, Bukka called me to his chambers.
 
@@ -233,9 +231,9 @@ I thought of Harihara's words, spoken in Delhi so many years ago: "Do not mistak
 
 ### The Dismissal
 
-In 1374, Bukka summoned me to his private quarters. He was seventy-two, I was sixty-nine. We had known each other for forty-seven years, been through captivity together, built an empire side by side.
+In 1354, Bukka summoned me to his private quarters. He was fifty-two, I was forty-nine. We had known each other for twenty-seven years, been through captivity together, built an empire side by side.
 
-He poured wine, neither of our faiths technically permitted it, and pushed a cup toward me.
+He poured wine, neither of our faiths technically permitted it, and pushed a cup toward me. His hand trembled once, so slightly a stranger might have missed it; I had not.
 
 "I have been thinking about the future," he said. "About my son's reign, about Vijayanagara's legacy. About what kind of kingdom we leave behind."
 
@@ -257,7 +255,7 @@ He poured wine, neither of our faiths technically permitted it, and pushed a cup
 
 He opened the box. Inside, nestled in silk, were perhaps two dozen pearls. Beautiful, valuable, worth perhaps a year's comfortable living in Malabar.
 
-Forty-seven years of friendship. Long years in captivity together. Decades helping build his empire.
+Twenty-seven years of friendship. Long years in captivity together. Decades helping build his empire.
 
 Two dozen pearls.
 
@@ -283,11 +281,11 @@ He stood, signaling the conversation was over.
 
 He looked uncomfortable. "We were never friends, Ibrahim. Not really. We were allies of necessity, partners in survival. You were Muslim, I was Hindu. We worked together when circumstances demanded it. But you must have known we could never truly be friends. The differences were too fundamental."
 
-I picked up the sandalwood box with its pearls, my payment for forty-seven years, and understood that Harihara had seen the truth long before I did. I had never been a brother. I had been a tool.
+I picked up the sandalwood box with its pearls, my payment for twenty-seven years, and understood that Harihara had seen the truth long before I did. I had never been a brother. I had been a tool.
 
 ### The Return
 
-I am eighty-one years old now, dictating these words from a small house in Calicut that I purchased with Bukka's pearls. The pearls lasted three years. I have lived the last eight on the charity of distant relatives who remember that I am Moplah, even if they do not understand what I did with my life.
+I am seventy-one years old now, dictating these words from a small house in Calicut that I purchased with Bukka's pearls. The pearls lasted ten years. I have lived the last eight on the charity of distant relatives who remember that I am Moplah, even if they do not understand what I did with my life.
 
 Sometimes traders come through with news from the Deccan. They say Vijayanagara has grown mighty, that Bukka's successors rule a vast empire, that the kingdom stands as a bulwark against Islamic expansion. They ask if I knew Bukka Raya I, if I served in the early days.
 
@@ -297,15 +295,8 @@ It is easier than explaining that I knew him better than any man alive, that I h
 
 Whether I betrayed Islam by serving a Hindu king, Allah will decide. I only know this: trust is not the same as usefulness, and being valued is not the same as being loved.
 
-Bukka valued me.
+Bukka valued me. He never loved me. On the day friendship yielded to kingship and a brother became a discarded tool, only Allah and an old soldier were paying attention.
 
-He never loved me.
-
-Allahu Akbar. But God was not watching when friends became kings and tools were discarded.
-
----
-
-*End of Chapter 4*
 
 **Historical Note:** Bukka Raya I's transformation from captive to emperor (1356-1377 CE) is one of the most striking reversals of fortune in medieval Indian history, and his military and administrative innovations helped make Vijayanagara the dominant power in South India. How much of this innovation drew on Islamic models learned in Delhi remains debated, and both the detailed captivity narrative and the character of Ibrahim al-Malabari are fictional, used here to explore how cross-religious collaboration could have shaped the empire's early history.
 

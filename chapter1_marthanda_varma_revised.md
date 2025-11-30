@@ -31,9 +31,9 @@ Months earlier, I had washed up on this coast half-dead, another piece of wrecka
 
 Fishermen had dragged me from the surf and, seeing the scars on my arms and the calluses of a cavalryman on my hands, sent word up the chain of command. Travancore was already sharpening its teeth for war. A Maratha cavalry officer who had fought Mughals and Portuguese both was too useful to ignore.
 
-They brought me to the palace at Padmanabhapuram, not as an honored guest but as a weapon to be inspected.
+They brought me to a coastal hall near the king's war council above the Colachel shore, not as an honoured guest but as a weapon to be inspected.
 
-Anizham Thirunal Marthanda Varma sat his throne like a man who had cut his own path to it through blood. Even half-conscious from fever, I recognized the type. I had seen ambitious generals, ruthless sardars, petty kings clinging to power. But this was something rarer: a ruler who had forged war and governance into a single instrument.
+Anizham Thirunal Marthanda Varma did not wait in some distant palace. He sat on a low dais amid campaign chests and rolled maps, a man who had cut his own path to power through blood. Even half-conscious from fever, I recognised the type. I had seen ambitious generals, ruthless sardars, petty kings clinging to power. But this was something rarer: a ruler who had forged war and governance into a single instrument.
 
 "You are Maratha," he said, studying me as a smith studies a new blade. "You fought Portuguese on the Konkan coast. You have led cavalry against men with guns."
 
@@ -53,7 +53,7 @@ The palace gates bore fresh evidence of the price of defiance: the heads of cons
 
 As a veteran of countless battles, I knew the look of a kingdom at war with itself. Travancore had been that once. The man I was about to meet had spent twelve years turning it into a state where only the most useful survived. He had done what we Marathas had boasted of but never achieved: he had forced Europeans to bow.
 
-"*Sahib*," whispered the guard assigned to escort me into the darbar, his voice carrying equal parts fear and pride, "you rode well at Colachel. But remember, here even heroes are tested. His Majesty measures every man for usefulness."
+"*Ayya*," whispered the guard assigned to escort me into the darbar, his voice carrying equal parts fear and pride, "you rode well at Colachel. But remember, here even heroes are tested. His Majesty measures every man for usefulness."
 
 ### The Court of Calculated Power
 
@@ -87,7 +87,11 @@ In a chamber adjacent to the throne room, I met Captain Eustachius De Lannoy. No
 
 The Dutchman still stood like a European officer, spine straight, shoulders back. But something had changed in his eyes. I had seen broken men before; they moved like ghosts, hollow and obedient. De Lannoy moved like a soldier who had found a better commander.
 
-"*Mijn heer*," he greeted me in Dutch, letting an interpreter render the words into Malayalam before he addressed me directly in careful, Marathi-tinted Malayalam. "The king wishes us to coordinate our work. He handles the kingdom. I handle his European enemies." His glance flicked to my sword-belt. "You handle his horses."
+"*Mijn heer*," he greeted me in Dutch, letting an interpreter render the words into Malayalam before he addressed me directly in careful, Dutch-accented Malayalam. "The king wishes us to coordinate our work. He handles the kingdom." His glance flicked to my sword-belt. "I handle his enemies."
+
+"I handle his European enemies," I said.
+
+De Lannoy's smile thinned. "You handle his horses."
 
 It was not an insult and not quite praise. Just an assessment.
 
@@ -107,13 +111,17 @@ I met his gaze. "You know your infantry and your guns. I know my horses. As long
 
 "Good," he said. "Because whatever we were before, here we are both in the king's service. And he does not tolerate divided command."
 
-He drew a rough map on the table with his finger. "Concealed positions here, here, and here. Overlapping fields of fire. When we advanced in formation, they cut us down like wheat. When we broke formation to find cover, their cavalry appeared on our flanks."
+He drew a rough map on the table with his finger. "Your musketeers here, here, and here. Overlapping fields of fire. When we advanced in formation, your first volleys cut us down like wheat. When we broke formation to find cover, your cavalry appeared on our flanks."
 
-The Travancore forces had not fought like the irregular troops Dutch armies had crushed across Asia. These soldiers reloaded faster than Dutch veterans, maintained formation under fire, and fought with European discipline perfected by commanders who understood how to kill Europeans.
+"I know," I said. "I was the man bringing that cavalry in. Tell me what you saw before my horses hit you. What made you think you could walk inland without fear of riders at your backs."
 
-"They rose from hidden positions and came at us with our own methods," De Lannoy said quietly. "European weapons, European tactics, but better. Faster reloading. Tighter formations. And they knew the ground like we never could."
+He considered, then tapped the map again. "Because on the beaches of Ceylon and Java and Malacca, the men who stood against us were irregulars. Brave, undisciplined, slow to reload, careless with powder. Your Travancore line looked the same at first, scattered behind trees and low walls. But when they rose, they fired by ranks, twice as fast as my veterans. They closed and opened formation on command. They fought like Europeans who had forgotten to be slow."
 
-I understood then. For years before Colachel, Marthanda Varma had been recruiting European military specialists. Portuguese deserters from Cochin and Quilon served as drill instructors and gunsmiths. French engineers built his fortifications. Local Christian armorers, trained by Portuguese craftsmen, maintained his arsenal of muskets and flintlocks. He had studied European methods, then hired Europeans to teach his men how to kill Europeans.
+The Travancore soldiers I had ridden beside had not been the irregular troops Dutch armies had crushed across Asia. They reloaded faster than Dutch veterans, maintained formation under fire, and fought with European discipline perfected by commanders who understood how to kill Europeans.
+
+"They used our own methods," De Lannoy said quietly. "European weapons, European tactics, but better. And they knew the ground like we never could."
+
+I understood then. For years before Colachel, Marthanda Varma had been recruiting European military specialists. Portuguese deserters from Cochin and Quilon served as drill instructors and gunsmithsLocal Christian armorers, trained by Portuguese craftsmen, maintained his arsenal of muskets and flintlocks. He had studied European methods, then hired Europeans to teach his men how to kill Europeans.
 
 "We tried to withdraw," De Lannoy continued. "But their cavalry controlled every escape route. They could have slaughtered us all. Instead, they let enough of us live to carry the message back: Travancore is not prey. In the end only a few dozen of us, barely two dozen European soldiers, were marched in chains to Udayagiri Fort. The rest lay dead or fled."
 
@@ -123,7 +131,7 @@ De Lannoy's smile was thin. "It wasn't a difficult choice."
 
 ### The Network of Information and Influence
 
-The victory at Colachel had been impressive, but as I recovered from my near-drowning and the wounds from Portuguese torture, I began to understand that Marthanda Varma's battlefield victories were only half the story. He had rebuilt the entire kingdom from its foundations.
+The victory at Colachel had been impressive, but over the next year in Travancore, as I recovered from my near-drowning on that beach and from wounds left by Portuguese irons and Dutch lead alike, I began to understand that Marthanda Varma's battlefield victories were only half the story. He had rebuilt the entire kingdom from its foundations.
 
 The old feudal system, where local Nair chieftains ruled their territories like independent princes, was gone. In its place: direct rule from the throne, authority increasingly earned through demonstrated service rather than mere birth, and an intelligence network that made rebellion suicidal.
 
@@ -144,6 +152,8 @@ Marthanda Varma stood before a great map of Travancore laid out on a low table, 
 Ramayyan Dalawa knelt beside the table, blood trickling from a split lip where someone, somewhere, had objected to the night's work a little too loudly.
 
 "Your Majesty," the minister whispered, "the evidence against the Kazhakoottam lord is still circumstantial. A few letters. Rumours. Perhaps we could wait for more proof before..."
+
+The name hit like a musket ball. The Kazhakoottam raja had ridden beside me when I drilled his Nair horsemen for Colachel, laughing in the rain as we taught his men to wheel and feint. I had drunk toddy in his courtyard, listened to him curse Dutch arrogance in Malayalam saltier than the sea.
 
 "Perhaps nothing." The king did not raise his voice; he did not need to. "Tell me, Ramayyan, what happens to kings who wait for traitors to strike first?"
 
@@ -183,7 +193,7 @@ Land seized from executed nobles was redistributed to create thousands of small 
 
 At Udayagiri fort, I watched Nair soldiers drill with muskets, moving in tight formation like European infantry. But when their young officer barked commands in Malayalam rather than Dutch, I understood: this was not imitation but mastery.
 
-Twenty thousand Nair warriors, the Thiruvithamkoor Nair Pattalam, formed the backbone of his army, each man drilled in European tactics until they could match any colonial force. After Colachel, De Lannoy oversaw construction of stone forts at strategic points, each equipped with cannons cast in local foundries from captured Dutch metal. Portuguese deserters and French engineers had taught Travancore's soldiers how to kill Europeans. Now they were perfecting those lessons.
+Twenty thousand Nair warriors, the Thiruvithamkoor Nair Pattalam, formed the backbone of his army, each man drilled in European tactics until they could match any colonial force. After Colachel, De Lannoy oversaw construction of stone forts at strategic points, each equipped with cannons cast in local foundries from captured Dutch metal. Portuguese deserters and other European soldiers of fortune had taught Travancore's troops how to kill Europeans. Now they were perfecting those lessons.
 
 The king had established training centers and court programs where young men studied mathematics, cartography, and the practical science of war. Not to become European, but to match and exceed European capabilities.
 
@@ -215,7 +225,7 @@ The Dutch envoys had no choice but to agree. They had come seeking restoration o
 
 ### Escape
 
-For six months after Colachel, I remained in Travancore. The realization came slowly: I was not a guest. I was being weighed.
+For a year after Colachel, I remained in Travancore. The realization came slowly: I was not a guest. I was being weighed.
 
 The king summoned me often enough to keep me close, rarely enough to remind me of distance. He asked for my opinion on cavalry deployments, on Dutch tactics, on how Marathas organized their horse. He listened, nodded, filed my answers away. But I never sat in the inner circle. I stood at the edge of the lamp light while Ramayyan, temple advisers, and coastal captains argued over maps I was not invited to touch.
 
@@ -229,11 +239,11 @@ One evening, after the Dutch envoys had bowed and gone and De Lannoy had returne
 
 "Only my sword, Your Majesty."
 
-"A poor pillow," he said dryly. Then, more softly: "Stay. I will give you a small cavalry command along our northern marches, a house on this coast where the monsoon smells of pepper instead of blood. You have seen how easily Marathas can be bought by Portuguese silver. I would rather buy one Maratha with honor."
+"A poor pillow," he said dryly. Then, more softly: "Stay. I will give you a cavalry command along our northern marches, a house on this coast where the monsoon smells of pepper instead of blood."
 
 The offer was not small. For most men, land, a command, and safety under a ruler who understood both Europeans and war would have been a lifetime's ambition. But I knew that small border command would never make me more than a useful outsider in a story already being written around De Lannoy and Ramayyan.
 
-But when I closed my eyes, I saw not pepper fields but the black soil of the Deccan, the forts of my people, the graves of comrades who had died believing they fought for something larger than any one king.
+But when I closed my eyes, I saw not pepper fields but the black soil of the Deccan, the forts of my people, the homes of comrades who had died believing they fought for something larger than any one king.
 
 "Your Majesty," I said carefully, "I am grateful. But I am Maratha. I was born under other banners. If I stay, I will always be a stranger in your chronicles."
 
@@ -241,11 +251,11 @@ His eyes narrowed, weighing the risk. "Strangers can be useful."
 
 "Yes," I said. "Until they are not."
 
-He studied me for a long moment, then smiled that thin, sad smile I had come to recognize. "Very well. Go north. Tell your sardars what you have seen here. Tell them Europeans can bleed and that a king in the south has already proven it."
+He studied me for a long moment, then smiled that thin, sad smile I had come to recognize. "Very well. Go north. Tell your sardars what you have seen here. Tell them Europeans can bleed and that a king in the south has already proven it. Here take this." He reached into his pocket and pulled out a purse. "Take it." 
 
 The Tiger of Travancore never wasted anything, not even my refusal. If he could not keep my sword, he would use my tongue.
 
-On the final night of the sixth month, when monsoon rains masked all sound, I walked out through palace courtyards where the guards somehow failed to notice a Maratha officer slipping into the dark. It felt less like an escape than a release.
+On a night near the end of that year, when monsoon rains masked all sound, I walked out through palace courtyards where the guards somehow failed to notice a Maratha officer slipping into the dark. It felt less like an escape than a release.
 
 As I stumbled north through fever and starvation, reaching Maratha territory weeks later, my commanders asked what I had learned in Travancore. I told them everything: the military reforms, the intelligence networks, the governance that had broken European power, the way cavalry, muskets, and sea power had been fused into a single weapon.
 

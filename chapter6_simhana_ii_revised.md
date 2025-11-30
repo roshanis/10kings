@@ -123,7 +123,7 @@ The document was a manual. A systematic guide to overthrowing Sanskrit-based aut
 
 "You found it," came a voice from behind me.
 
-I spun around to find Simhana himself, his eyes glittering with dangerous satisfaction. "Your Majesty, I was simply organizing the archives, "
+I spun around to find Simhana himself, his eyes glittering with dangerous satisfaction. "Your Majesty, I was simply organizing the archives..."
 
 "You were snooping, as scholars do." His smile was coldly amused. "Tell me, *pandit*, what do you think of my little project?"
 

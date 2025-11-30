@@ -7,9 +7,9 @@
 
 **Title:** Blood and Thrones: The Unknown Kings Who Forged India
 **Subtitle:** A Historical Thriller
-**Author:** [Your Name]
+**Author:** RV Menon
 **Language:** English
-**Publication Date:** [Current Date]
+**Publication Date:** [To be set]
 **Page Count:** Approximately 180-220 pages
 **Word Count:** 45,000+ words
 **Format:** eBook and Paperback
@@ -211,10 +211,10 @@ In a series of intimate first-person chronicles, *Blood and Thrones* returns Ind
 ## AUTHOR BIO TEMPLATE
 
 **Short Bio (50 words):**
-[Your Name] is a [background] who specializes in bringing forgotten historical figures to life through dramatic storytelling. [Education/credentials]. Blood and Thrones is [his/her] [first/latest] work exploring the brutal realities of medieval Indian politics.
+RV Menon is a narrative historian and storyteller who specialises in bringing forgotten Indian rulers to life through immersive, character-driven history. Blood and Thrones is his first major work exploring the brutal realities of medieval Indian politics for a general audience.
 
 **Extended Bio (150 words):**
-[Expand with your specific background, education, research experience, and passion for Indian history]
+RV Menon writes at the intersection of narrative history and political thriller. Fascinated by rulers who fall between the cracks of school textbooks, he focuses on forgotten Indian kings, battlefield systems, and the human cost of power. Drawing on chronicles, inscriptions, and modern scholarship, he builds stories from the inside out, through the eyes of soldiers, scribes, spies, and scholars who stood close enough to power to be burned by it. Blood and Thrones is his first full-length work on medieval India, turning ten little-known reigns into a linked cycle of first-person testimonies designed for readers who want both accuracy and momentum. He lives in [City/Country], where he divides his time between archival research, long walks, and planning the next foray into the darker corners of the subcontinent’s past.
 
 ---
 

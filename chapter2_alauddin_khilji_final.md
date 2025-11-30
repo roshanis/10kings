@@ -11,7 +11,7 @@ I can hear them through the stone walls of my cell. Not screams, but worse: the 
 
 "Temur, son of Barak, age eleven."
 
-*Thud.*
+Thud.
 
 Then I hear the slave merchants arriving. The clank of chains. Women's voices, pleading. Children crying for their fathers.
 
@@ -25,9 +25,9 @@ Not for execution. For the slave markets.
 
 The sound I make isn't human. The guards outside my door shift uncomfortably but don't respond. They've heard this sound many times tonight already.
 
-My name is Qutlugh Bahadur. My birth name was Qutlugh of the Merkid tribe, but I took the title "Bahadur," the brave one, when I converted to Islam and entered the service of the Delhi Sultanate. Six hours ago, I was the finest cavalry commander in Delhi. I am the grandson of Toqta'a, a Merkid warrior who fought alongside Hulagu Khan in the conquest of Baghdad. My father Chinqai rode with Negudari governor Abdullah's invasion of Punjab in 1292, when I was thirteen years old. We came to conquer, certain of Mongol invincibility. Alauddin's uncle, Sultan Jalaluddin Khalji, shattered that certainty. Our advance guard under Ulghu was destroyed. Four thousand of us surrendered rather than die. The price of survival was conversion. Islam or death. We chose Islam. They settled us in a suburb they named Mughalpura, the Mongol quarter. A ghetto for converts nobody quite trusted.
+I am Qutlugh Bahadur. My birth name was Qutlugh of the Merkid tribe, but I took the title "Bahadur," the brave one, when I converted to Islam and entered the service of the Delhi Sultanate. Six hours ago, I was the finest cavalry commander in Delhi, the grandson of Toqta'a, a Merkid warrior who fought alongside Hulagu Khan in the conquest of Baghdad. My father Chinqai rode with Negudari governor Abdullah's invasion of Punjab in 1292, when I was thirteen years old. We came to conquer, certain of Mongol invincibility. Alauddin's uncle, Sultan Jalaluddin Khalji, shattered that certainty. Our advance guard under Ulghu was destroyed. Four thousand of us surrendered rather than die. The price of survival was conversion. Islam or death. We chose Islam. They settled us in a suburb they named Mughalpura, the Mongol quarter. A ghetto for converts nobody quite trusted.
 
-For ten years, I commanded horse archers under Sultan Alauddin Khilji, the man who taught us to defeat our own kinsmen through superior tactics and organized warfare. I participated in six campaigns against Mongol invasions. I helped conquer the Deccan kingdoms. I killed my own cousin at the Battle of Kili to prove my loyalty.
+For ten years I commanded horse archers under Sultan Alauddin Khilji, the man who taught us to defeat our own kinsmen through superior tactics and organised warfare. Six campaigns against Mongol invasions, the Deccan kingdoms brought under Delhi's shadow, a cousin killed at the Battle of Kili to prove loyalty.
 
 And then I betrayed him.
 
@@ -45,35 +45,35 @@ Little Temujin passes my cell, clutching a wooden horse, the last thing his fath
 
 "Why am I here, uncle?" he asks through the bars, his eyes wide with confusion.
 
-I have no answer. How do you explain to a child that politics is deadlier than ancestry, that survival requires the elimination of potential threats, even innocent ones? How do you tell him that his father said we were "good Muslims now," but it wasn't enough?
+How do you explain to a child that politics is deadlier than ancestry, that survival requires the elimination of potential threats, even innocent ones? How do you tell him that his father said we were "good Muslims now," but it wasn't enough?
 
-I hear the muezzin's call for the final night prayer. Outside these walls: boots on stone as guards patrol. A woman weeping three cells away, Sergeant Khutlugh's wife, Fatima, pregnant with their third child, waiting to be sold. The scratch of scribes' pens, recording names for the executioner, calculating prices for the slave markets. My own heartbeat, entirely too fast.
+The muezzin's call for the final night prayer drifts into my cell. Outside these walls: boots on stone as guards patrol. A woman weeping three cells away, Sergeant Khutlugh's wife, Fatima, pregnant with their third child, waiting to be sold. The scratch of scribes' pens, recording names for the executioner, calculating prices for the slave markets. My own heartbeat, entirely too fast.
 
-I haven't eaten in two days. I couldn't keep anything down after they started the executions. My beard has grown wild, itching constantly. The chain around my ankle has worn a raw sore that weeps clear fluid and stinks of infection. I smell like fear and unwashed flesh. Three weeks ago, I was a cavalry commander who washed before every prayer. Now I'm an animal waiting for slaughter.
+Two days have passed since I last ate. Anything I try to swallow comes back up. My beard has grown wild, itching constantly. The chain around my ankle has worn a raw sore that weeps clear fluid and stinks of infection. The whole cell reeks of fear and unwashed flesh. Three weeks ago, I was a cavalry commander who washed before every prayer. Now I'm an animal waiting for slaughter.
 
-But before they come for me, before dawn breaks and the executioner calls my name, I need to tell you about the man who changed warfare in India forever. The genius who stopped the Mongol hordes when everyone said it was impossible. The revolutionary who proved that economics wins wars as surely as swords. The Sultan who taught me that the greatest danger isn't your enemies but being useful to a man who sees people as problems to be systematically solved.
+Before they come, before dawn breaks and the executioner calls my name, there is a man you need to know about. The one who changed warfare in India forever. The genius who stopped the Mongol hordes when everyone said it was impossible. The revolutionary who proved that economics wins wars as surely as swords. The Sultan who taught me that the greatest danger isn't your enemies but being useful to someone who sees people as problems to be systematically solved.
 
-I joined his forces in 1298, six years after our surrender, finally trusted enough to command. I married Aisha, daughter of a Persian carpet merchant, that same year. She agreed to move to Mughalpura with me, to live among the converted Mongols. She was my bridge to this new world, patient with my clumsy Arabic, forgiving of my steppes manners. We had two daughters: Yasmin, now seven, too smart for her own good, and Layla, barely three, who didn't understand why the nice soldiers wouldn't let us go home.
+I joined his forces in 1298, six years after our surrender, finally entrusted to command. That same year I married Aisha, daughter of a Persian carpet merchant. She agreed to move to Mughalpura with me, to live among the converted Mongols. She was my bridge to this new world, patient with my clumsy Persian, forgiving of my steppes manners. We had two daughters: Yasmin, now seven, too smart for her own good, and Layla, barely three, who didn't understand why the nice soldiers wouldn't let us go home.
 
 They arrested my family when they arrested me. Commander Jalal's family too: his wife, his three sons, all waiting for dawn. In Alauddin's methodical way, families are kept together until the men are executed and the women and children are sold. A mercy, they call it: one last night together before separation forever.
 
-I call it additional torture. Death would be kinder than what awaits them.
+It is additional torture. Death would be kinder than what awaits them.
 
-I found a sultan who understood warfare better than any Mongol general I had known. He had studied our methods not to copy them, but to perfect them, creating cavalry tactics that exceeded anything achieved by the armies of Karakorum or Samarkand.
+What I found was a sultan who understood warfare better than any Mongol general I had known. He had studied our methods not to copy them, but to perfect them, creating cavalry tactics that exceeded anything achieved by the armies of Karakorum or Samarkand.
 
-But before I tell you about his military genius, you need to understand how he seized power. Because the man who killed his own uncle-in-law to take the throne was the same man who would later kill us for being potentially disloyal.
+Before his military genius, though, his path to the throne needs to be understood. The man who killed his own uncle-in-law to take power was the same man who would later kill us for being potentially disloyal.
 
 ### How Ali Gurshasp Became Alauddin Khilji
 
-The veterans told me the story during my first weeks. How the Sultan was born Ali Gurshasp, orphaned and raised by his uncle Jalaluddin. How that uncle gave him everything: a home, a wife (his own daughter Malika-i-Jahan), positions at court. How Ali Gurshasp thanked him by cutting his throat.
+The veterans told me the story during my first weeks. The Sultan was born Ali Gurshasp, an orphan raised by his uncle Jalaluddin, who gave him everything: a home, a wife (his own daughter Malika-i-Jahan), positions at court. Ali Gurshasp repaid him by cutting his throat.
 
-The marriage was poisonous. Malika-i-Jahan treated him like hired help who'd gotten lucky, reminded him constantly that he was nothing without her father. When he took a second wife (Mahru, sister of Malik Alp Khan), Jalaluddin's daughter attacked the woman in a garden. Alauddin hit back. The old Sultan was too soft to punish him.
+The marriage was poisonous. Malika-i-Jahan treated him like hired help who'd gotten lucky, reminded him constantly that he was nothing without her father. When he took a second wife Mahru, Jalaluddin's daughter attacked the woman in a garden. Alauddin hit back. The old Sultan was too soft to punish him.
 
-After crushing a revolt in 1291, he became governor of Kara. The dead governor's officers whispered to him: you want power? You need gold.
+After crushing a revolt in 1291, he became governor of Kara. The dead governor's officers whispered a secret to him: you want power? You need gold.
 
-So he raided Bhilsa in 1293, came back loaded, and gave every coin to Jalaluddin. Perfect loyalty. The Sultan made him Minister of War and authorized him to recruit troops. What Alauddin didn't mention: the merchants at Bhilsa had told him about Devagiri, a Yadava capital drowning in wealth.
+So he raided Bhilsa in 1293, came back loaded, and gave every coin to Jalaluddin. Perfect loyalty. The Sultan made him Minister of War and authorized him to recruit troops. The merchants at Bhilsa had already whispered a more tempting secret to Alauddin: Devagiri, a Yadava capital drowning in wealth.
 
-In 1296, he plundered Devagiri. Took everything straight to Kara instead of Delhi. When Jalaluddin's advisors begged him to intercept the nephew, the Sultan refused. Believed in family.
+In 1296, he plundered Devagiri but decamped to Kara with the spoils instead of dispatching it to Delhi. Jalaluddin's advisors begged him to intercept the nephew, but the old Sultan refused, believing in family.
 
 Alauddin sent a letter begging forgiveness. Jalaluddin sent a pardon. The messengers who delivered it saw war preparations. Alauddin detained them.
 
@@ -101,7 +101,7 @@ Back in Delhi, chaos. Jalaluddin's widow, the same woman who'd made Alauddin's l
 
 The Yamuna finally dropped in October. Alauddin crossed and continued toward Delhi. Young Ruknuddin gathered what forces he could and marched out to stop him. At midnight, half of Ruknuddin's army switched sides. The boy ran for Multan with his mother and whatever nobles hadn't abandoned him.
 
-Three months after killing his uncle, Alauddin entered Delhi. They proclaimed him Sultan on the 21st of October, 1296.
+Three months after killing his uncle, Alauddin entered Delhi. I stood in the alleys of Mughalpura with other converts and old soldiers, watching his column ride past like a moving wall of steel, all of us craning for a glimpse of the man who had killed a Sultan and meant to become one. They proclaimed him Sultan on the 21st of October, 1296.
 
 ### Consolidating Power Through Fear and Generosity
 
@@ -121,7 +121,7 @@ All those nobles who'd abandoned Jalaluddin to support Alauddin, the seven who'd
 
 Three men survived. Just three: Malik Qutbuddin Alavi, Malik Nasiruddin Rana, Malik Amir Jamal Khalji. Out of dozens of powerful nobles, he kept three alive. Replaced everyone else with his own people.
 
-I joined his service the next year. By then, I understood exactly what I was walking into. A sultan who treated loyalty like currency. Who could give you gold and titles one day, then take your eyes the next. Who saw every person as a potential problem requiring a permanent solution.
+I joined his service the next year. By then, I understood exactly what I was walking into. A sultan who treated loyalty like currency. He would give you gold and titles one day, then take your eyes the next. Every person was a potential problem requiring a permanent solution.
 
 But I also understood that it worked. Absolute ruthlessness created absolute control. And absolute control won wars.
 
@@ -129,7 +129,7 @@ But I also understood that it worked. Absolute ruthlessness created absolute con
 
 By the time I took my oath in 1298, Alauddin had already changed how Delhi took wealth from the land.
 
-After early Mongol raids and court conspiracies he reached a simple conclusion: you don't prevent rebellion with soldiers alone. You keep potential rebels poor and watched, and you keep a permanent army ready to crush anyone who moves.
+After early Mongol raids and court conspiracies he reached a simple conclusion: you don't prevent rebellion with soldiers alone. You keep potential rebels poor,under watch, and a permanent army loyal andready to crush anyone who moves.
 
 The real danger lay in village chiefs and Hindu landholders who ruled the countryside like minor kings, rich enough to keep horses, weapons, and private armies. So he broke them.
 
@@ -137,9 +137,7 @@ Half of everything, that was his demand. Fifty percent of every harvest, collect
 
 For generations, local chiefs had collected taxes and passed only a portion to Delhi, growing fat on the difference. Alauddin sent his own collectors straight to the plough. He seized the chiefs’ horses and weapons, confiscated their savings, and reduced men who had lived like lords to the same level as the peasants they had once squeezed.
 
-To the farmers, he sold it as liberation: no more illegal fees, no more petty extortion, just the state taking its lawful share. In truth, after paying half to Delhi most had barely enough left to replant and feed their families. The village tyrant was gone; the capital replaced him.
-
-The enforcement machine was frightening. An entire bureaucracy of accountants, auditors, tax officers, inspectors, and spies lived off revenue work. They were well paid, but any hint of bribery or false accounts meant mutilation or execution. Alauddin checked discrepancies personally, no matter how small. Rich landlord or poor cultivator, everyone feared the revenue clerks.
+ It was a liberation, he told the farmers. No more illegal fees, no more petty extortion, just the state taking its lawful share. In truth, after paying half to Delhi most had barely enough left to replant and feed their families. The village tyrant was gone; the capital replaced him. The enforcement machine was frightening. An entire bureaucracy of accountants, auditors, tax officers, inspectors, and spies lived off revenue work. They were well paid, but any hint of bribery or false accounts meant mutilation or execution. Alauddin checked discrepancies personally, no matter how small. Rich landlord or poor cultivator, everyone feared the revenue clerks.
 
 On top of this he kept the standard jizya and zakat, then added taxes on houses and grazing land with no basis in religious law. Jurists protested; he ignored them. He rewrote the rules on war booty too: instead of taking a fifth, he took four-fifths. Soldiers kept almost nothing.
 
@@ -153,13 +151,11 @@ Serving under that system, I learned something darker: a man who solves every pr
 
 ### The Mongol Who Learned to Defeat Mongols
 
-Growing up, my grandfather told me stories of Subutai, greatest of all Mongol generals. How he could coordinate armies across a thousand miles. How he understood that victory came from mobility, from striking where the enemy was weakest, from knowing when to retreat and when to charge.
+Growing up, my grandfather told me stories of Subutai, greatest of all Mongol generals, a man who could coordinate armies across a thousand miles and who knew that victory came from mobility, from striking where the enemy was weakest, from knowing when to retreat and when to charge.
 
 Alauddin learned all of it. And then he made it better.
 
-I saw it clearly because I'd been raised in both worlds. Mongol cavalry relied on tribal bonds, brothers who'd grown up together, cousins who knew each other's movements without words. Powerful, yes. But limited. You couldn't expand beyond your tribe, couldn't build something that outlasted individual warriors.
-
-Alauddin built professional regiments. Trained them until they moved like brothers even if they'd met six months ago. Paid them enough to stay loyal without tribal bonds. The horse archer company I commanded had men from a dozen different backgrounds, Mongols like me, Turks, Persians, even converted Hindus. We drilled together until we could execute complex maneuvers at full gallop, every man knowing his role, every unit coordinating like a single organism.
+I saw it clearly because I'd been raised in both worlds. Mongol cavalry relied on tribal bonds, brothers who'd grown up together, cousins who knew each other's movements without words. Powerful, yes. But limited. Alauddin built professional regiments intermeixed with Hindus and Turks. Trained them until they moved like brothers even if they'd met six months ago. Paid them enough to stay loyal without tribal bonds. The horse archer company I commanded had men from a dozen different backgrounds, Mongols like me, Turks, Persians, even converted Hindus. We drilled together until we could execute complex maneuvers at full gallop, every man knowing his role, every unit coordinating like a single organism.
 
 Traditional Mongol tactics depended on individual skill. Alauddin created systems. During the 1301 Ranthambore campaign, I watched him coordinate three horse archer regiments in a flanking movement that would have made Subutai weep with envy. We functioned as both harassment forces and breakthrough shock cavalry, switching roles mid-battle based on horn signals.
 
@@ -171,11 +167,7 @@ Most rulers command from the rear. Alauddin commanded from wherever the fighting
 
 I learned to respect courage above all else in my Mongol upbringing. This sultan would have earned honor in any tribe from the Gobi to the Caspian.
 
-The siege of Chittor in 1303. The Rajput defenders had turned every approach into a killing ground. The stones there were so hot from the sun that you could fry meat on them. We lost more men to heatstroke than to arrows that first week. The smell of siege, unwashed bodies, rotting horses, burning oil, made every breath an exercise in discipline.
-
-Alauddin established his command position within arrow range of the walls.
-
-We thought he was mad. When we questioned this decision, he smiled and said, "A general who will not face the arrows aimed at his soldiers will soon find that his soldiers will not face the arrows aimed at his enemies."
+The siege of Chittor began in 1303. The Rajput defenders had turned every approach into a killing ground. The stones there were so hot from the sun that you could fry meat on them. We lost more men to heatstroke than to arrows that first week. The smell of siege, unwashed bodies, rotting horses, burning oil, made every breath an exercise in discipline. Alauddin established his command position within arrow range of the walls. We thought he was mad. When we questioned this decision, he smiled and said, "A general who will not face the arrows aimed at his soldiers will soon find that his soldiers will not face the arrows aimed at his enemies."
 
 Three days later, an arrow punched through the canvas and embedded itself in the post beside his head. He didn't flinch. Just pulled it out, examined the fletching, and remarked that the Rajputs still used inferior feathers.
 
@@ -223,13 +215,11 @@ But I could still smell the smoke. Still hear that boy calling for his mother.
 
 ### The Military Leadership
 
-Zafar Khan was the bravest man I ever knew.
-
-Not the shrewdest, not the most political, but the bravest. When other generals weighed odds and escape routes, Zafar Khan calculated only one thing: how many enemies he could take with him if he died.
+Zafar Khan was the bravest man I ever knew. Not the shrewdest, not the most political, but the bravest. When other generals weighed odds and escape routes, Zafar Khan calculated only one thing: how many enemies he could take with him if he died.
 
 In Sindh I watched him hold a gap in our lines alone against a Mongol breakthrough, his curved saber rising and falling like a reaper's scythe, cutting riders out of their saddles while their ponies screamed and crashed into one another. By the time we reformed behind him, the ground at his feet was slick with blood and littered with broken arrow shafts. When I asked why he’d risked himself that way, he snorted. "I'm a soldier, boy. Dying is the easy part. It's living with what we do that's hard."
 
-At Kili in 1299, he led the charge that shattered the Mongol center and ended the invasion, spurring his armoured horse straight into the densest knot of our former kinsmen, riding so far beyond our defensive lines that saving him was impossible. He died the way he’d lived, reckless, fearless, and utterly committed. Thousands of Mongols fell that day, their lamellar armor split open by Indian steel. Zafar spent his life like coin to buy that victory.
+At Kili in 1299, he led the charge that shattered the Mongol center and ended the invasion, spurring his armored horse straight into the densest knot of our former kinsmen, riding so far beyond our defensive lines that saving him was impossible. He died the way he’d lived, reckless, fearless, and utterly committed. Thousands of Mongols fell that day, their lamellar armor split open by Indian steel. Zafar spent his life like coin to buy that victory.
 
 From this cell, waiting for my own execution, I measure myself against him. Zafar never attended conspirators’ dinners. Never sat quietly while treason was discussed. He just served, bravely, blindly, completely. He died with honor in the field. I will die with my daughters screaming in the slave markets. Perhaps the madly brave are the lucky ones.
 
@@ -293,7 +283,7 @@ Now, in this cell awaiting execution for being Mongol, I sometimes wonder if som
 
 Later invasions tested everything we had built. In 1303, Targhi's army pushed so deep into the sultanate that Delhi itself was besieged while Alauddin campaigned at Chittor. Our horse archer tactics, harassing their siege lines, striking supply routes, never staying still long enough to be trapped, kept the city alive until the Sultan rode back.
 
-When he arrived, he personally led the sortie that shattered the siege, and I rode beside him in that charge. We saved Delhi, but I could not shake the suspicion that he had let the Mongols come close enough to terrify the city on purpose. Only a terrified population accepts chains as easily as we did.
+When he arrived, he personally led the sortie that shattered the siege, and I proudly rode beside him in that charge. We saved Delhi, but I could not shake the suspicion that he had let the Mongols come close enough to terrify the city on purpose. Only a terrified population accepts chains as easily as we did.
 
 ### The Gujarat Campaign: The Price of Conquest
 
@@ -329,7 +319,7 @@ I knew what he meant. Every Mongol convert knew. We were the best cavalry comman
 
 "I'm tired of proving myself," Abachi said quietly. "Aren't you?"
 
-I was. By all the gods and prophets, I was.
+I was. By the prophet, I was.
 
 So I went to the dinner.
 
@@ -360,26 +350,6 @@ Then they came for me at dawn.
 The charge was simple: "Attended conspiracy meeting. Failed to report treason. Guilty by presence."
 
 And they were right. I was guilty. Not of the grand conspiracy Abachi planned, but of something worse: I'd heard treason proposed and stayed silent because part of me, the angry, tired, Mongol part, agreed with it.
-
----
-
-Two cells down from me, I can hear Commander Jalal. We were at the same dinner. Sat at the same table. Heard the same treasonous proposals.
-
-But Jalal went further than I did. He didn't just listen, he coordinated with Pandya forces. Recruited other officers. Actually acted on the conspiracy.
-
-His execution is scheduled three hours after mine.
-
-Jalal calls out through the stone: "You should have gone all the way, Qutlugh! If you're going to betray, betray completely! Sitting on the fence just meant you died anyway!"
-
-He's right. I'm dying for half-treason. For the sin of listening without committing. All the guilt, none of the glory.
-
-"At least tell me it was worth it," I call back. "Tell me you felt free when you contacted the Pandyas. Tell me it was worth your children's lives."
-
-Silence. Then: "My children were going to be slaves either way, brother. At least mine will know their father fought back."
-
-Maybe. Or maybe his children will just be slaves who know their father was a traitor.
-
-I don't know which is worse.
 
 ### The Great Purge: My Condemnation
 
