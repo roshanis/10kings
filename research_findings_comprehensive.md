@@ -4,7 +4,7 @@
 
 ---
 
-## Chapter 1: Marthanda Varma (1706-1758) - Research Findings
+## Chapter 1: Anizham Thirunal Marthanda Varma (1706-1758) - Research Findings
 
 ### Battle of Colachel (1741) - Verified Details
 
