@@ -6,7 +6,8 @@ This document tracks all generated illustrations for the "10 Kings" project, inc
 | Filename | Description | Status |
 |---|---|---|
 | `illustrations/chapter_1_marthanda_varma_portrait.png` | Portrait of Marthanda Varma (Corrected with Kuduma) | **Complete** |
-| `illustrations/chapter_1_narrator_bhimrao_holkar.png` | Portrait of Narrator Bhimrao Holkar (Maratha Warrior) | **Complete** |
+| `illustrations/chapter_1_narrator_bhimrao_holkar.png` | Portrait of Narrator Bhimrao Holkar (Younger, Maratha Style) | **Complete** |
+| `illustrations/chapter_1_narrator_bhimrao_holkar_v1_archived.png` | Previous Version of Narrator Portrait | **Archived** |
 | `illustrations/chapter_1_battle_of_colachel.png` | Scene: Battle of Colachel (Cavalry Charge) | **Complete** |
 | `illustrations/chapter_1_padmanabhapuram_palace.png` | Scene: Padmanabhapuram Palace Architecture | **Complete** |
 
