@@ -173,7 +173,7 @@ The answer we both knew hung in the air between us. Our entire system was built 
 
 Vishnu Das was arrested within the day, tried within three days, and executed within the week. His family was dispossessed of his properties. His name was struck from the rolls of administrators and entered into the records as a traitor to the sultanate.
 
-After his death, long after when it could no longer matter, we discovered through other channels that the meetings had indeed been personal. He had been arranging marriages for his daughters to Rajput families, negotiating dowries and alliances that would secure
+After his death, long after when it could no longer matter, we discovered through other channels that the meetings had indeed been personal. He had been arranging marriages for his daughters to Rajput families, negotiating dowries and alliances that would secure his daughters' futures.
 
 He had died for the crime of conducting family business without proper governmental oversight. He had died because our system could not distinguish between innocent privacy and dangerous conspiracy. He had died because we had created mechanisms of control so comprehensive that they left no space for ordinary human life.
 

@@ -65,5 +65,13 @@ This document tracks all generated illustrations for the "10 Kings" project, inc
 ## Chapter 10: Raja Bhoja Paramara
 | Filename | Description | Status |
 |---|---|---|
-| `illustrations/chapter_10_raja_bhoja_portrait.png` | Portrait of Raja Bhoja | **Complete** |
 | `illustrations/chapter_10_narrator_abu_nasr_al_utbi.png` | Portrait of Narrator Abu Nasr al-Utbi | **Complete** |
+
+## Pending Scene Illustrations (To Be Generated)
+| Chapter | Description | Status |
+|---|---|---|
+| **Chapter 5** | Naval Landing at Sri Lanka OR Siege of Kannanur Koppam | **Pending** |
+| **Chapter 6** | Simhana II Reading the Marathi Decree in the Famine Council | **Pending** |
+| **Chapter 7** | The Night of the Golden Ledgers (Balban & Raihan) | **Pending** |
+| **Chapter 8** | The Thunder of Two Hundred Thousand (Elephant Army at Devarakonda) | **Pending** |
+| **Cover** | Book Cover Design (Crown, Map, Sword & Quill) | **Pending** |

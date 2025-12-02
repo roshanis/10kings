@@ -31,7 +31,7 @@ The message was unmistakable. Unlike the other Hindu kings we had encountered, w
 
 ### The Builder's Obsession
 
-What made Vidyadhara truly dangerous was not his fanaticism, we had encountered that before, but the methodical care with which he had prepared for war. When our intelligence agents finally penetrated his territories, they reported something we had never seen: a Hindu ruler who studied Islamic military methods with the same devotion he applied to temple architecture.
+What made Vidyadhara truly dangerous was not his fanaticism—we had encountered that before—but the methodical care with which he had prepared for war. When our intelligence agents finally penetrated his territories, they reported something we had never seen: a Hindu ruler who studied Islamic military methods with the same devotion he applied to temple architecture.
 
 His capital at Khajuraho was not merely a city but a vast arsenal disguised as a religious center. While pilgrims came to worship at his magnificent temples, his engineers tested siege engines in the courtyards behind the sanctuaries. While sculptors carved dancing apsaras on temple walls, his blacksmiths forged weapons to counter Turkish armor and cavalry tactics.
 

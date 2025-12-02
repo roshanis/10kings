@@ -77,7 +77,7 @@ The plan was elegant in its simplicity: three powerful kingdoms would attack the
 
 "It should have worked," admitted Krishnadeva, Bhoja's former diplomatic secretary, when I interviewed him in the ruins of the foreign ministry. "His Majesty's analysis was strategically sound, his coordination precise, his timing impeccable. The failure came not from flawed planning but from flawed personalities."
 
-The elderly diplomat's hands shook as he showed me copies of the intercepted correspondence that had revealed the alliance's internal contradictions. "Rajendra Chola was a brilliant general but an impossible ally. He demanded the largest share of conquered territory while contributing the smallest number of troops. Gangeyadeva was more reasonable but completely untrustworthy, we discovered he was secretly negotiating with Chalukya agents even while planning their destruction."
+The elderly diplomat's hands shook as he showed me copies of the intercepted correspondence that had revealed the alliance's internal contradictions. "Rajendra Chola was a brilliant general but an impossible ally. He demanded the largest share of conquered territory while contributing the smallest number of troops. Gangeyadeva was more reasonable but completely untrustworthy; we discovered he was secretly negotiating with Chalukya agents even while planning their destruction."
 
 But the deeper problem, according to Krishnadeva, was Bhoja's own nature. "His Majesty could not resist instructing his allies as though they were students rather than sovereigns. During strategy meetings, he would lecture Rajendra on military history and correct Gangeyadeva's understanding of political theory. Both men began to view the alliance as instruction rather than partnership."
 
