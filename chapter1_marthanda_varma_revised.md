@@ -33,7 +33,7 @@ Fishermen had dragged me from the surf and, seeing the scars on my arms and the 
 
 They brought me to a coastal hall near the king's war council above the Colachel shore, not as an honoured guest but as a weapon to be inspected.
 
-Anizham Thirunal Marthanda Varma did not wait in some distant palace. He sat on a low dais amid campaign chests and rolled maps, a man who had cut his own path to power through blood. Even half-conscious from fever, I recognised the type. I had seen ambitious generals, ruthless sardars, petty kings clinging to power. But this was something rarer: a ruler who had forged war and governance into a single instrument.
+The king did not wait in some distant palace. He sat on a low dais amid campaign chests and rolled maps, a man who had cut his own path to power through blood. Even half-conscious from fever, I recognised the type. I had seen ambitious generals, ruthless sardars, petty kings clinging to power. But this was something rarer: a ruler who had forged war and governance into a single instrument.
 
 "You are Maratha," he said, studying me as a smith studies a new blade. "You fought Portuguese on the Konkan coast. You have led cavalry against men with guns."
 
