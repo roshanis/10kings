@@ -67,11 +67,11 @@ This document tracks all generated illustrations for the "10 Kings" project, inc
 |---|---|---|
 | `illustrations/chapter_10_narrator_abu_nasr_al_utbi.png` | Portrait of Narrator Abu Nasr al-Utbi | **Complete** |
 
-## Pending Scene Illustrations (To Be Generated)
+## Scene Illustrations
 | Chapter | Description | Status |
 |---|---|---|
-| **Chapter 5** | Naval Landing at Sri Lanka OR Siege of Kannanur Koppam | **Pending** |
-| **Chapter 6** | Simhana II Reading the Marathi Decree in the Famine Council | **Pending** |
-| **Chapter 7** | The Night of the Golden Ledgers (Balban & Raihan) | **Pending** |
-| **Chapter 8** | The Thunder of Two Hundred Thousand (Elephant Army at Devarakonda) | **Pending** |
-| **Cover** | Book Cover Design (Crown, Map, Sword & Quill) | **Pending** |
+| **Chapter 5** | `illustrations/chapter_5_naval_landing_sri_lanka.png` | Naval Landing at Sri Lanka | **Complete** |
+| **Chapter 6** | `illustrations/chapter_6_simhana_reading_decree.png` | Simhana II Reading the Marathi Decree | **Complete** |
+| **Chapter 7** | `illustrations/chapter_7_night_of_golden_ledgers.png` | The Night of the Golden Ledgers | **Complete** |
+| **Chapter 8** | `illustrations/chapter_8_elephant_army_scene.png` | The Thunder of Two Hundred Thousand | **Complete** |
+| **Cover** | `illustrations/book_cover_crown_map_sword.png` | Book Cover Design | **Complete** |
