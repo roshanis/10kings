@@ -9,7 +9,15 @@
 
 The summer of 1204 burned across the Deccan plateau like divine punishment. For four months, not a drop of rain had fallen on the parched fields of Maharashtra, and the wells that had sustained villages for centuries ran dry as bone.
 
-I was with King Simhana in the emergency council session when the village headman from Junnar staggered through the palace doors, his weathered face gray with desperation, his hands clutching a rolled document as if it were his last hope.
+I had seen the drought's work with my own eyes on the road to Devagiri. The earth cracked like old leather, fissures wide enough to swallow a man's foot. Cattle lay dead in the fields, their hides stretched tight over ribs, their eyes pecked out by crows. The air itself tasted of dust and decay, a gritty film that coated your tongue and made every breath feel like chewing sand.
+
+But it was the children I could not forget. In one village, I had stopped to offer water from my traveling flask to a mother holding an infant. The child was too weak to cry, its skin hanging loose on bones that seemed ready to pierce through. When I looked into the mother's eyes, I saw something worse than desperation. I saw the knowledge that her child would die, and that she could do nothing.
+
+"*Pandit*," she had whispered, "can you read the king's order? They say there is grain, but we cannot understand the words."
+
+I had read it for her. The Sanskrit phrases that meant life or death. And I had ridden on, haunted by the question: how many villages had no Sanskrit scholar to translate hope into action?
+
+I was with King Simhana in the emergency council session when the village *patil* from Junnar staggered through the palace doors, his weathered face gray with desperation, his hands clutching a rolled document as if it were his last hope. He smelled of the road, of sweat and dust and the sour reek of a man who had not eaten in days.
 
 "*Mahārāja*," he gasped, thrusting the royal decree forward. "Forgive me, but the words... I cannot..."
 
@@ -45,13 +53,33 @@ As a Sanskrit scholar, I confess these words troubled me deeply. Yet I could not
 
 Within three months of that famine council, I watched the king's decree ripple through the administration like a stone cast into still water. Every royal order, every court judgment, every tax assessment that had once been inscribed in Sanskrit now appeared in Marathi.
 
-The resistance was immediate and fierce. My fellow scholars protested that this degraded the dignity of governance. The Brahmins warned that the gods themselves spoke Sanskrit, and to abandon it in official matters courted divine displeasure. Senior administrators complained that centuries of precedent were being swept aside.
+The resistance was immediate and fierce. My fellow scholars protested that this degraded the dignity of governance. The Brahmins warned that the gods themselves spoke Sanskrit, and to abandon it in official matters courted divine displeasure. Senior *deshpandes* and *kulkarnis* complained that centuries of precedent were being swept aside.
 
-But Simhana was unmoved. "Let the gods speak Sanskrit in temples," he told his council. "In courts and treasuries, we shall speak the language of the people we govern."
+I confess I was among those who resisted. In the scholars' quarters that night, I joined a gathering of outraged *pandits* who spoke of the king's madness, of tradition betrayed, of sacred learning profaned.
+
+"He will destroy everything we have built," hissed Govinda Shastri, the eldest among us. "For a thousand years, Sanskrit has been the language of kings. Now this... this upstart would reduce governance to the babble of peasants."
+
+"Perhaps," I said carefully, "the king has seen something we have not."
+
+The room went silent. Govinda's eyes narrowed. "You defend this sacrilege?"
+
+"I saw children dying on the road," I replied. "I saw a mother whose infant was starving because she could not read the grain distribution order. I wonder if our tradition is worth their lives."
+
+Govinda stepped closer, close enough that I could smell the betel on his breath. "Be careful, Vaidyanatha. Very careful. Those who betray the sacred tongue will find themselves without friends in the courts of any kingdom. Sanskrit binds us together, a brotherhood that spans from the Himalayas to Lanka. Would you trade that for the approval of a single king?"
+
+The threat was clear. My position, my livelihood, my entire scholarly network depended on Sanskrit's supremacy. To support Simhana's revolution was to cut myself off from everything I had built.
+
+But I could not forget that infant's face. I could not forget the mother's eyes.
+
+"I will observe," I said finally. "And judge by results rather than precedent."
+
+Govinda spat at my feet and walked away. Half the scholars in the room followed him. The other half watched me with eyes that held either sympathy or calculation. I had made myself suspect to both sides.
+
+But Simhana was unmoved by the scholars' protests. "Let the gods speak Sanskrit in temples," he told his council. "In courts and treasuries, we shall speak the language of the people we govern."
 
 I confess I expected chaos. How could unlettered village headmen suddenly conduct legal proceedings? How could merchants untrained in classical learning draft binding contracts?
 
-Yet what unfolded surprised even the king's supporters. Within a year, the courts that had once operated through layers of Sanskrit-educated intermediaries now heard cases directly from litigants who could speak for themselves. The merchant who had previously paid scribes to translate his petitions could now present his own case. The farmer who had never understood the tax assessment written in Sanskrit could now read precisely what he owed and why.
+Yet what unfolded surprised even the king's supporters. Within a year, the *nyayalaya* courts that had once operated through layers of Sanskrit-educated intermediaries now heard cases directly from litigants who could speak for themselves. The *vanik* merchant who had previously paid scribes to translate his petitions could now present his own case. The *kunbi* farmer who had never understood the tax assessment written in Sanskrit could now read precisely what he owed and why.
 
 The efficiency gains were undeniable. Disputes that had languished for months while awaiting translation and interpretation were now resolved in weeks. Trade contracts, once mysteries to those who signed them, became comprehensible documents. Even military orders, which had sometimes been garbled in translation from Sanskrit to the soldiers' Marathi, now reached the ranks with clarity.
 
@@ -105,17 +133,37 @@ I served briefly as an instructor in one such school and watched this approach w
 
 This, I came to understand, was not the abandonment of traditional learning but its expansion. Sanskrit scholarship continued, but it no longer served as a barrier that kept most people from any learning at all. Knowledge became something accessible to talent rather than merely to those whose families could afford years of expensive education.
 
-The kingdom benefited from this opening of opportunity. Bright young men from modest backgrounds could now aspire to positions that had once been reserved for Sanskrit-educated elites. The administration filled with capable officials who understood both common needs and governance requirements because they came from those same common origins.
+The kingdom benefited from this opening of opportunity. Bright young men from modest backgrounds, sons of *kunbis* and *malis* and *sutars*, could now aspire to positions that had once been reserved for Sanskrit-educated elites. The administration filled with capable officials who understood both common needs and governance requirements because they came from those same common origins. I watched a gardener's son become a *kamavisdar*, a revenue officer, within five years of learning to read Marathi. Under the old system, he would have remained illiterate until death.
 
 ### The Economic Impact
 
-Trade, law, and administration changed as quickly as the language on our decrees. I watched merchants, scribes, and village headmen discover that once they could read the rules in Marathi, wealth, justice, and royal orders all moved with a new, unsettling efficiency.
+Trade, law, and administration changed as quickly as the language on our decrees. I watched *vaniks*, *kulkarnis*, and village *patils* discover that once they could read the rules in Marathi, wealth, justice, and royal orders all moved with a new, unsettling efficiency.
 
 By the time Simhana died in 1247, Marathi had become the tongue in which ordinary people met their king. Sanskrit scholarship endured, but it now shared space with a vernacular that carried both grain orders and sacred verse. I left Devagiri knowing I had witnessed not just a policy but the birth of a different way of being ruled.
 
+### The Price of Choosing
+
+The consequences of my choice came three months after Govinda Shastri spat at my feet.
+
+I was walking through the *angadi* marketplace near the scholars' quarters when they found me. Four men, their faces covered with cloth, their hands gripping *lathis*, the heavy bamboo staves that could shatter bone. They said nothing. They simply surrounded me in an alley between the spice sellers and the cloth merchants, where the smell of turmeric and sweat was thick enough to choke on.
+
+The first blow caught me across the shoulders. I went down onto the packed earth, tasting blood and dirt. The second blow found my ribs. The third, my back.
+
+"*Gaddar*," one of them hissed. Traitor. "*Sanskrit-drohi*." Betrayer of Sanskrit.
+
+I curled into a ball, trying to protect my head, while the blows rained down. I heard my own voice crying out, heard the distant shouts of merchants who would not intervene, heard the crack of bamboo against my own flesh.
+
+Then, as suddenly as they had appeared, they were gone. I lay in the alley for what felt like hours, bleeding into the dust, watching ants crawl past my face. When I finally dragged myself back to my quarters, I found a message pinned to my door in elegant Sanskrit script:
+
+*"The brotherhood remembers its traitors."*
+
+I should have fled then. Should have abandoned Simhana's revolution and begged forgiveness from the Sanskrit establishment that had made me. But when I closed my eyes, I still saw that infant's face. I still heard the mother asking if I could read the king's order.
+
+Some wounds heal. Some questions never stop burning.
+
 ### The Scholar's Discovery
 
-As I gathered my scrolls and prepared to leave the Yadava court for my next appointment in the north, I discovered something that chilled my scholarly blood. Hidden in the depths of the royal archives, wrapped in silk and sealed with wax that bore no royal mark, I found a document that would haunt me for the rest of my days.
+As I gathered my scrolls and prepared to leave the Yadava court for my next appointment in the north, still limping from the beating I had received months earlier, I discovered something that chilled my scholarly blood. Hidden in the depths of the royal archives, wrapped in silk and sealed with wax that bore no royal mark, I found a document that would haunt me for the rest of my days.
 
 It was written entirely in Marathi, not surprising, given Simhana's linguistic revolution. But the content was treasonous beyond imagination.
 
