@@ -37,7 +37,7 @@ He paused, letting the weight of that truth settle upon us all.
 
 "This ends today."
 
-I remember the king citing Mukundaraja, the philosopher-poet whose Marathi verses on Vedantic truth were already passing from village to village. "If such divine truths can be expressed in our mother tongue," Simhana said, "then surely earthly governance can be conducted in the language the people actually speak."
+I remember the king citing Mukundaraja, the philosopher-poet whose Marathi masterpiece, *Vivekasindhu*, was already passing from village to village. "If such divine truths can be expressed in our mother tongue," Simhana said, "then surely earthly governance can be conducted in the language the people actually speak."
 
 As a Sanskrit scholar, I confess these words troubled me deeply. Yet I could not deny their logic. This was not mere prejudice against Sanskrit but a reasoned argument that common understanding might serve governance better than ancient authority.
 
@@ -61,9 +61,9 @@ But the change that surprised me most was not administrative but literary. I had
 
 How wrong I was.
 
-The first Marathi poet to receive royal patronage was Mukundaraja, whose verses on Vedantic philosophy demonstrated that abstract spiritual concepts could be rendered in the vernacular without loss of subtlety or depth. I remember reading his work with grudging admiration, then genuine awe. The man was composing philosophy of remarkable sophistication, yet any educated person could understand him without years of Sanskrit study.
+The first Marathi poet to receive royal patronage was Mukundaraja, whose *Vivekasindhu* demonstrated that abstract spiritual concepts could be rendered in the vernacular without loss of subtlety or depth. I remember reading his work with grudging admiration, then genuine awe. The man was composing philosophy of remarkable sophistication, yet any educated person could understand him without years of Sanskrit study.
 
-Then came the devotional poets, the *bhakti* singers who transformed religious experience from elite ritual into popular movement. Their verses spread through villages like monsoon rain, carrying spiritual teachings to people who had never set foot in a Sanskrit school.
+Then came the radical wanderers, men like Chakradhar Swami who founded the Mahanubhava sect. They rejected the old hierarchies entirely, preaching in the common tongue and transforming religious experience from elite ritual into popular movement. Their teachings spread through villages like monsoon rain, carrying spiritual truths to people who had never set foot in a Sanskrit school.
 
 I watched this flowering with mixed feelings. Part of me mourned the diminishment of Sanskrit's privileged position. But another part, the part that loved learning itself regardless of language, could not help but rejoice. Knowledge was spreading. Wisdom was reaching minds that had been locked out by linguistic barriers.
 
@@ -147,6 +147,6 @@ The linguistic revolution had begun. And I was its unwilling messenger.
 
 *End of Chapter 6*
 
-**Historical Note:** Simhana II Yadava's systematic elevation of Marathi to official status (1200-1247 CE) marked a crucial turning point in Indian linguistic and cultural development, establishing the first major precedent for regional language assertion in medieval India. His policies demonstrated that vernacular languages could serve the purposes of governance and literature while preserving rather than erasing traditional Sanskrit learning. The Yadava dynasty's innovations influenced Maharashtra's distinctive identity and provided templates for linguistic policies later adopted in other regions. The secret pan-Indian "manual" for overthrowing Sanskrit-based authority and its dissemination, as depicted in this chapter, are fictional devices used to dramatize real tensions around language, power, and Brahmin dominance.
+**Historical Note:** Simhana II Yadava's systematic elevation of Marathi to official status (1200-1247 CE) marked a crucial turning point in Indian linguistic and cultural development. His reign coincided with the composition of Mukundaraja's *Vivekasindhu* (c. 1188 CE) and the subsequent rise of the Mahanubhava sect under Chakradhar Swami, both of which cemented Marathi's status as a language of philosophy and devotion. While the specific "secret manual" is a fictional device, the tension between Sanskrit-based traditionalism and the emerging vernacular power was very real. The Yadava dynasty's innovations established the template for regional identity in Maharashtra that would fully bloom under later saints like Dnyaneshwar.
 
 *[Editor's Note: While Vaidyanatha Shastri is a fictional character, Sanskrit scholars were indeed employed in Yadava courts during the linguistic transition. The systematic elevation of Marathi in official documents represents one of the earliest and most successful examples of regional language assertion in medieval India, establishing patterns that would influence cultural development for centuries.]*

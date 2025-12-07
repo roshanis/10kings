@@ -15,15 +15,15 @@ The Brahmaputra, or Luit as the Ahom call her, runs differently in Assam. She is
 
 Lachit Borphukan grew up on this river. He knew her temper the way a son knows his mother's moods, instinctively and intimately, with the kind of understanding that cannot be learned from maps or military manuals. The Mughals came from the central lands of India, where rivers were obstacles to be crossed or resources to be controlled. They did not understand that here, the Brahmaputra was not merely terrain but an ally that would fight beside the Ahom if properly respected.
 
-Among our officers, stories about him travelled faster than official dispatches. Some claimed he had once beheaded his own uncle on the ramparts of a fort, Momai-kota they called it, to punish negligence in construction and remind every officer that duty to the kingdom came before blood. Whether the tale was true or not hardly mattered. Men fought differently when they believed their enemy would sacrifice his own kin to keep a wall from crumbling.
+Among our officers, the story wasn't just a rumor; it was a warning. They said that during the frantic preparations for these very defenses, Lachit had found his own maternal uncle, whom he had tasked with building a crucial mud rampart overnight, sleeping while his men rested. Without hesitation, Lachit had drawn his *hengdang* and severed the man's head, declaring to the stunned laborers, "My uncle is not greater than my country." The wall was finished before dawn. Whether the tale was true or not hardly mattered. Men fought differently when they believed their commander would sacrifice his own kin to keep a fortification from falling.
 
-As a Portuguese firangi serving with the Mughal imperial forces under Ram Singh I, I had witnessed the fall of kingdoms across India to Mughal artillery and organisation. When we approached Assam in 1670, I expected to find another regional power preparing for inevitable submission to Aurangzeb's imperial machine.
+As a Portuguese *firangi* serving with the Mughal imperial forces under Ram Singh I, I had witnessed the fall of kingdoms across India to Mughal artillery and organisation. When we approached Assam in 1670, I expected to find another regional power preparing for inevitable submission to Aurangzeb's imperial machine. The Ahom called their king the *Swargadeo*, the Lord of Heaven, but I had seen many lords of heaven brought low by Mughal cannons.
 
-Instead, I discovered something far more profitable, a kingdom whose commander understood that European mercenaries like me could be bought, and whose gold was worth more than any loyalty I might pretend to feel toward the Mughals. The river would become my fortune, and Lachit Borphukan would be the paymaster who made it happen.
+Instead, I discovered something far more profitable: a kingdom whose commander understood that European mercenaries like me could be bought, and whose gold was worth more than any loyalty I might pretend to feel toward the Mughals. The river would become my fortune, and Lachit Borphukan would be the paymaster who made it happen.
 
 But first, I had to help him win.
 
-Let me be clear about what I am. I am a mercenary, a firangi who has served Portuguese, Dutch, Maratha, and now Mughal interests, whoever pays the best rate for European gunnery expertise. Loyalty is a luxury for men who own land and titles. For men like me, who live by skill and wit, loyalty is a commodity to be sold to the highest bidder.
+Let me be clear about what I am. I am a mercenary, a *firangi* who has served Portuguese, Dutch, Maratha, and now Mughal interests, whoever pays the best rate for European gunnery expertise. Loyalty is a luxury for men who own land and titles. For men like me, who live by skill and wit, loyalty is a commodity to be sold to the highest bidder.
 
 I became a traitor not through careful seduction, but through capture and pragmatic calculation.
 
@@ -89,7 +89,7 @@ I appreciated his directness. We were both professionals engaged in a business t
 
 For the first time, something like doubt flickered across his face. He coughed, harder this time, flecks of blood staining the cloth.
 
-"You think I'm confident?" His voice was harsh. "I'm dying, *firangi*. This consumption will kill me within a year, perhaps less. The Mughals have sent the largest army Assam has ever faced. Thirty thousand professional soldiers against my fifteen thousand. Their artillery reduces fortresses that stood for centuries. Their cavalry has crushed kingdoms from Delhi to Bengal. At Alaboi, we watched thousands of Ahom warriors die on open ground because we misjudged Mughal strength. I will not repeat that mistake."
+"You think I'm confident?" His voice was harsh. "I'm dying, *firangi*. This consumption will kill me within a year, perhaps less. The Mughals have sent the largest army Assam has ever faced. Thirty thousand professional soldiers against my fifteen thousand. Their artillery reduces fortresses that stood for centuries. Their cavalry has crushed kingdoms from Delhi to Bengal. At Alaboi, two years ago, we watched ten thousand Ahom *paiks* slaughtered on open ground because our *Swargadeo* insisted on a direct attack. We fought on their terms, and we bled for it. The *Borgohain* and *Buragohain*, our highest nobles, lost sons that day. I will not repeat that mistake."
 
 He stood, began pacing despite the obvious pain it caused him.
 
@@ -193,11 +193,11 @@ My reports to Lachit also included detailed assessments of Ahom military capabil
 
 The weapons systems the Ahom had developed were more sophisticated than Ram Singh's intelligence had suggested. Their arsenal included five types of cannons, eleven types of matchlock guns, and 1,200 ramchangis (light field pieces that could be rapidly repositioned during battle). These weapons were mounted on small, maneuverable boats that could outfight our larger vessels through superior tactical coordination.
 
-What impressed me most was their elite Hiloidari Konwars, a regiment of musketeer princes whose marksmanship exceeded that of most imperial troops. These aristocratic warriors combined traditional Ahom martial skills with advanced firearms training, creating a military unit that possessed both social authority and technical expertise. Their matchlocks, fired with burning cannon fuse, could deliver accurate volleys that disrupted formations while their noble status ensured absolute loyalty to Lachit's tactical innovations.
+What impressed me most was their elite *Hiloidari Phukan*, a regiment of musketeer princes whose marksmanship exceeded that of most imperial troops. These aristocratic warriors combined traditional Ahom martial skills with advanced firearms training, creating a military unit that possessed both social authority and technical expertise. Their matchlocks, fired with burning cannon fuse, could deliver accurate volleys that disrupted formations while their noble status ensured absolute loyalty to Lachit's tactical innovations.
 
 I reported these capabilities to Ram Singh, of course, but carefully minimized their significance. "The Ahom possess adequate firearms," I told him, "but lack the professional training and organizational discipline of imperial forces. Their noble warriors are competent but not exceptional by European standards."
 
-This was a lie. The Hiloidari Konwars were exceptional by any standard, and I knew they would be devastating against Mughal forces fighting under the conditions Lachit was preparing.
+This was a lie. The *Hiloidari Phukan* were exceptional by any standard, and I knew they would be devastating against Mughal forces fighting under the conditions Lachit was preparing.
 
 Meanwhile, I reported to Lachit that my assessments of his forces were being dismissed as unthreatening by Mughal command. "Ram Singh believes your warriors lack the discipline to stand against professional imperial troops," I told him during one of our meetings. "He is planning tactics based on that assumption."
 
@@ -269,15 +269,15 @@ The signal flags dropped, and our fleet surged forward. Artillery boomed as we o
 
 Then the Ahom boats emerged from channels that did not appear on our charts.
 
-They came from everywhere at once: reed banks that dissolved into flotillas of small, swift vessels; side channels we had dismissed as too shallow for military use; positions hidden behind the river's islands and sandbars. Dozens of boats, then hundreds, swarming toward our line with coordinated precision that spoke of months of intensive training.
+They came from everywhere at once: reed banks that dissolved into flotillas of small, swift *bacharis* and war canoes; side channels we had dismissed as too shallow for military use; positions hidden behind the river's *chaparis*, the shifting islands and sandbars that only the Ahom knew how to navigate. Dozens of boats, then hundreds, swarming toward our line with coordinated precision that spoke of months of intensive training under their *Pani Phukan*, the admiral of river warfare.
 
 "*Madre de Deus!*" I screamed as the first Ahom boats crashed into our hull with a crack like breaking bones. Their tactics were suicidal, ramming directly into larger vessels, crews leaping aboard before our gunners could depress their cannons to fire at close range. But the tactics worked because they had been designed specifically to neutralize our firepower advantage.
 
-Single-edged daos flashed in the morning sun. The Ahom warrior who landed beside me opened the throat of our gunner with a single stroke, his blade moving with practiced efficiency. Blood sprayed across the bronze cannon, and the deck became slippery with gore.
+Single-edged *daos* flashed in the morning sun. The Ahom *paik* who landed beside me was barely sixteen, face serene as a temple carving. His *dao*, the leaf-shaped blade that was the signature weapon of Assamese warfare, moved in a chopping arc that was nothing like the curved slashes of Mughal talwars. Where our swords cut, the *dao* cleaved, the weight of the blade doing the killing work. He opened the throat of our gunner with a single stroke, the motion almost casual, already pivoting toward his next target before the body hit the deck. Blood sprayed across the bronze cannon in a fine mist that tasted of copper when I inhaled.
 
-I raised my pistol and fired into the smoke, the shot going deliberately wide. Then I stumbled backward as if driven by fear, putting distance between myself and the fighting while maintaining the appearance of engagement. Other Purtuguese gunners fought desperately around their artillery pieces, but without infantry support, they were being overwhelmed by Ahom boarding parties.
+I raised my pistol and fired into the smoke, the shot going deliberately wide. Then I stumbled backward as if driven by fear, putting distance between myself and the fighting while maintaining the appearance of engagement. Other Portuguese gunners fought desperately around their artillery pieces, but without infantry support, they were being overwhelmed by Ahom *paiks* whose jungle warfare training made them devastating in close quarters.
 
-Our larger vessels, which should have been our advantage, became death traps. The Ahom boats were too small, too quick, too numerous. They darted between our warships, appearing from reed channels we had not even known existed. Their bamboo pikes punched through armor, and their bamboo-shafted arrows with iron heads, many tipped with river poisons, found every gap in our defenses.
+Our larger vessels, which should have been our advantage, became death traps. The Ahom boats were too small, too quick, too numerous. They darted between our warships, appearing from reed channels we had not even known existed. Their bamboo pikes, hardened in fire until they could punch through quilted armor, found the gaps between our men's defenses. Their arrows, bamboo-shafted with iron heads, many tips darkened with *bihor* poison from the river plants, turned every wound into a death sentence. I watched a Rajput cavalryman, serving as marine infantry, take an arrow through his forearm. A minor wound. He was dead within minutes, convulsing as the poison stopped his heart.
 
 Acrid gunpowder smoke mixed with the copper stench of blood and the sweet-sick smell of fear-sweat. Men screamed in Portuguese, Hindi, Rajasthani, and a dozen other languages as they died far from home, serving an emperor they had never met.
 
@@ -294,6 +294,22 @@ The musket ball caught him in the spine as he turned to direct the rear guard. T
 It was exactly as I had predicted to Lachit. Without Munnawar Khan's steady voice cutting through the battle noise, our fleet's coordination dissolved into chaos. Ship captains who had been following coordinated tactics suddenly found themselves fighting isolated battles, each vessel surrounded by swarms of Ahom attackers whose knowledge of every current and sandbar turned the Brahmaputra into their ally.
 
 I had killed him as surely as if I had fired the shot myself. The intelligence I provided had made his death not just possible but inevitable.
+
+Then I saw Miguel.
+
+He was a boy from Lisbon, barely nineteen, who had joined our expedition because he dreamed of adventure in the East. He had shared his wine with me three nights ago, told me about the girl he planned to marry when he returned home with his fortune. He had asked my advice about artillery, called me "Captain" with a respect I did not deserve.
+
+Now he lay against the gunwale, his hands pressed to his stomach where an Ahom pike had opened him. His intestines bulged between his fingers, glistening like wet rope. He was crying, not screaming, just crying quietly, calling for his mother in Portuguese.
+
+"*Mãe... mãe...*"
+
+I could have helped him. Could have at least held his hand as he died. Instead, I stepped over his body and continued my calculated retreat toward survival. His eyes followed me, confused, betrayed.
+
+He died alone, twenty feet from where I pretended to fight.
+
+I tell myself I had no choice. That stopping would have exposed me, endangered the mission, risked the gold. But here is the truth I have never spoken: I could have given him thirty seconds of comfort, and I chose not to. Because mercenaries do not stop for dying boys. Because sentiment is a luxury I had sold along with my loyalty.
+
+Miguel's face stays with me still. Not Admiral Munnawar Khan, whose death was business. Miguel, whose death was simply convenient.
 
 The decisive factor was the superior knowledge of local conditions that allowed Ahom forces to exploit currents, depths, and seasonal variations that Mughal commanders had not anticipated. Vessels that appeared to be retreating were actually drawing enemy ships into positions where they could be attacked from multiple directions by boats emerging from channels that did not appear on Mughal charts.
 
@@ -343,7 +359,7 @@ The Marwari traders asked no questions. They cared only that their commissions w
 
 I learned of Lachit Borphukan's death in April 1672, only months after his greatest victory. The news reached me in Goa, where I had established myself in modest comfort, my fortune secured through the hawala network.
 
-The consumption that had ravaged him throughout the campaign had finally claimed his life. He died knowing he had saved his kingdom, proving that indigenous military innovations could defeat the most powerful empire in Asia.
+The consumption that had ravaged him throughout the campaign had finally claimed his life. He died at Jorhat, surrounded by the *Borgohain* and *Buragohain* and the officers who had fought beside him at Saraighat. They say the *Swargadeo* himself came to honor the *Borphukan* who had saved the kingdom. He died knowing he had preserved Ahom independence, proving that indigenous military innovations could defeat the most powerful empire in Asia.
 
 I poured wine and drank to his memory. Not because I admired him (though I did) but because he had paid me fairly for services rendered. In a world of broken promises and betrayed contracts, that counted for something.
 

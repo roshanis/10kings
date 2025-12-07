@@ -7,15 +7,23 @@
 
 ### The Day the World Burned
 
-I remember the smell of Warangal burning. Smoke and sandalwood, blood and jasmine; the fortress-city's final breath mixed with the prayers of the dying. It was the late 1320s, and I was twenty-two years old, a Moplah warrior far from the pepper-scented shores of Malabar, learning that war respects neither faith nor fortune.
+I remember the smell of Kampili burning. Smoke and sandalwood, blood and jasmine; the fortress-city's final breath mixed with the prayers of the dying. It was 1327, and I was twenty-two years old, a Moplah warrior far from the pepper-scented shores of Malabar, learning that war respects neither faith nor fortune.
 
-My birth name was Ibrahim, but most people called me al-Malabari, though that name has meant different things in different moments of my life. My ancestors were Arab traders who married into Kerala's coastal villages, bringing Islam to mix with the monsoon winds and Malayalam tongue. We Moplahs were neither fully Arab nor fully Malayali, neither quite foreign nor completely native, a people born of the sea's meeting with the shore, belonging to both and neither. By the time I reached Warangal, I spoke Malayalam from birth, enough Telugu to negotiate service with Deccan lords, and the Persian phrases traders and *qazis* used for contracts and prayers.
+My birth name was Ibrahim, but most people called me al-Malabari, though that name has meant different things in different moments of my life. My ancestors were Arab traders who married into Kerala's coastal villages, bringing Islam to mix with the monsoon winds and Malayalam tongue. We *Mappilas*, as the Malayalis called us, were neither fully Arab nor fully Malayali, neither quite foreign nor completely native, a people born of the sea's meeting with the shore, belonging to both and neither. We prayed toward Mecca but spoke Malayalam at home, recited the Quran but trained in *kalari payattu*, the ancient martial art of Kerala. By the time I reached Kampili, I spoke Malayalam from birth, enough Telugu to negotiate service with Deccan lords, and the Persian phrases traders and *qazis* used for contracts and prayers.
 
-I had come to Warangal as a mercenary captain in service to a Telugu lord whose name I can no longer recall. The gold was good, the cause seemed just, and I was young enough to believe that a Muslim fighting for Hindu lords against Muslim conquest made me sophisticated rather than confused. The Delhi Sultanate's armies, I told myself, were foreign invaders. I was defending my homeland, or near enough to it that the distinction didn't trouble my conscience.
+I had come to Kampili as a mercenary captain in service to King Kampilideva. The gold was good, the cause seemed just, and I was young enough to believe that a Muslim fighting for Hindu lords against Muslim conquest made me sophisticated rather than confused. The Delhi Sultanate's armies, I told myself, were foreign invaders. I was defending my homeland, or near enough to it that the distinction didn't trouble my conscience.
 
 Then the walls fell, and distinctions stopped mattering.
 
-I was in the eastern quarter when Muhammad bin Tughluq's forces broke through. War drums rolled along the ramparts, then the first tide of soldiers poured through the shattered gate, mail shirts under quilted cotton coats, round shields painted with the Sultan's colours. My fifteen Moplahs formed a knot in the mouth of a narrow lane, curved Malabari blades in our hands. For a few heartbeats we held, our steel biting into the front ranks, slicing through cloth armour, turning faces into red ruin. Then the weight of numbers told. A Delhi footman swung a flanged iron mace that caught my sword arm just above the wrist. Bone cracked, my fingers opened, and I went down in a tangle of bodies and broken stone.
+I was in the eastern quarter when Muhammad bin Tughluq's forces broke through. War drums rolled along the ramparts, then the first tide of soldiers poured through the shattered gate, mail shirts under quilted cotton coats, round shields painted with the Sultan's colours. 
+
+My fifteen Moplahs formed a knot in the mouth of a narrow lane. We carried the weapons of our coast: the *kattari*, the push-dagger that punches through mail at close quarters, and the *vaal*, the curved Malabar sword designed for the close fighting of ship decks and jungle ambush. Some of my men wore the coiled *urumi* at their waists, the flexible whip-sword that could slice through multiple opponents in a single sweep but required a lifetime of *kalari* training to wield without cutting yourself.
+
+For a few heartbeats we held. My *vaal* caught a Delhi swordsman's tulwar on the curved edge and turned it aside, the Malabar steel singing against Sultanate iron. I drove the blade into his armpit where the mail gaped, felt the resistance of muscle, the scrape of rib, the sudden give as the point found his heart. Blood sprayed hot across my forearm, and the smell of it, copper and salt and something like raw meat, mixed with the sandalwood smoke drifting from the burning temples.
+
+The man beside me, Yusuf, took a spear through his throat. He had been my lieutenant for three years. He made a sound like a wet cough and fell against me, his blood painting my chest. I could not stop to mourn. There was only the next blade, the next thrust, the dance of steel that the *kalari* masters had drilled into my muscles since childhood.
+
+Then the weight of numbers told. A Delhi footman swung a flanged iron mace that caught my sword arm just above the wrist. Bone cracked, my *vaal* clattered to the stones, my fingers suddenly useless. I went down in a tangle of bodies and broken stone, Yusuf's blood still warm on my skin.
 
 They chained me in the main square, along with hundreds of other captives: nobles and soldiers, priests and merchants, anyone who might fetch a price in Delhi's slave markets. I was bleeding, my arm hanging useless, my mind cycling through prayers in Arabic that felt hollow against the screaming around me.
 
@@ -27,7 +35,7 @@ Our eyes met across the blood-soaked square, and he took in my features, the Ara
 
 "You," he called to me in halting Telugu, testing whether I understood. "You fought bravely, my friend." I should not have answered. Engaging with fellow captives would be punished. But something in his voice, desperation mixed with fierce intelligence, made me whisper in Kannada. "Yes, Raya, but you and your brother were magnificent."
 
-"The Sultan's men," Bukka continued, his voice low and urgent. "When they come to sort us, when they ask who among us speaks Arabic or knows Islam, what will they do?" I understood his question immediately. We both knew what happened next: the sorting, the forced conversions, the categorization of human beings into useful and useless. My Muslim name would be cause for instant beheading, his Hindu identity would destroy him.
+"The Sultan's men," Bukka continued, his voice low and urgent. "When they come to sort us, when they ask who among us speaks Arabic or knows Islam, what will they do?" I understood his question immediately. We both knew what happened next: the sorting, the forced conversions, the categorisation of human beings into useful and useless. My Muslim name would be cause for instant beheading, his Hindu identity would destroy him.
 
 "They will treat Muslims differently," I said quietly. "Not well, necessarily. But differently."
 
@@ -47,7 +55,7 @@ I did not know then that Hakka would carry that conviction for the rest of his l
 
 ### The Price of Prayer
 
-They held our trials in one of the mosques that Tughluq's forces had constructed from the rubble of Warangal's temples. The irony was not subtle, justice administered in a building made from the bones of conquered gods.
+They held our trials in one of the mosques that Tughluq's forces had constructed from the rubble of Kampili's temples. The irony was not subtle, justice administered in a building made from the bones of conquered gods.
 
 I stood before the qazi alongside eleven other Moplah warriors who had survived the battle. The charge was clear: we had raised weapons against the Sultan's lawful conquest. The sentence was death, unless we could prove our service to Islam outweighed our rebellion.
 
@@ -71,7 +79,7 @@ Bukka walked with his spine straight, his eyes cataloging everything. When his g
 
 That evening, I maneuvered to be present during their processing. As a southerner who spoke enough Telugu to be understood, I was often called to help translate when Southern captives arrived.
 
-"You," Bukka said when he saw me, his voice carefully neutral. "The Moplah from Warangal."
+"You," Bukka said when he saw me, his voice carefully neutral. "The Moplah from Kampili."
 
 "Ibrahim al-Malabari." I gave him my name for the first time. "Raya, you survived the conversion."
 
@@ -90,8 +98,6 @@ There was no accusation in his voice, only statement of fact. But the truth sat 
 I should have been wary of that promise. Instead, I heard only the invitation to matter, to be useful, to belong to something larger than survival.
 
 "Yes," I said. "I will help you."
-
-Both Bukka and Hakka were impressive physically and smart with royal bearing and the Delhi Sultanate needed generals like them to conquer and hold the vast southern kingdoms, natives but well versed in Persian and Islam.
 
 I did not see Hakka watching from across the courtyard, his face twisted with disgust at his brother's alliance with a Muslim.
 
@@ -149,11 +155,11 @@ That night, Hakka confronted his brother. Their argument leaked through the canv
 
 Useful. Not trusted. Not beloved. Useful.
 
-I should have heard the warning in that word.
+I should have been wary of that warning.
 
 ### The Founding
 
-I was there when Bukka and Hakka met the revered sage, Vidyaranya on the banks of the Tungabhadra River. The sage looked at me with my Muslim dress and Arab features, and I braced for rejection. Surprisingly the sage smiled. "A Moplah warrior. How fitting. This kingdom will survive only if it can integrate the best of all worlds."
+I was there when Bukka and Hakka met the revered sage, Vidyaranya, on the banks of the Tungabhadra River. The *Swami* looked at me with my Muslim dress and Arab features, and I braced for rejection. Surprisingly the sage smiled. "A *Mappila* warrior. How fitting. This kingdom will survive only if it can integrate the best of all worlds."
 
 "He is Muslim," Hakka said flatly. "He should not be here."
 
@@ -179,7 +185,7 @@ After the fort fell, victorious soldiers shouted praise to Hindu gods, and Brahm
 
 The change began slowly; I almost did not notice.
 
-I watched their reconversion from the shade of a neem tree above the Tungabhadra. Brahmin priests led Bukka and Hakka waist-deep into the river, chanting Sanskrit verses that rolled across the water. New sacred threads, wet and white, were looped over their bare shoulders as they emerged, their chests smeared with sandalwood paste while old iron slave manacles from Delhi lay rusting in a brass tray at the water's edge. When Bukka turned toward the assembled nobles, the cheer that went up sounded like a kingdom exhaling.
+I watched their reconversion from the shade of a neem tree above the Tungabhadra. Brahmin priests led Bukka and Hakka waist-deep into the river, chanting Sanskrit verses for the *prayaschitta*, the great penance that would cleanse them of their years in captivity. New sacred threads, wet and white, were looped over their bare shoulders as they emerged, their chests smeared with sandalwood paste while old iron slave manacles from Delhi lay rusting in a brass tray at the water's edge. When Bukka turned toward the assembled nobles, the cheer that went up sounded like a kingdom exhaling.
 
 After that, he seemed different. Lighter. Freer. But also more distant.
 
@@ -259,7 +265,7 @@ Twenty-seven years of friendship. Long years in captivity together. Decades help
 
 Two dozen pearls.
 
-"You should return to Malabar," Bukka continued, his voice gentle, almost kind. "To your people. You have been away so long. Surely you miss the coast, the monsoon winds, the Malayalam tongue. You could use these to establish yourself in trade, perhaps marry, live comfortably."
+"You should return to Malabar," Bukka continued, his voice gentle, almost kind. "To your people. You have been away so long. Surely you miss the coast, the *thekkini* monsoon winds, the Malayalam tongue. The *Zamorin* of Kozhikode welcomes *Mappila* warriors. You could use these pearls to establish yourself in the pepper trade, perhaps marry, live comfortably."
 
 "You are dismissing me."
 
@@ -285,9 +291,9 @@ I picked up the sandalwood box with its pearls, my payment for twenty-seven year
 
 ### The Return
 
-I am seventy-one years old now, dictating these words from a small house in Calicut that I purchased with Bukka's pearls. The pearls lasted ten years. I have lived the last eight on the charity of distant relatives who remember that I am Moplah, even if they do not understand what I did with my life.
+I am seventy-one years old now, dictating these words from a small house in Kozhikode that I purchased with Bukka's pearls. The *angadi* merchants still call it Calicut in their trade records, but to us it has always been Kozhikode, the fortified palace by the sea. The pearls lasted ten years. I have lived the last eight on the charity of distant relatives who remember that I am *Mappila*, even if they do not understand what I did with my life. Sometimes, when the monsoon winds blow inland from the Arabian Sea, I smell pepper and sandalwood and I am transported back to that burning fortress, to the beginning of everything.
 
-Sometimes traders come through with news from the Deccan. They say Vijayanagara has grown mighty, that Bukka's successors rule a vast empire, that the kingdom stands as a bulwark against Islamic expansion. They ask if I knew Bukka Raya I, if I served in the early days.
+Sometimes traders come through the *angadi* with news from the Deccan. They say Vijayanagara has grown mighty, that Bukka's successors rule a vast empire, that the kingdom stands as a bulwark against Islamic expansion. They ask if I knew Bukka *Raya*, the great king, if I served in the early days.
 
 I tell them no.
 
