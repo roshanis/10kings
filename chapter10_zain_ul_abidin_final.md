@@ -137,11 +137,11 @@ Mercy has enemies on all sides.
 
 Back in Srinagar, the Budshah's policy of recalling exiled Pandits, ending forced conversions, and restoring some temple grants had made him enemies among the more rigid jurists. At the same time, many Hindus whispered that he had not gone far enough, that he should rebuild every shrine himself as penance for his father's acts.
 
-Tension finally boiled over in the market by the Shah Hamadan mosque.
+Tension finally boiled over in the market by the Shah Hamadan *khanqah*.
 
-It began with a small thing, as such fires do. A Muslim butcher's boy bumped into a Hindu saffron trader, spilling a pouch of precious spice into the mud. A slap, a curse, a shout, and soon a knot of men were shoving each other, hands reaching for knives, for iron scales, for whatever lay near.
+It began with a small thing, as such fires do. A Muslim butcher's boy bumped into a Hindu saffron trader, spilling a pouch of precious spice into the mud. A slap, a curse, a shout, and soon a knot of men were shoving each other, hands reaching for *churra* knives, for iron scales, for whatever lay near.
 
-Within minutes, the narrow street became a battlefield. Shopfronts shuttered in panic, but shutters are thin armor against rage. Stones flew. Someone threw a torch. A wooden awning caught, then another. Flames leapt from stall to stall while feet pounded on planks above, people fleeing along second storey walkways that shook under their weight.
+Within minutes, the narrow street became a battlefield. Shopfronts shuttered in panic, but shutters are thin armor against rage. Stones flew. I saw a grocer (a man I knew, who sold me charcoal every week) take a brick to the temple; he dropped without a sound, his blood pooling in the melting snow. Someone threw a torch. A wooden awning caught, then another. Flames leapt from stall to stall while feet pounded on planks above, people fleeing along second storey walkways that shook under their weight. The smoke mixed with the smell of burning saffron, an obscene perfume.
 
 I was there to buy charcoal for the foundry. I pressed myself against a wall, heart hammering, as a group of men rushed past, some with tilak on their foreheads, some with green headscarves, all with murder in their eyes, all equally deaf to reason.
 
@@ -177,9 +177,9 @@ Outside, angry men in both temples and mosques hissed that he was soft, that he 
 
 ### The Weight Of Mercy
 
-In his last winter, his hair white under his fur cap, the Budshah liked to take a small boat out onto Dal Lake at dusk, when the water turned to beaten silver and the mountains around it wore shawls of snow.
+In his last winter, his hair white under his fur cap, the Budshah liked to take a small *shikara* boat out onto Dal Lake at dusk, when the water turned to beaten silver and the mountains around it wore shawls of snow.
 
-He would sit with a plain wool blanket over his knees, a single guard at the prow, and listen.
+He would sit with a plain wool blanket over his knees, a *kangri* fire-pot warming his hands beneath his *pheran*, a single guard at the prow, and listen.
 
 Not to singers, though we had many. Not to courtiers, who always spoke with an ear to the future.
 

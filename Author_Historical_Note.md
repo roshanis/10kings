@@ -9,10 +9,10 @@ Below is a chapter-by-chapter guide to what is broadly grounded in the record ve
 - **Historical core:** The defeat of the Dutch at Colachel (1741), De Lannoy's defection and service to Travancore, Travancore's military reforms, and Marthanda Varma's consolidation of power against Nair chiefs are all attested in contemporary and later sources.
 - **Fictional elements:** The Maratha narrator, detailed conversations with De Lannoy and Ramayyan Dalawa, and the specific mechanics of intelligence operations are imagined but consistent with the political and military structures of 18th‑century Travancore.
 
-## Chapter 2 – Raja Dahir (Sindh)
+## Chapter 2 – Raja Suhaldev (Shravasti)
 
-- **Historical core:** Dahir's defeat by Muhammad bin Qasim (712 CE), the role of the pirate raid pretext, the use of naphtha/fireworks against his elephant, and the internal divisions (Buddhist governors surrendering) are detailed in the *Chach Nama*.
-- **Fictional elements:** Bhandara (the Buddhist governor/traitor narrator), the specific inner monologues regarding the "betrayal," and the exact sensory details of the final riverside battle are dramatized to explore the theme of internal fracture in the face of invasion.
+- **Historical core:** Suhaldev's victory over the Ghaznavid general Salar Masud at Bahraich (1034 CE) is a pivotal, though historically debated, event that checked Islamic expansion into the Gangetic plains for over a century.
+- **Fictional elements:** Badri (the Pasi scout narrator), the specific tactical details of the "Battle of Bahraich," and the dialogue emphasizing local clan unity are creative reconstructions to bring the semi-legendary event to life.
 
 ## Chapter 3 – Lachit Borphukan (Ahom Kingdom)
 
