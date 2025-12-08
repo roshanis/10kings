@@ -34,25 +34,25 @@ Below is a chapter-by-chapter guide to what is broadly grounded in the record ve
 - **Historical core:** The Yadava court at Devagiri, Marathi's rise as a literary and administrative language in the 13th century, and figures like Mukundaraja and later Jnaneshwar signal a real vernacular turn in the region.
 - **Fictional elements:** Vaidyanatha Shastri (the Sanskrit chronicler), the famine‑council scene, the specific decree chronology, and the inner debates about "polluting" Sanskrit by using it with commoners are dramatizations that compress and personalize a long, complex linguistic shift.
 
-## Chapter 7 – Ghiyas ud din Balban (Delhi Sultanate)
+## Chapter 7 – Rana Kumbha (Mewar)
 
-- **Historical core:** Balban's background as a slave‑noble, his rise through the Chihalgani, the assertion of divine kingship (Zil‑i‑ilahi), the harsh suppression of the Forty, the Dagh and Chehra branding systems, and the development of a more systematic intelligence apparatus are attested in Persian chronicles.
-- **Fictional elements:** Imad al‑Din Raihan (the dying spymaster), the exact inner workings of the Barid network as described, and individual cases like Vishnu Das are invented to explore the human cost of making governance "machine‑like."
+- **Historical core:** Kumbha's reign (c. 1433–1468), his massive fortification projects notably Kumbhalgarh, his victories against the Sultans of Malwa and Gujarat (Battle of Sarangpur), and his assassination by his son Uday Singh are well attested in Rajput chronicles and inscriptions.
+- **Fictional elements:** Kavi Narayan (the Charan poet narrator), the specific night sortie at Kumbhalgarh, and the dialogue during the final confrontation at Eklingji are dramatized to capture the ethos of Rajput resistance and architectural ambition.
 
 ## Chapter 8 – Kapilendra Deva (Gajapati Empire)
 
 - **Historical core:** Kapilendra's usurpation of the Eastern Ganga throne, his expansion from Kalinga into the Deccan and Bengal, his large elephant corps, and multi‑front wars against Vijayanagara, Bahmani, and Bengal are supported by inscriptions and regional chronicles.
 - **Fictional elements:** The Bahmani narrator, the precise numbers (five thousand elephants as a symbolic exaggeration), the Devarakonda battle details, and specific intelligence‑operation vignettes are fictionalized but built on real geopolitical pressures and military practices of 15th‑century eastern India.
 
-## Chapter 9 – Vidyadhara Chandela (Chandela Kingdom)
+## Chapter 9 – Alauddin Husain Shah (Bengal)
 
-- **Historical core:** Vidyadhara's resistance to Mahmud of Ghazni, the strength of Kalinjar, and the artistic and architectural achievements at Khajuraho (especially Kandariya Mahadeva) are well known. Later traditions remember Chandela resistance as a check on Ghaznavid expansion.
-- **Fictional elements:** Captain Siyavash ibn Ahmad (the Persian engineer‑narrator), the detailed night‑attack machinery, and the specific siege device designs are imaginative extrapolations from real fortification and elephant warfare practices.
+- **Historical core:** Husain Shah's reign (1494–1519), his expansion into Kamarupa and Orissa, his reliance on riverine naval power, his pragmatic religious policies, and the early contact with Portuguese traders are grounded in Bengali and Persian histories of the Sultanate period.
+- **Fictional elements:** Gopal Das Majhi (the boat captain narrator), the detailed mechanics of the night raid, and the specific conversations regarding the Portuguese threat are invented to illustrate the unique river-based warfare of the delta.
 
-## Chapter 10 – Raja Bhoja Paramara (Malwa)
+## Chapter 10 – Zain-ul-Abidin (Kashmir)
 
-- **Historical core:** Bhoja's reign from Dhara, his reputation as a prolific scholar‑king, his architectural and literary patronage, and his eventual defeat by combined enemies (notably the Chalukyas) are well documented in inscriptional and textual tradition.
-- **Fictional elements:** Abu Nasr al‑Utbi as a late investigator in ruined Dhara, the "three letters" conspiracy, the specific metallurgy manuscript that bleeds, and the unfinished "Mirror of the Scholar‑King" manual are narrative devices used to personify the real tension between Bhoja's intellectual ambition and his political vulnerability.
+- **Historical core:** Zain-ul-Abidin's reign (c. 1420–1470), his reversal of his father's iconoclastic policies, his return of exiled Pandits, his patronage of arts, and his canal/bridge projects are historical facts recorded in the Rajatarangini continuations (Jonaraja, Srivara).
+- **Fictional elements:** Pandit Jayendra Bhat (the bronze caster narrator), the specific market riot scene, and the bell-casting metaphor are fictionalized to personalize the complex reality of his policy of religious tolerance ("Sulh-i-kul").
 
 ---
 
