@@ -121,9 +121,11 @@ When we finally descended into the rebellious valley, the contrast with Srinagar
 
 Mercy had ridden with us as far as the pass. It did not climb those walls.
 
-The siege was swift and surgical. Our carpenters felled trees for ladders, our archers pinned men to battlements, our sappers undermined a gate tower with quiet, relentless labor. When the wall section cracked and slumped inward with a groan, soldiers poured through like water.
+The siege was swift and surgical. Our carpenters felled trees for ladders, our archers with their *kaman* bows pinned men to battlements, our sappers undermined a gate tower with quiet, relentless labor. Men worked through nights so cold their breath froze on their beards. When the wall section cracked and slumped inward with a groan, soldiers poured through with their *dhups* (the curved Kashmiri swords) and *churras* (the short knives every mountain man carries).
 
-I watched from a hill as flames licked at the fortress roofs. The rebel governor was dragged out in chains, his beard caked with ash. His sons were taken as hostages, their faces pale with fear. The Budshah ordered the confiscation of the family's wealth, then spared their lives.
+I followed, though I had no business in the assault. The smell of wood smoke and blood filled the narrow courtyard. A defender swung a *teer* spear at my head; I ducked, felt the wind of its passing, and one of our *sipahis* cut the man down before he could strike again. The sound his body made hitting the frozen ground stayed with me.
+
+I watched from a small rise as flames licked at the fortress roofs. The heat warped the air. The rebel governor was dragged out in chains, his beard caked with ash, coughing blood from a blow to the chest. His sons were taken as hostages, their faces pale with fear, one of them weeping silently. The Budshah ordered the confiscation of the family's wealth, then spared their lives.
 
 "Let the valley see that I punish rebellion, not bloodlines," he said.
 
@@ -193,7 +195,7 @@ The Budshah smiled faintly at that.
 
 Later, when I sat with him in the small room he kept above the foundry, surrounded by molds and tools rather than books, he asked me a question that has never left me.
 
-"Do you think they will remember me as weak" he said.
+"Do you think they will remember me as weak?" he said.
 
 Snow fell outside, fat flakes drifting past the small lattice window.
 

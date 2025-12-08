@@ -35,11 +35,11 @@ The first volley of musket fire tore through the moored boats by the palisade, s
 
 The second volley arced over the palisade, shot and shafts falling among the inner courtyards where the zamindar's retainers slept. Men woke to fire and screaming, stumbling out half dressed just in time to see our grappling hooks catch the top of their wall.
 
-We were over the palisade in heartbeats, bare feet slapping on wet wood, blades drawn. The smell of pepper and molasses from the warehouse smashed against the iron stink of new blood.
+We were over the palisade in heartbeats, bare feet slapping on wet wood, *dao* swords and *bhala* spears drawn. The smell of pepper and molasses from the warehouse smashed against the iron stink of new blood.
 
-I do not pretend there was honor in what followed. It was night work, efficient and ugly. Men died in their sleep, in the latrine, with their boots half on. A dog that lunged at my leg went down with a knife in its throat, its warm blood soaking into the mud between my toes.
+I do not pretend there was honor in what followed. It was night work, efficient and ugly. My *dao* found a man stumbling from his sleeping mat; the curved blade opened his throat before he could cry out, and the sound he made was like water being poured from a jug. Men died in their sleep, in the latrine, with their boots half on. I caught one trying to flee through a back door, a young man barely old enough to grow a beard; his eyes went wide in the torchlight, and my thrust took him below the ribs. He grabbed my wrist as he fell, his fingers hot and slick, and I had to brace my foot against his chest to pull the blade free. A dog that lunged at my leg went down with a *churri* knife in its throat, its warm blood soaking into the mud between my toes.
 
-The zamindar himself we took alive, trussed like a goat, his fine silk clothes stained with the river where we had dragged him through a flooded courtyard. We set his house and his personal boats alight but left the grain stores untouched.
+The zamindar himself we took alive, trussed like a goat, his fine silk clothes stained with the river where we had dragged him through a flooded courtyard. The *nauka* boats we used for the assault were silent as ghosts on the black water. We set his house and his personal vessels alight but left the grain stores untouched.
 
 "The land does not rebel. Men do," our commander reminded us. "The Sultan wants the rice next year. He only wants this man gone."
 
@@ -75,7 +75,7 @@ I nodded, surprised that he had noticed such a detail.
 
 He leaned forward.
 
-"Do you know why I sit in Gaur and not in Delhi"
+"Do you know why I sit in Gaur and not in Delhi?"
 
 I did not, and said so.
 
@@ -95,7 +95,7 @@ When the Sultan moved against Tripura and the Kamata kingdom in the north east, 
 
 Our flotilla set out from Gaur at the turning of the monsoon, when clouds built walls over the distant hills and thunder rolled like artillery practice. The Meghna and Brahmaputra had swollen beyond their usual beds, fingers of water reaching into fields, making islands of villages and converting high ground into temporary forts.
 
-Our war boats were narrow and long, their hulls stitched and caulked for flexibility, their shallow keels letting them pass where a deeper drafted vessel would strand. Each carried a small cannon at the bow, squat and heavy, and banks of musketeers whose matchcords smouldered under careful watch.
+Our war *naukas* were narrow and long, their hulls stitched and caulked for flexibility, their shallow keels letting them pass where a deeper drafted vessel would strand. Each carried a small *toradar* cannon at the bow, squat and heavy, and banks of *bandukchis* musketeers whose matchcords smouldered under careful watch. The *majhis* who steered knew every *char* sandbar and *haor* wetland by heart.
 
 Above us, the sky flashed white, then purple. Rain fell in sheets that turned the world into a curtain of water. Visibility dropped to the length of a boat.
 
@@ -103,7 +103,7 @@ Above us, the sky flashed white, then purple. Rain fell in sheets that turned th
 
 We moved in loose formation, each captain keeping the lantern on the stern of the boat ahead just visible, like a dim star in a rain filled sky. Once or twice, a hull struck a hidden log; the shock translated up the oars into bones. Each time we adjusted, reading the shudder of the water.
 
-Our enemies had elephants and archers, but they did not understand how to fight on a battlefield that dissolved underfoot. When we struck the first Tripura outpost, our boats appeared out of the rain like ghosts, men pouring out with grappling hooks and sabres before the defenders could concentrate their fire.
+Our enemies had elephants and archers, but they did not understand how to fight on a battlefield that dissolved underfoot. When we struck the first Tripura outpost, our *naukas* appeared out of the rain like ghosts, men pouring out with grappling hooks, *daos*, and *talwars* before the defenders could concentrate their fire. The smell of wet earth and gun smoke, the shouts in Bengali and Tripuri mixing with the screams of the dying: that is what river war tastes like.
 
 Later, when we turned west toward Orissa, toward the river routes that led down into Gajapati country, the campaigns were the same in shape if not in taste. Mud, rain, sudden sandbanks. Villages that changed banks between one season and the next. Muslim, Hindu, and tribal soldiers sharing the same deck, cursing the same leeches on their ankles.
 

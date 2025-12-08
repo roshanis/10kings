@@ -9,10 +9,10 @@ Below is a chapter-by-chapter guide to what is broadly grounded in the record ve
 - **Historical core:** The defeat of the Dutch at Colachel (1741), De Lannoy's defection and service to Travancore, Travancore's military reforms, and Marthanda Varma's consolidation of power against Nair chiefs are all attested in contemporary and later sources.
 - **Fictional elements:** The Maratha narrator, detailed conversations with De Lannoy and Ramayyan Dalawa, and the specific mechanics of intelligence operations are imagined but consistent with the political and military structures of 18th‑century Travancore.
 
-## Chapter 2 – Alauddin Khilji (Delhi Sultanate)
+## Chapter 2 – Raja Dahir (Sindh)
 
-- **Historical core:** Alauddin's market and price controls, anti‑corruption measures in the army (Dagh and Chehra systems come to maturity later but have antecedents here), repeated Mongol invasions and defeats, the role of Zafar Khan, and Malik Kafur's southern campaigns are all well documented.
-- **Fictional elements:** The Mongol convert narrator, the prison framing device, specific dialogue, and detailed battlefield sensations are invented to dramatize how those policies might have felt from inside the system.
+- **Historical core:** Dahir's defeat by Muhammad bin Qasim (712 CE), the role of the pirate raid pretext, the use of naphtha/fireworks against his elephant, and the internal divisions (Buddhist governors surrendering) are detailed in the *Chach Nama*.
+- **Fictional elements:** Bhandara (the Buddhist governor/traitor narrator), the specific inner monologues regarding the "betrayal," and the exact sensory details of the final riverside battle are dramatized to explore the theme of internal fracture in the face of invasion.
 
 ## Chapter 3 – Lachit Borphukan (Ahom Kingdom)
 

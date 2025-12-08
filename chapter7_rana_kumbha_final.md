@@ -29,7 +29,7 @@ The guards at the Ram Pol gate knew me. When I called out the password and raise
 
 The air inside the fort smelled of sweat, oil, and baked grain. Barracks crouched against the inner walls like sleeping animals, their roofs black against the starlight. Soldiers moved through the courtyards in muffled groups, mail shirts rustling under quilted cotton, spears and bows stacked in neat rows along the walls.
 
-"Narayan," the gate captain greeted me, his face lined with fatigue. "What news from Chittor"
+"Narayan," the gate captain greeted me, his face lined with fatigue. "What news from Chittor?"
 
 I slid from the saddle, my legs trembling as much from tension as from the ride.
 
@@ -63,7 +63,7 @@ Later, as I crafted the victory song, he had stopped me when I compared him to I
 
 "Do not make me a god," he had said, his voice quiet. "Make me a wall."
 
-"A wall" I had asked. "Kings usually prefer lions, or thunder."
+"A wall?" I had asked. "Kings usually prefer lions, or thunder."
 
 "Thunder comes and goes," he replied. "Walls endure if they are built well. I will not outshout Mahmud in the ears of poets. I will outlast him in stone."
 
@@ -121,7 +121,7 @@ It was not the polished verse of the court. It was the rough chant of the march,
 
 It was a foolish rhyme, simple enough for boys. In that moment, with stone spitting dust into our eyes and thunder walking up the mountain in iron boots, it was also a rope. Men clung to it because there was nothing else.
 
-We answered cannon with arrows at first, a waste of shafts at that range but necessary for spirit. Later, when Mahmud's infantry crept up under their mantlets, we poured heavier gifts on their heads: rolling stones, pots of heated sand, jars of oil set alight and toppled from murder holes.
+We answered cannon with arrows at first, the Mewari *dhanu* bows sending shafts whistling down the slope, a waste at that range but necessary for spirit. Later, when Mahmud's infantry crept up under their mantlets (Afghan *sipahis* with *tulwars* and *sipars*, Gujarati mercenaries with their hooked *ankus* spears) we poured heavier gifts on their heads: rolling stones, pots of heated sand, jars of oil set alight and toppled from murder holes.
 
 The air filled with the smell of burning cloth and singed hair. The screams that rose from below were no longer distant. They scraped at the base of the skull.
 
@@ -137,21 +137,23 @@ I should have remained in the fort. Charans did not belong in silent companies w
 
 He hesitated, then nodded.
 
-We moved at midnight, thirty men slipping through a postern gate on the northern side, each with sandaled feet wrapped in cloth to muffle stone scrape. The goat track was less a path than a suggestion, a series of handholds and ledges scoured by monsoon runoff. More than once my stomach dropped as gravel slid away under my toes and the valley yawned below like an open mouth.
+We moved at midnight, thirty men slipping through a postern gate on the northern side, each with sandaled feet wrapped in cloth to muffle stone scrape. Every man carried a *katar* punch dagger and a short *khanda* blade; no spears, nothing that might clatter against rock. The goat track was less a path than a suggestion, a series of handholds and ledges scoured by monsoon runoff. More than once my stomach dropped as gravel slid away under my toes and the valley yawned below like an open mouth.
 
-We reached the base of the cliff slick with sweat and dust, our thighs shaking, our hands cut raw from gripping rock. Ahead, the Malwa camp lay in darkness, most fires banked low. Only the artillery lines showed bright, their powder stores guarded by nervous sentries who glanced more toward the fort than toward the shadows behind them.
+We reached the base of the cliff slick with sweat and dust, our thighs shaking, our hands cut raw from gripping rock. The taste of blood from my torn palms mixed with the mountain grit on my tongue. Ahead, the Malwa camp lay in darkness, most fires banked low. Only the artillery lines showed bright, their powder stores guarded by nervous sentries who glanced more toward the fort than toward the shadows behind them.
 
 That was their mistake. They had not learned that a mountain can reach down as well as up.
 
-We crept between wagon shadows, the smell of dung and metal thick in the air. Elephants loomed as pale hulks at the edge of sight, chains clinking softly as they shifted in sleep. Somewhere a man snored, loud and unafraid, trusting his watchmen and his sultan.
+We crept between wagon shadows, the smell of dung and hot metal thick in the air, mixed with the sulfur reek of stored powder. Elephants loomed as pale hulks at the edge of sight, chains clinking softly as they shifted in sleep. Somewhere a man snored, loud and unafraid, trusting his watchmen and his sultan.
 
 We trusted only the dark.
+
+Ratan, the man ahead of me, found a sentry relieving himself behind a wagon. His *katar* went in below the Afghan's ribs with a wet sound like a melon being opened; the man's gasp became a gurgle. Ratan lowered the body gently, and we stepped over the spreading warmth.
 
 We placed our gifts quickly: small earthen pots packed with oil and resin at the base of powder barrels, cloth fuses coiled like snakes along the ground. At the signal, thirty sparks flared at once, then sank into the wicks.
 
 We ran before the flame ran after us.
 
-Behind us, the first explosion tore the night open. A second followed, then a third, until the entire artillery park became a storm of fire. Cannon barrels flipped like toy sticks, wheels splintered, tents ignited where stray sparks found dry canvas. Men woke screaming, some with their clothes already ablaze.
+Behind us, the first explosion tore the night open. The heat hit my back like a slap, the sound a physical blow that made my ears ring. A second followed, then a third, until the entire artillery park became a storm of fire. Cannon barrels flipped like toy sticks, wheels splintered, tents ignited where stray sparks found dry canvas. The smell of burning flesh mixed with the sulfur; men woke screaming, some with their clothes already ablaze. I saw one gunner stumbling blind, his face a mask of burns, crying for his mother in a language I did not know.
 
 From the ramparts above, our own garrison roared as the firelight splashed across the cliff, making the fort's walls glow like the skin of some awakened god.
 
@@ -191,7 +193,7 @@ His son Uday Singh walked beside him that evening, silent, his jaw set. There ha
 
 I was wrong.
 
-Inside the sanctum, as Kumbha bowed before the deity, Uday stepped forward, his hand moving faster than my tongue. The blade flashed once in the oil light, a small sound, almost modest, like cloth being torn.
+Inside the sanctum, as Kumbha bowed before the deity, Uday stepped forward, his hand moving faster than my tongue. The *katar* flashed once in the oil light, its triangular blade punching through the king's back with a small sound, almost modest, like cloth being torn.
 
 The Rana gasped. Blood darkened the front of his dhoti, spreading slowly. He turned his head slightly, not toward the idol, but toward me.
 
@@ -203,7 +205,7 @@ The temple priests would later claim a lamp flickered, that Eklingji himself shu
 
 Later, when I sat with my stylus and blank palm leaf, I had to decide which Rana Kumbha would inhabit the story handed to our descendants.
 
-The wall builder Or the father stabbed at a god's feet
+The wall builder? Or the father stabbed at a god's feet?
 
 The answer, cruelly, was both. A kingdom must believe in its walls, but it must also remember that stone cannot hold the knives that come from within.
 

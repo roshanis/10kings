@@ -13,7 +13,7 @@ They forgot that fruit can have stones of iron.
 
 I am a Habshi, an Abyssinian. My people were brought to this land as slaves but rose to be kings and king-makers. I have served many masters in the Nizam Shahi court. Most were men who loved wine more than war, who fought each other with more venom than they fought the enemy. But Chand Bibi was different. She was the daughter of Hussain Nizam Shah, the widow of Ali Adil Shah of Bijapur. She had the blood of Ahmednagar and the political cunning of Bijapur in her veins.
 
-When the Mughal vanguard appeared on the horizon, a dust storm that did not settle, our nobles—the Foreigners and the Deccanis—were busy cutting each other's throats in the city streets. They were ready to sell the fort to Murad just to spite their rivals.
+When the Mughal vanguard appeared on the horizon, a dust storm that did not settle, our nobles (the Foreigners and the Deccanis) were busy cutting each other's throats in the city streets. They were ready to sell the fort to Murad just to spite their rivals.
 
 Chand Bibi summoned them to the durbar hall. She did not sit behind a screen. She stood by the throne of her nephew, the boy-king Bahadur, her hand resting on his shoulder.
 
@@ -29,11 +29,11 @@ We watched from the walls. We knew they were digging. We counter-mined, our own 
 
 On the day they fired the mines, the earth heaved.
 
-I was on the Falcon Bastion. The ground punched up into the soles of my feet. A roar like the end of the world split the air. To my right, a fifty-yard section of the curtain wall simply vanished, dissolved into a cloud of dust and flying stone. Men I had shared bread with that morning were turned to red mist.
+I was on the Falcon Bastion, my *toradar* matchlock primed and ready, when the ground punched up into the soles of my feet. The roar came a heartbeat later, a sound that belonged to the end of the world, so deep it vibrated in my chest before it reached my ears. To my right, a fifty-yard section of the curtain wall simply vanished, dissolved into a cloud of dust and flying stone. The smell hit next: sulfur and saltite mixed with the copper stench of blood, the wet-earth reek of bodies opened to the air. Men I had shared bread with that morning were turned to red mist. A stone the size of a man's head struck Farid, my second, in the chest; he folded backward without a sound, his *sipar* shield clattering uselessly beside him.
 
-The dust hung thick and choking. Through it, we heard them. The Mughal war cry. "Allahu Akbar!"
+The dust hung thick and choking, gritty against my teeth, burning my eyes. Through it, we heard them. The Mughal war cry. "Allahu Akbar!" The thunder of thousands of boots on rubble, the clatter of *shamshirs* being drawn.
 
-They charged the breach, thousands of them, confident that the way was open, that the "woman's fort" was broken.
+They charged the breach, thousands of them, *sipahis* in quilted armor, Rajput mercenaries with their curved *talwars*, confident that the way was open, that the "woman's fort" was broken.
 
 They were wrong.
 
@@ -41,15 +41,15 @@ They were wrong.
 
 Out of the dust, she appeared.
 
-Chand Bibi. She was mounted on a grey mare, clad in armor, a veil over her face but a sword in her hand. She did not ride away from the breach. She rode into it.
+Chand Bibi. She was mounted on a grey mare, clad in armor beneath her silk, a veil over her face but a *shamshir* in her hand, its curved blade catching the firelight. She did not ride away from the breach. She rode into it.
 
 "Stand!" she screamed, her voice cracking with the strain but clear above the din. "Sons of the Deccan, stand! Will you let them walk into your homes?"
 
-She drove her horse into the rubble pile, the loose stones shifting under hooves. Arrows flew around her like angry wasps. One struck her mare's flank; she didn't flinch. She fired a musket, threw it to a servant, took another, and fired again.
+She drove her horse into the rubble pile, the loose stones shifting under hooves. Arrows flew around her like angry wasps. One struck her mare's flank; she didn't flinch. She fired a *banduq*, the recoil jerking her shoulder, threw it to a servant, took another, and fired again. A Mughal *sardar* climbing the breach took the ball in his throat; he tumbled backward into his own men.
 
-Seeing her—a woman, a queen, fighting where the stone was hottest—shamed us. Men who had been running turned back. The Deccani archers, the Habshi musketmen, the Maratha light infantry—we all flooded back into the gap.
+Seeing her (a woman, a queen, fighting where the stone was hottest) shamed us. Men who had been running turned back. The Deccani archers with their horn-reinforced bows, the Habshi *bandukchis* with our matchlocks, the Maratha *mavalis* with their curved *katars* and short *bhala* spears: we all flooded back into the gap.
 
-We fought them on the shifting slope of the ruin. We fought them with swords, with stones, with the very rubble they had created. We fought them until the sun went down and the breach was slick with blood.
+We fought them on the shifting slope of the ruin. My *shamshir* found a Mughal's neck; blood sprayed hot across my knuckles. We fought them with swords, with stones, with the very rubble they had created. A Rajput cut my arm; I took his hand with my return stroke. We fought them until the sun went down and the breach was slick with blood, until the dead were piled three deep and you could not step without your foot finding flesh.
 
 And all the while, she was there. Not commanding from a tower. There. In the dust.
 
@@ -69,7 +69,7 @@ She ordered her treasury opened. Not to pay soldiers, but to feed the guns.
 
 "Copper," she said. "Silver. Gold. Whatever is hard. Load it."
 
-We loaded the great guns with coins. Can you imagine? A king's ransom packed into a barrel, wadding Rammed tight over it.
+We loaded the great guns with coins. Can you imagine? A king's ransom packed into a barrel, wadding rammed tight over it.
 
 When the Mughals advanced at dawn, thinking us out of ammunition, we fired.
 
