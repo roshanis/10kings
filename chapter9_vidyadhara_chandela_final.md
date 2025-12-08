@@ -11,7 +11,7 @@ The war trumpets of Kalinjar still haunt my dreams twenty years after that terri
 
 But I had never encountered anything like Vidyadhara Chandela.
 
-When we first rode into Bundelkhand in 1018, confident in our reputation as the scourge of Hindustan, we expected another swift campaign of conquest and plunder. The Hindu kings had learned to either submit or perish when they heard the name of Mahmud of Ghazni. This Rajput ruler, sheltering behind his temples and fortresses, appeared no different from the dozens of other Indian princes we had crushed beneath our horses' hooves.
+When we first rode into Bundelkhand in 1018, our *sipahi* cavalry confident in our reputation as the scourge of Hindustan, we expected another swift campaign of conquest and plunder. The Hindu kings had learned to either submit or perish when they heard the name of Mahmud of Ghazni. This Rajput ruler, sheltering behind his temples and *garhs*, appeared no different from the dozens of other Indian princes we had crushed beneath our horses' hooves.
 
 How wrong we were. And how nearly fatal that miscalculation would prove.
 
@@ -81,13 +81,31 @@ From the gates of Kalinjar emerged a sight that would haunt my dreams for decade
 
 But this was not simply a cavalry charge with different mounts. Vidyadhara had transformed elephant warfare into something we had never seen, combining the traditional Indian mastery of elephant combat with innovations that turned these living siege engines into an irresistible force.
 
-Each elephant carried different implements for different purposes. Some bore archers whose elevated position allowed them to fire over our defensive works. Others carried engineers with tools for dismantling our siege equipment. Still others transported teams of sappers whose task was to destroy our fortified positions from within.
+Each elephant carried different implements for different purposes. Some bore archers whose elevated position allowed them to fire over our defensive works with their bamboo *dhanus*. Others carried engineers with tools for dismantling our siege equipment. Still others transported teams of sappers whose task was to destroy our fortified positions from within, armed with *khandas* and *bhalas* for close combat once they breached our lines.
 
 Most terrifying of all were the fire elephants, animals whose armor had been modified to carry cauldrons of burning oil that could be poured onto enemy positions, turning the traditional elephant charge into a moving conflagration that consumed everything in its path.
 
-"*La hawla wa la quwwata illa billah!*" I screamed as the first wave of elephants crashed into our outer defenses, their trunks swinging like battering rams, their riders' spears finding the gaps between the shields of men who had never faced such a coordinated assault.
+"*La hawla wa la quwwata illa billah!*" I screamed as the first wave of elephants crashed into our outer defenses.
 
-The battle that followed lasted until dawn, a nightmare of fire and steel where our traditional Turkish cavalry tactics proved useless against enemies who had studied our methods for years and devised counters for every technique we employed.
+The smell hit us before the impact: elephant musk thick enough to taste, mixed with the acrid reek of burning naphtha and the copper stench of blood already spilling. The ground shook beneath my horse's hooves as if the mountain itself were awakening. Then came the noise, a wall of sound that made thought impossible: elephants trumpeting in coordinated fury, *ghulams* screaming as they were trampled, the crack of bones and the wet ripping of flesh beneath iron-shod feet.
+
+My brother Bahram rode beside me that night. We had served together since the siege of Multan, had survived a dozen campaigns, had sworn to die together if Allah willed it. He was the better swordsman; I was the better horseman. Together, we had believed ourselves invincible.
+
+The elephant that killed him came from the darkness like a moving mountain. Its trunk, armored with bronze plates and tipped with a curved blade, swept through our formation before we could react. I heard Bahram scream once, a sound cut short as the trunk caught him across the chest and flung him into the darkness. I never found his body.
+
+"*Bahram!*" I wheeled my horse, searching the chaos, but he was gone.
+
+Then the Rajput *kataras* came for me.
+
+A warrior dropped from the elephant above, landing on my horse's hindquarters with the grace of a temple dancer. His *katara*, the Rajput punch-dagger with its H-shaped grip, drove toward my spine. I twisted, felt the blade score across my back, and threw myself from the saddle rather than die mounted.
+
+We fought on foot in the firelight, surrounded by the screaming and the dying. He was faster than me, his *katara* darting like a snake's tongue, but I had reach with my *shamshir*. We circled, traded blows, and I tasted my own blood from where his first strike had opened my back.
+
+"*Jai Vidyadhara!*" he screamed, lunging.
+
+I sidestepped, caught his extended arm, and drove my *khanjar* through his throat. He died with his war cry still echoing, and I stood over his body, bleeding, gasping, searching the chaos for a brother I would never see again.
+
+The battle lasted until dawn, a nightmare of fire and steel where our traditional *sipahi* tactics proved useless against enemies who had studied our methods for years and devised counters for every technique we employed. I killed three more men that night. I do not remember their faces. I remember only Bahram's scream, cut short, and the emptiness that followed.
 
 ### The Builder's Legacy
 
@@ -99,7 +117,9 @@ It was not yet finished, but its scale was breathtaking. Every spire was a praye
 
 ### The Persian's Reflection
 
-As our column wound its way back through the passes toward Afghanistan, I understood that Vidyadhara had shown us the limits of our own legend. He had matched Islamic steel with disciplined resistance and turned his temples into fortresses, proving that Hindu rulers could study us as ruthlessly as we had studied them.
+As our column wound its way back through the passes toward Afghanistan, I understood that Vidyadhara had shown us the limits of our own legend. He had matched our *shamshirs* and *nezas* with disciplined resistance and turned his temples into *garhs*, proving that Hindu rulers could study us as ruthlessly as we had studied them.
+
+My back still bears the scar where the Rajput's *katara* found me. Sometimes, when the winter cold settles into the wound, I remember that night: the fire, the screaming elephants, and Bahram's voice cut short in the darkness. I survived Kalinjar. He did not. And every temple I see now reminds me of the price we paid for underestimating the builder-king of Bundelkhand.
 
 ### The Unfinished Temple
 

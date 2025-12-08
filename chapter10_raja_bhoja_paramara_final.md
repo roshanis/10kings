@@ -7,17 +7,31 @@
 
 ### The Library That Bled
 
-### The Library That Bled
+The manuscript was still warm with fresh blood when I found it among the ruins of Dhara's great library. The allied armies of Karna and Bhima had swept through the city like a plague of locusts, but even in their systematic destruction, they had missed this single scroll hidden beneath a fallen beam: a treatise on mechanics written in Raja Bhoja's own hand, its margins now stained crimson with the blood of the scholar who had died defending it.
 
-The manuscript was still warm with fresh blood when I found it among the ruins of Dhara's great library. The allied armies of **Karna** and **Bhima** had swept through the city like a plague of locusts, but even in their systematic destruction, they had missed this single scroll hidden beneath a fallen beam: a treatise on mechanics written in Raja Bhoja's own hand, its margins now stained crimson with the blood of the scholar who had died defending it.
+I had come to Dhara as a chronicler, not a soldier. My patron, the governor of Lahore, had sent me to document the fall of what many considered the greatest center of learning in all India. "Record everything," he had instructed. "The Caliph wishes to know what manner of king this Bhoja was, and whether his *ilm*, his knowledge, posed a threat to our expansion."
 
-...
+I arrived three days after the walls fell, when the killing had mostly stopped but the looting continued. The smell hit me first: burning *pustakas*, thousands of manuscripts going up in smoke, their leather bindings and cotton pages releasing an acrid sweetness that mixed with the copper stench of blood and the rot of unburied dead.
+
+The great *Bhojshala*, the temple-university that had drawn scholars from across India, was a charnel house. I stepped over bodies in the entrance courtyard, Sanskrit scholars whose only weapons had been their pens, cut down by soldiers who could not read the treasures they were destroying. One old man, his white beard matted with blood, still clutched a *shastra* on astronomy to his chest. The sword stroke that killed him had cut through both the manuscript and his heart.
+
+I found Madhava, the chief librarian, hiding in a storage cellar beneath the main reading hall. He was the one who led me through the ruins, weeping as he catalogued what had been lost.
+
+"Forty thousand *pustakas*," he whispered, his voice hollow. "The accumulated *vidya* of five centuries. Bhoja spent his entire reign collecting them, copying them, preserving them. And now..." He gestured at the smoke still rising from the shattered windows. "Now they warm the hands of soldiers who cannot read."
+
+It was Madhava who showed me the scholar who had died protecting the treatise I now held. His name was Vishwanatha, a master of *yantra-shastra*, the science of machines. He had been Bhoja's personal engineer, the man who had built the mechanical birds and the musical fountains.
+
+"He could have fled," Madhava said. "The soldiers gave him the chance. But he refused to abandon the king's work. He died trying to save a single scroll."
+
+Vishwanatha's body lay where it had fallen, a Kalachuri spear still embedded in his chest. I knelt beside him and gently removed the treatise from beneath his outstretched hand. The blood had not yet dried. His sacrifice had bought this knowledge perhaps an hour of protection.
+
+I should have felt only sorrow. Instead, I felt something darker: the recognition that I was standing in the ruins of a civilization that my own people had helped destroy, and that the knowledge bleeding into the dust around me was worth more than all the gold the conquerors had stolen.
 
 ### The City of Automata
 
 To understand the magnitude of what was lost, one must understand what Dhara was before the fall. It was not merely a capital; it was a machine of wonder.
 
-At the heart of the city stood the **Bhojshala**, a temple dedicated to Saraswati but serving as a university where thousands of scholars debated everything from grammar to astronomy. But Bhoja's true passion was found in the pages of his **Samarangana Sutradhara**—a treatise not just on architecture, but on the science of machines.
+At the heart of the city stood the *Bhojshala*, a temple dedicated to Saraswati but serving as a *vidyapitha* where thousands of scholars debated everything from *vyakarana* (grammar) to *jyotisha* (astronomy). But Bhoja's true passion was found in the pages of his *Samarangana Sutradhara*, a *shastra* not just on architecture, but on the science of machines.
 
 "He built mechanical birds that could sing and flap their wings," Devaraya, the former royal engineer, told me, his eyes misty with memory. "He designed wooden soldiers that could guard the palace gates and fountains that played music through the pressure of water. He called them *yantras*. The common people thought it was magic. We knew it was mathematics."
 
@@ -51,7 +65,23 @@ Pandita khandita sarve, Bhojaraje divam gate."*
 
 The respect of his enemies lasted only as long as the funeral pyre burned. Once the king was gone, Karna and Bhima unleashed their fury on the city. They did not just loot gold; they looted the legacy of Malwa.
 
-"Karna took the royal library," Madhava, the librarian, recounted, weeping. "He loaded carts not with jewels, but with manuscripts. He wanted to claim Bhoja's wisdom as his own. What he couldn't carry, Bhima's soldiers burned."
+"Karna took the royal library," Madhava recounted, his voice breaking. "He loaded carts not with jewels, but with *pustakas*. He wanted to claim Bhoja's *vidya* as his own. What he couldn't carry, Bhima's soldiers burned."
+
+I nearly died that day, watching the burning.
+
+A Chaulukya soldier found me in the archives, copying titles from the few manuscripts that had survived. He saw my Persian robes, heard my accent, and decided I was a spy rather than a chronicler.
+
+His *talwar* was at my throat before I could explain. I felt the edge bite into my skin, felt the warm trickle of blood down my neck. "Muslim dog," he spat. "You came to steal our *shastras* for your Caliph."
+
+"I came to record," I gasped. "To preserve. To remember what was lost."
+
+He laughed, pressing the blade deeper. "What was lost? We have won. The scholar-king is dead, his city is ours, his precious books are smoke. What is there to remember?"
+
+It was Madhava who saved me. The old librarian threw himself between us, crying out in Sanskrit that I was under his protection, that I meant to honor Bhoja's memory rather than desecrate it. The soldier hesitated, then shoved me aside with a curse.
+
+"Take your Muslim and go," he snarled at Madhava. "Before I decide to burn you both with the rest of these worthless scrolls."
+
+The scar on my neck has faded over the years, but I still feel the ghost of that blade when I read the manuscripts I carried out of Dhara. I was spared to witness. Perhaps that was my purpose all along.
 
 The great Shiva temple at **Bhojpur**, with its massive lingam and cyclopean walls, remained unfinished—a stone metaphor for a reign that ended with so much potential unfulfilled. The dam of the great Bhojpur lake was breached, its waters draining away just as the prosperity of Malwa drained into the coffers of its conquerors.
 
@@ -65,7 +95,9 @@ Even in death, the scholar-king had won the only war that truly matters: the war
 
 ### The Persian's Reflection
 
-As I left the ruins of Dhara, I knew I had watched a man try to rule with mind alone and be broken by the world he tried to understand. Bhoja proved that an Indian king could match any contemporary civilization in learning and ambition, even if the age he lived in had little patience for philosopher-kings.
+As I left the ruins of Dhara, the scar on my neck still fresh, I knew I had watched a man try to rule with *vidya* alone and be broken by the world he tried to understand. Bhoja proved that an Indian king could match any civilization in *ilm* and ambition, even if the age he lived in had little patience for philosopher-kings.
+
+I carried with me not just manuscripts but memories: the smell of burning knowledge, the body of Vishwanatha with the spear still in his chest, the soldier's *talwar* at my throat. Madhava had saved my life so that I could bear witness. I owed him, and Bhoja, and all the dead scholars of Dhara, the truth of what I had seen.
 
 ### The Message in the Manuscript
 
