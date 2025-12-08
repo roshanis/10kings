@@ -29,10 +29,10 @@ Below is a chapter-by-chapter guide to what is broadly grounded in the record ve
 - **Historical core:** Jatavarman Sundara Pandyan's expansion across coastal Andhra and Sri Lanka, his conflicts with Hoysalas and other southern powers, and the wealth and reach of the mid‑13th‑century Pandya state are established in inscriptions and chronicles.
 - **Fictional elements:** The admiral‑narrator, the exact composition of fleets, specific siege narratives (e.g., Kannanur Koppam as depicted), and the proposed alliance with Balban against the Kakatiyas are invented to show what a coordinated land–sea strategist of that period might have attempted.
 
-## Chapter 6 – Simhana II Yadava (Devagiri)
+## Chapter 6 – Chand Bibi (Ahmednagar/Bijapur)
 
-- **Historical core:** The Yadava court at Devagiri, Marathi's rise as a literary and administrative language in the 13th century, and figures like Mukundaraja and later Jnaneshwar signal a real vernacular turn in the region.
-- **Fictional elements:** Vaidyanatha Shastri (the Sanskrit chronicler), the famine‑council scene, the specific decree chronology, and the inner debates about "polluting" Sanskrit by using it with commoners are dramatizations that compress and personalize a long, complex linguistic shift.
+- **Historical core:** Chand Bibi's roles as regent in Bijapur and Ahmednagar, the siege of Ahmednagar by Prince Murad (1595–96), the mine explosion, her rallying of the troops at the breach, and her eventual assassination by her own nobles are historical.
+- **Fictional elements:** Yakut Khan (the Habshi narrator), the "golden shot" incident (a persistent legend but historically debated), and the specific dialogue in the durbar are dramatized to highlight the role of the Abyssinian faction and the legendary nature of her defense.
 
 ## Chapter 7 – Rana Kumbha (Mewar)
 

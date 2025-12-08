@@ -1775,206 +1775,120 @@ He stepped down from the scale, his shadow falling long across the gold-strewn c
 
 *[Editor's Note: Captain Raman Pillai is a fictional narrator used to provide a maritime perspective on this era of unprecedented Tamil naval projection. While the specific scenes of the storm and the private conversations are dramatized, the details of the Sri Lankan tributary arrangement, the defeat of the Hoysala king Somesvara, and the famous Tulabhara ceremony at Srirangam are based on historical inscriptions and chronicles.]*
 \n\n
-# Chapter 6: The Language Revolution
-## Simhana II Yadava - The Linguistic Pioneer Who Elevated Marathi (1200-1247 CE)
+# Chapter 6: The Veil of Iron
+## Chand Bibi of Ahmednagar - The Queen Who Stopped the Mughals (c. 1550-1599 CE)
 
-*From the scholarly chronicles of Vaidyanatha Shastri, Sanskrit scholar, witness to the transformation of regional identity*
+*From the siege diary of Yakut Khan, Habshi commander of the Falcon Bastion, Ahmednagar Fort*
 
 ---
 
-### The Day Children Starved
+They say a woman's place is behind the veil. Chand Bibi wore one, silk and sheer, but she wore chainmail beneath it. And when she stood on the ramparts of Ahmednagar, the smoke of Mughal cannons became her purdah, and the roar of our own artillery her voice.
 
-The summer of 1204 burned across the Deccan plateau like divine punishment. For four months, not a drop of rain had fallen on the parched fields of Maharashtra, and the wells that had sustained villages for centuries ran dry as bone.
+It was 1595, and the wolves were at the door. Not just any wolves, but the Mughals. Prince Murad, son of the great Akbar, had come south with Khan Khanan and an army that drank rivers dry. They had swallowed the north; now they wanted the Deccan. They thought we were a fruit ripe for plucking—a kingdom rule by a boy king, squabbling nobles, and a dowager queen.
 
-I had seen the drought's work with my own eyes on the road to Devagiri. The earth cracked like old leather, fissures wide enough to swallow a man's foot. Cattle lay dead in the fields, their hides stretched tight over ribs, their eyes pecked out by crows. The air itself tasted of dust and decay, a gritty film that coated your tongue and made every breath feel like chewing sand.
+They forgot that fruit can have stones of iron.
 
-But it was the children I could not forget. In one village, I had stopped to offer water from my traveling flask to a mother holding an infant. The child was too weak to cry, its skin hanging loose on bones that seemed ready to pierce through. When I looked into the mother's eyes, I saw something worse than desperation. I saw the knowledge that her child would die, and that she could do nothing.
+I am a Habshi, an Abyssinian. My people were brought to this land as slaves but rose to be kings and king-makers. I have served many masters in the Nizam Shahi court. Most were men who loved wine more than war, who fought each other with more venom than they fought the enemy. But Chand Bibi was different. She was the daughter of Hussain Nizam Shah, the widow of Ali Adil Shah of Bijapur. She had the blood of Ahmednagar and the political cunning of Bijapur in her veins.
 
-"*Pandit*," she had whispered, "can you read the king's order? They say there is grain, but we cannot understand the words."
+When the Mughal vanguard appeared on the horizon, a dust storm that did not settle, our nobles—the Foreigners and the Deccanis—were busy cutting each other's throats in the city streets. They were ready to sell the fort to Murad just to spite their rivals.
 
-I had read it for her. The Sanskrit phrases that meant life or death. And I had ridden on, haunted by the question: how many villages had no Sanskrit scholar to translate hope into action?
+Chand Bibi summoned them to the durbar hall. She did not sit behind a screen. She stood by the throne of her nephew, the boy-king Bahadur, her hand resting on his shoulder.
 
-I was with King Simhana in the emergency council session when the village *patil* from Junnar staggered through the palace doors, his weathered face gray with desperation, his hands clutching a rolled document as if it were his last hope. He smelled of the road, of sweat and dust and the sour reek of a man who had not eaten in days.
+"The Mughals are not here to decide which of you is right," she said, her voice cutting through their murmurs. "They are here to make you all slaves. You can die fighting them as free men, or you can die serving them as eunuchs. Choose."
 
-"*Mahārāja*," he gasped, thrusting the royal decree forward. "Forgive me, but the words... I cannot..."
+It was not eloquence that swayed them. It was shame. And perhaps the realization that Murad would likely execute them all anyway.
 
-His voice broke. His hands trembled around the Sanskrit document that was supposed to save his village.
+### The Siege Begins
 
-Simhana's face darkened like storm clouds gathering. "You cannot read it."
+The siege began in December. Murad was eager. He mined the walls, his sappers digging like moles under our foundations. He planted five great mines under the bastions, packed with enough gunpowder to blow a mountain into the sea.
 
-"My village has no Sanskrit scholar, *Mahārāja*. The children are..." The headman's voice cracked completely. "They are dying. And I stand here holding words I cannot understand."
+We watched from the walls. We knew they were digging. We counter-mined, our own men listening to the earth, trying to find their tunnels. We found two and defused them, robbing the powder. But the others remained hidden.
 
-The silence in that hall was deafening. Here was a loyal subject, a man whose taxes had filled the royal treasury for decades, watching his people starve because an emergency food distribution order was written in a language only scholars could read.
+On the day they fired the mines, the earth heaved.
 
-I saw something shift in Simhana's eyes then, something cold and decisive and utterly unyielding.
+I was on the Falcon Bastion. The ground punched up into the soles of my feet. A roar like the end of the world split the air. To my right, a fifty-yard section of the curtain wall simply vanished, dissolved into a cloud of dust and flying stone. Men I had shared bread with that morning were turned to red mist.
 
-He strode to the headman, took the Sanskrit decree from his hands, and in a voice that carried to every corner of the hall, spoke its contents in fluent Marathi:
+The dust hung thick and choking. Through it, we heard them. The Mughal war cry. "Allahu Akbar!"
 
-"*Duṣkāḷāt piḍita lokāñcā jīva vācvāyācā āhe. Rājyācyā koṭhārātūna hazāra khaṇḍī dhānya vāṭāyācē.*" (The lives of people afflicted by famine must be saved. A thousand *khandis* of grain must be distributed from the royal granaries.)
+They charged the breach, thousands of them, confident that the way was open, that the "woman's fort" was broken.
 
-The headman's face blazed with understanding. He fell to his knees, tears streaming. "*Dhanyawād, Mahārāja!* My people will live!"
+They were wrong.
 
-But Simhana was no longer looking at the grateful headman. He turned to his court, to the Sanskrit-educated elites whose entire authority rested upon linguistic exclusion, with the expression of a man who had just decided to overturn the ancient order.
+### The Lady of the Breach
 
-"My lords," he said softly, each word deliberate, "we have just watched children starve because their fathers could not read Sanskrit."
+Out of the dust, she appeared.
 
-He paused, letting the weight of that truth settle upon us all.
+Chand Bibi. She was mounted on a grey mare, clad in armor, a veil over her face but a sword in her hand. She did not ride away from the breach. She rode into it.
 
-"This ends today."
+"Stand!" she screamed, her voice cracking with the strain but clear above the din. "Sons of the Deccan, stand! Will you let them walk into your homes?"
 
-I remember the king citing Mukundaraja, the philosopher-poet whose Marathi masterpiece, *Vivekasindhu*, was already passing from village to village. "If such divine truths can be expressed in our mother tongue," Simhana said, "then surely earthly governance can be conducted in the language the people actually speak."
+She drove her horse into the rubble pile, the loose stones shifting under hooves. Arrows flew around her like angry wasps. One struck her mare's flank; she didn't flinch. She fired a musket, threw it to a servant, took another, and fired again.
 
-As a Sanskrit scholar, I confess these words troubled me deeply. Yet I could not deny their logic. This was not mere prejudice against Sanskrit but a reasoned argument that common understanding might serve governance better than ancient authority.
+Seeing her—a woman, a queen, fighting where the stone was hottest—shamed us. Men who had been running turned back. The Deccani archers, the Habshi musketmen, the Maratha light infantry—we all flooded back into the gap.
 
-### The Transformation Begins
+We fought them on the shifting slope of the ruin. We fought them with swords, with stones, with the very rubble they had created. We fought them until the sun went down and the breach was slick with blood.
 
-Within three months of that famine council, I watched the king's decree ripple through the administration like a stone cast into still water. Every royal order, every court judgment, every tax assessment that had once been inscribed in Sanskrit now appeared in Marathi.
+And all the while, she was there. Not commanding from a tower. There. In the dust.
 
-The resistance was immediate and fierce. My fellow scholars protested that this degraded the dignity of governance. The Brahmins warned that the gods themselves spoke Sanskrit, and to abandon it in official matters courted divine displeasure. Senior *deshpandes* and *kulkarnis* complained that centuries of precedent were being swept aside.
+When night fell, the Mughals pulled back, stunned. They had expected a surrender. They got a wall of human flesh.
 
-I confess I was among those who resisted. In the scholars' quarters that night, I joined a gathering of outraged *pandits* who spoke of the king's madness, of tradition betrayed, of sacred learning profaned.
+### The Golden Shot
 
-"He will destroy everything we have built," hissed Govinda Shastri, the eldest among us. "For a thousand years, Sanskrit has been the language of kings. Now this... this upstart would reduce governance to the babble of peasants."
+But walls cannot be built of flesh forever. We needed to repair the breach.
 
-"Perhaps," I said carefully, "the king has seen something we have not."
+"Build," she ordered. "Use everything. Stone, wood, bodies if you have to. The wall must rise before dawn."
 
-The room went silent. Govinda's eyes narrowed. "You defend this sacrilege?"
+We worked like djinns. But we ran out of shot for the cannons. The magazine in that sector had been destroyed by the explosion. The Mughal assault was forming again for the morning.
 
-"I saw children dying on the road," I replied. "I saw a mother whose infant was starving because she could not read the grain distribution order. I wonder if our tradition is worth their lives."
+That is when the legend was born. I saw it.
 
-Govinda stepped closer, close enough that I could smell the betel on his breath. "Be careful, Vaidyanatha. Very careful. Those who betray the sacred tongue will find themselves without friends in the courts of any kingdom. Sanskrit binds us together, a brotherhood that spans from the Himalayas to Lanka. Would you trade that for the approval of a single king?"
+She ordered her treasury opened. Not to pay soldiers, but to feed the guns.
 
-The threat was clear. My position, my livelihood, my entire scholarly network depended on Sanskrit's supremacy. To support Simhana's revolution was to cut myself off from everything I had built.
+"Copper," she said. "Silver. Gold. Whatever is hard. Load it."
 
-But I could not forget that infant's face. I could not forget the mother's eyes.
+We loaded the great guns with coins. Can you imagine? A king's ransom packed into a barrel, wadding Rammed tight over it.
 
-"I will observe," I said finally. "And judge by results rather than precedent."
+When the Mughals advanced at dawn, thinking us out of ammunition, we fired.
 
-Govinda spat at my feet and walked away. Half the scholars in the room followed him. The other half watched me with eyes that held either sympathy or calculation. I had made myself suspect to both sides.
+They say money kills the soul. That day, it killed the body too. A storm of copper and silver swept through their ranks. It was a shotgun blast of wealth, shredding silk and flesh alike. The irony was bitter—the wealth they had come to plunder was indeed being given to them, at close velocity.
 
-But Simhana was unmoved by the scholars' protests. "Let the gods speak Sanskrit in temples," he told his council. "In courts and treasuries, we shall speak the language of the people we govern."
+Princes and peasants died with silver rupees embedded in their chests.
 
-I confess I expected chaos. How could unlettered village headmen suddenly conduct legal proceedings? How could merchants untrained in classical learning draft binding contracts?
+Prince Murad, watching from his camp, must have thought we were mad. Or possessed.
 
-Yet what unfolded surprised even the king's supporters. Within a year, the *nyayalaya* courts that had once operated through layers of Sanskrit-educated intermediaries now heard cases directly from litigants who could speak for themselves. The *vanik* merchant who had previously paid scribes to translate his petitions could now present his own case. The *kunbi* farmer who had never understood the tax assessment written in Sanskrit could now read precisely what he owed and why.
+### The Peace of Hunger
 
-The efficiency gains were undeniable. Disputes that had languished for months while awaiting translation and interpretation were now resolved in weeks. Trade contracts, once mysteries to those who signed them, became comprehensible documents. Even military orders, which had sometimes been garbled in translation from Sanskrit to the soldiers' Marathi, now reached the ranks with clarity.
+We held them for months. But courage does not fill bellies. Famine crept into the fort. We ate the horses, then the dogs, then the rats.
 
-### The Flowering of Marathi Learning
+Chand Bibi did not eat more than her soldiers. I saw her thin, her eyes large and shadowed, but her back never bent. She negotiated a peace that saved the kingdom's dignity. We ceded Berar, yes, but we kept Ahmednagar. The Mughals turned back.
 
-But the change that surprised me most was not administrative but literary. I had believed, as did most of my scholarly brethren, that Sanskrit alone possessed the refinement necessary for serious literary and philosophical work. Marathi was a language for markets and households, not for poetry or sacred commentary.
+For a time.
 
-How wrong I was.
+### The End
 
-The first Marathi poet to receive royal patronage was Mukundaraja, whose *Vivekasindhu* demonstrated that abstract spiritual concepts could be rendered in the vernacular without loss of subtlety or depth. I remember reading his work with grudging admiration, then genuine awe. The man was composing philosophy of remarkable sophistication, yet any educated person could understand him without years of Sanskrit study.
+They came back, of course. Daniyal, another son of Akbar, came in 1599. And this time, it was not the enemy outside that destroyed us. It was the rot inside.
 
-Then came the radical wanderers, men like Chakradhar Swami who founded the Mahanubhava sect. They rejected the old hierarchies entirely, preaching in the common tongue and transforming religious experience from elite ritual into popular movement. Their teachings spread through villages like monsoon rain, carrying spiritual truths to people who had never set foot in a Sanskrit school.
+Hameed Khan, a eunuch noble she had trusted, spread the whisper. "She is selling us out," he hissed in the barracks. "She is in league with the Mughals."
 
-I watched this flowering with mixed feelings. Part of me mourned the diminishment of Sanskrit's privileged position. But another part, the part that loved learning itself regardless of language, could not help but rejoice. Knowledge was spreading. Wisdom was reaching minds that had been locked out by linguistic barriers.
+It was a lie. A poison. But hungry, frightened men drink poison if it tastes like an answer.
 
-The king understood this better than most. He kept Sanskrit alive in his court, still employed scholars like myself, still funded traditional learning. But he also recognized that a language known only to elites could not serve the needs of a living, breathing kingdom. Marathi and Sanskrit, he insisted, could coexist. Each had its proper sphere.
+I was not there when they broke into her palace. I was on the wall, watching the Mughal lines. I heard the shouting. I ran, but I was too late.
 
-More than once, unsigned Marathi verses circulated through the markets of Devagiri, sharp little dialogues in which a pompous Sanskrit scholar was out-argued by a village woman or a tax collector forced to explain himself to a farmer. The court officially ignored them. In private, I recognized the king's turns of phrase in certain barbs and metaphors. Whether anyone else did, I never asked.
+They say she faced them calmly. That she tried to speak reason. But a mob has no ears. Jita Khan, a man she had raised up, cut her down.
 
-### The Balance of Two Tongues
+The Queen of the Deccan died on the floor of her own zenana, killed by the very "sons" she had saved.
 
-I came to see Simhana's vision most clearly in the bilingual inscriptions that appeared on temples and public buildings throughout the kingdom. Sanskrit above, proclaiming the eternal truths and invoking the blessings of the gods. Marathi below, explaining to common people what the inscription commemorated and what it meant for their lives.
+When the Mughals finally entered the fort days later—for without her, the defense collapsed like a tent without a pole—they did not celebrate. Even they knew something great had been broken.
 
-This was not replacement but synthesis. Sanskrit retained its sacred dignity, its role in preserving ancient wisdom and connecting our kingdom to the broader civilizational currents of India. But Marathi claimed its rightful place as the language of living governance, the tongue through which king and subject could speak directly to one another.
+I am an old man now. I serve new masters. But sometimes, when the wind blows dust over the Ahmednagar plains, I see her again. The grey mare. The veil. The sword.
 
-I remember a conversation with a merchant from Gujarat who visited our court. He examined one of these bilingual inscriptions with great interest. "Your king," he said to me, "has found something remarkable. He has made governance accessible without abandoning tradition. He has elevated the common tongue without debasing the sacred one."
-
-That observation, from an outsider unburdened by our internal debates, crystallized what Simhana had accomplished. He had proven that regional identity need not war against broader Indian unity, that practical innovation need not threaten spiritual continuity.
-
-The prosperity that followed surprised those who had predicted chaos. Trade flourished when contracts could be understood by all parties. Tax collection improved when assessment documents were comprehensible. Even the temples, those bastions of Sanskrit learning, found their influence growing as religious teachings reached common people through Marathi devotional literature.
-
-### A Kingdom United by Understanding
-
-Yet I would be dishonest if I portrayed this transformation as purely benevolent. Simhana understood, as all effective rulers must, that language policy served political ends.
-
-A subject who could read the king's decrees felt connected to royal authority in ways that transcended mere obedience to incomprehensible commands. When a farmer read his tax assessment in his own tongue and found it fair, he paid willingly rather than resentfully. When a soldier understood his orders clearly, he followed them with confidence rather than confusion.
-
-This was governance through comprehension rather than through mystification. And it bound the people to their king more surely than force ever could.
-
-I watched Simhana wield this understanding with remarkable skill. Other kingdoms, still conducting all official business in Sanskrit, found themselves plagued by miscommunication and popular resentment. Their subjects obeyed because they must, not because they understood or agreed. But in Maharashtra, a new relationship emerged between ruler and ruled, built on the foundation of shared language.
-
-The diplomatic advantages were equally clear. When envoys from other courts visited, they encountered a kingdom where royal authority ran deep into the common population, where the king's word reached even remote villages without distortion or delay. This was power of a different sort than mere military might, though no less formidable for that.
-
-### The Education of a New Generation
-
-Perhaps the most profound change I witnessed was in education itself. When I was young, learning meant Sanskrit first, last, and always. A student spent years mastering grammar, memorizing verses, absorbing the weight of tradition before he could even begin to engage with practical knowledge.
-
-But the schools that emerged under Simhana's patronage took a different path. Young students learned to read and write Marathi first, gaining basic literacy in months rather than years. Only then did they advance to Sanskrit if they wished to pursue traditional scholarship.
-
-I served briefly as an instructor in one such school and watched this approach work with my own eyes. Boys who would have given up in frustration after months of Sanskrit declensions now learned eagerly, their mother tongue unlocking the world of letters. Some went on to Sanskrit later, bringing to it a foundation of literacy that made the learning easier. Others stopped with Marathi, possessing enough learning to function as clerks, merchants, or administrators.
-
-This, I came to understand, was not the abandonment of traditional learning but its expansion. Sanskrit scholarship continued, but it no longer served as a barrier that kept most people from any learning at all. Knowledge became something accessible to talent rather than merely to those whose families could afford years of expensive education.
-
-The kingdom benefited from this opening of opportunity. Bright young men from modest backgrounds, sons of *kunbis* and *malis* and *sutars*, could now aspire to positions that had once been reserved for Sanskrit-educated elites. The administration filled with capable officials who understood both common needs and governance requirements because they came from those same common origins. I watched a gardener's son become a *kamavisdar*, a revenue officer, within five years of learning to read Marathi. Under the old system, he would have remained illiterate until death.
-
-### The Economic Impact
-
-Trade, law, and administration changed as quickly as the language on our decrees. I watched *vaniks*, *kulkarnis*, and village *patils* discover that once they could read the rules in Marathi, wealth, justice, and royal orders all moved with a new, unsettling efficiency.
-
-By the time Simhana died in 1247, Marathi had become the tongue in which ordinary people met their king. Sanskrit scholarship endured, but it now shared space with a vernacular that carried both grain orders and sacred verse. I left Devagiri knowing I had witnessed not just a policy but the birth of a different way of being ruled.
-
-### The Price of Choosing
-
-The consequences of my choice came three months after Govinda Shastri spat at my feet.
-
-I was walking through the *angadi* marketplace near the scholars' quarters when they found me. Four men, their faces covered with cloth, their hands gripping *lathis*, the heavy bamboo staves that could shatter bone. They said nothing. They simply surrounded me in an alley between the spice sellers and the cloth merchants, where the smell of turmeric and sweat was thick enough to choke on.
-
-The first blow caught me across the shoulders. I went down onto the packed earth, tasting blood and dirt. The second blow found my ribs. The third, my back.
-
-"*Gaddar*," one of them hissed. Traitor. "*Sanskrit-drohi*." Betrayer of Sanskrit.
-
-I curled into a ball, trying to protect my head, while the blows rained down. I heard my own voice crying out, heard the distant shouts of merchants who would not intervene, heard the crack of bamboo against my own flesh.
-
-Then, as suddenly as they had appeared, they were gone. I lay in the alley for what felt like hours, bleeding into the dust, watching ants crawl past my face. When I finally dragged myself back to my quarters, I found a message pinned to my door in elegant Sanskrit script:
-
-*"The brotherhood remembers its traitors."*
-
-I should have fled then. Should have abandoned Simhana's revolution and begged forgiveness from the Sanskrit establishment that had made me. But when I closed my eyes, I still saw that infant's face. I still heard the mother asking if I could read the king's order.
-
-Some wounds heal. Some questions never stop burning.
-
-### The Scholar's Discovery
-
-As I gathered my scrolls and prepared to leave the Yadava court for my next appointment in the north, still limping from the beating I had received months earlier, I discovered something that chilled my scholarly blood. Hidden in the depths of the royal archives, wrapped in silk and sealed with wax that bore no royal mark, I found a document that would haunt me for the rest of my days.
-
-It was written entirely in Marathi, not surprising, given Simhana's linguistic revolution. But the content was treasonous beyond imagination.
-
-The document was a manual. A systematic guide to overthrowing Sanskrit-based authority in every kingdom across India. It contained detailed instructions for disrupting traditional Brahmin networks, techniques for turning local populations against Sanskrit-educated administrators, and most damning of all, a list of sympathetic scholars in courts from Kashmir to Kerala who were prepared to implement similar linguistic revolutions in their own kingdoms.
-
-"You found it," came a voice from behind me.
-
-I spun around to find Simhana himself, his eyes glittering with dangerous satisfaction. "Your Majesty, I was simply organizing the archives..."
-
-"You were snooping, as scholars do." His smile was coldly amused. "Tell me, *pandit*, what do you think of my little project?"
-
-My hands trembled as I held the seditious document. "This is... this could destroy the entire structure of traditional Indian governance."
-
-"Precisely." He moved closer, his voice dropping to a whisper. "Every kingdom in India depends on a Sanskrit-educated elite that common people cannot understand or challenge. But what happens when those common people suddenly discover they can govern themselves in their own languages?"
-
-The implications crashed over me like a tsunami. Not just linguistic change, but social revolution. Not just cultural evolution, but the systematic destruction of brahminical authority across the subcontinent.
-
-"You're not just changing Maharashtra," I whispered. "You're planning to change all of India."
-
-"I am planning to liberate India," he corrected. "From the tyranny of incomprehensible governance, from the chains of linguistic exclusion, from the entire system that keeps millions of people subject to the whims of men they cannot understand."
-
-As I left the palace carrying knowledge that could topple dynasties, I understood at last what Simhana had truly created. This was no mere administrative reform but the opening move in a struggle over who had the right to read the language of power.
-
-Hidden in my traveling pack, wrapped carefully in cloth, was a copy of that revolutionary manual. Somewhere beyond the borders of Maharashtra, other scholars would read it, argue over it, and decide whether they dared to make their own people literate in the workings of rule.
-
-The linguistic revolution had begun. And I was its unwilling messenger.
+The Mughals took the land. But she took the glory. And that, no emperor can conquer.
 
 ---
 
-*End of Chapter 6*
+**Historical Note:** Chand Bibi (died 1599) was a Deccani regent who acted as the Regent of Bijapur and later Ahmednagar. She is best known for her heroic defense of Ahmednagar against the Mughal forces of Emperor Akbar in 1595. Legends state she used silver and gold shots in her cannons when ammunition ran low. She was eventually assassinated by her own nobles, leading to the fall of the fort.
 
-**Historical Note:** Simhana II Yadava's systematic elevation of Marathi to official status (1200-1247 CE) marked a crucial turning point in Indian linguistic and cultural development. His reign coincided with the composition of Mukundaraja's *Vivekasindhu* (c. 1188 CE) and the subsequent rise of the Mahanubhava sect under Chakradhar Swami, both of which cemented Marathi's status as a language of philosophy and devotion. While the specific "secret manual" is a fictional device, the tension between Sanskrit-based traditionalism and the emerging vernacular power was very real. The Yadava dynasty's innovations established the template for regional identity in Maharashtra that would fully bloom under later saints like Dnyaneshwar.
-
-*[Editor's Note: While Vaidyanatha Shastri is a fictional character, Sanskrit scholars were indeed employed in Yadava courts during the linguistic transition. The systematic elevation of Marathi in official documents represents one of the earliest and most successful examples of regional language assertion in medieval India, establishing patterns that would influence cultural development for centuries.]*
+*[Editor's Note: Yakut Khan is a fictional narrator representing the Habshi (Abyssinian) faction prominent in the Deccan sultanates. The siege details, the mine explosion, Chand Bibi's personal leadership at the breach, and the use of unconventional ammunition are grounded in historical accounts and popular legends of the siege.]*
 \n\n
 # Chapter 7: The Mountain Wall
 ## Rana Kumbha of Mewar - The Fortress King Who Turned Stone Into Strategy (c. 1433-1468 CE)
@@ -2852,10 +2766,10 @@ Below is a chapter-by-chapter guide to what is broadly grounded in the record ve
 - **Historical core:** Jatavarman Sundara Pandyan's expansion across coastal Andhra and Sri Lanka, his conflicts with Hoysalas and other southern powers, and the wealth and reach of the mid‑13th‑century Pandya state are established in inscriptions and chronicles.
 - **Fictional elements:** The admiral‑narrator, the exact composition of fleets, specific siege narratives (e.g., Kannanur Koppam as depicted), and the proposed alliance with Balban against the Kakatiyas are invented to show what a coordinated land–sea strategist of that period might have attempted.
 
-## Chapter 6 – Simhana II Yadava (Devagiri)
+## Chapter 6 – Chand Bibi (Ahmednagar/Bijapur)
 
-- **Historical core:** The Yadava court at Devagiri, Marathi's rise as a literary and administrative language in the 13th century, and figures like Mukundaraja and later Jnaneshwar signal a real vernacular turn in the region.
-- **Fictional elements:** Vaidyanatha Shastri (the Sanskrit chronicler), the famine‑council scene, the specific decree chronology, and the inner debates about "polluting" Sanskrit by using it with commoners are dramatizations that compress and personalize a long, complex linguistic shift.
+- **Historical core:** Chand Bibi's roles as regent in Bijapur and Ahmednagar, the siege of Ahmednagar by Prince Murad (1595–96), the mine explosion, her rallying of the troops at the breach, and her eventual assassination by her own nobles are historical.
+- **Fictional elements:** Yakut Khan (the Habshi narrator), the "golden shot" incident (a persistent legend but historically debated), and the specific dialogue in the durbar are dramatized to highlight the role of the Abyssinian faction and the legendary nature of her defense.
 
 ## Chapter 7 – Rana Kumbha (Mewar)
 
