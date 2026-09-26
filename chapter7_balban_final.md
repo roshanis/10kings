@@ -13,7 +13,7 @@ Ghiyas ud din Balban, the man I once sought to replace, the man whose shadow I l
 
 We were rivals, Balban and I. He, the leader of the "Forty" Turkish slave nobles, the *Chahalgani*, who believed power was their birthright. I, Imad al-Din Raihan, the Indian-born Muslim whom they sneered at, the "upstart" who dared to challenge their Turkish monopoly. For one glorious year in 1253, I held the post of *Wakil-i-Dar*, whispering in Sultan Nasiruddin's ear while Balban sat in exile, fuming at the audacity of an Indian wielding power over Turks.
 
-But power without a foundation is smoke. Balban returned with his armies, and the weak Sultan engaged in the only diplomacy he knew: betrayal. I was dismissed, exiled, and finally, inevitably, imprisoned. Yet, in a twist of irony that only God could script, Balban did not execute me immediately. Instead, he kept me—first as a prisoner, then, strangely, as a secret advisor in this very cell.
+But power without a foundation is smoke. Balban returned with his armies, and the weak Sultan engaged in the only diplomacy he knew: betrayal. I was dismissed, exiled, and finally, inevitably, imprisoned. Yet, in a twist of irony that only God could script, Balban did not execute me immediately. Instead, he kept me: first as a prisoner, then, strangely, as a secret advisor in this very cell.
 
 "You understand them, Raihan," he told me once, standing in the shadows of my confinement. "The Indian nobles, the local chiefs, the men my Turks despise. I need your eyes to see what my arrogance misses."
 
@@ -67,7 +67,7 @@ But I no longer believe I was innocent in that calculation.
 
 ### The Systematic Elimination of Opposition
 
-For three years, I catalogued the weaknesses of every member of the Chahalgani. My agents—men I directed from this very cell—infiltrated their households. I learned which noble was indebted to moneylenders, which concealed revenue, which maintained secret correspondence.
+For three years, I catalogued the weaknesses of every member of the Chahalgani. My agents, men I directed from this very cell, infiltrated their households. I learned which noble was indebted to moneylenders, which concealed revenue, which maintained secret correspondence.
 
 Balban smiled as I presented my reports. "Individually powerful," he observed, "but isolated by pride."
 
@@ -91,7 +91,7 @@ But the *Barid* network was my masterpiece. Spies. Reporters. News-writers.
 
 "The naive ruler trusts his governors," I told Balban. "The wise ruler watches them."
 
-I recruited men who existed in the shadows—scribes, merchants, beggars. They reported directly to the *Barid-i-Mumalik*, who reported to Balban. Every provincial governor knew that his own servants might be the Sultan's eyes.
+I recruited men who existed in the shadows: scribes, merchants, beggars. They reported directly to the *Barid-i-Mumalik*, who reported to Balban. Every provincial governor knew that his own servants might be the Sultan's eyes.
 
 When Tughril Khan rebelled in Bengal, assuming the distance would protect him, it was my network that alerted Balban days before the official news arrived. It was the *Barid* system that allowed Balban to march across the subcontinent and crush the rebellion with a ruthlessness that terrified the eastern provinces for a generation. "Rebellion," Balban declared after hanging Tughril's followers along two miles of frantic road, "is not a political act. It is a suicide pact."
 

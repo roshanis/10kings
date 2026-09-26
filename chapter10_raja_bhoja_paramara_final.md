@@ -45,7 +45,7 @@ The destruction of Dhara was not born of a single war, but of a calculated allia
 
 "It was a pincer," explained Krishnadeva, Bhoja's former minister. "Bhima attacked from the west while Karna struck from the east. They realized that neither could defeat the scholar-king alone, but together, they could tear Malwa apart."
 
-Bhoja had fought them before—he had even defeated them in separate campaigns. He had survived the sack of Dhara by Someshvara I years earlier and rebuilt his city greater than before. But this time was different. This time, he was old, his body failing him just as his enemies joined hands.
+Bhoja had fought them before; he had even defeated them in separate campaigns. He had survived the sack of Dhara by Someshvara I years earlier and rebuilt his city greater than before. But this time was different. This time, he was old, his body failing him just as his enemies joined hands.
 
 ### The Widow of the World
 
@@ -83,7 +83,7 @@ It was Madhava who saved me. The old librarian threw himself between us, crying 
 
 The scar on my neck has faded over the years, but I still feel the ghost of that blade when I read the manuscripts I carried out of Dhara. I was spared to witness. Perhaps that was my purpose all along.
 
-The great Shiva temple at **Bhojpur**, with its massive lingam and cyclopean walls, remained unfinished—a stone metaphor for a reign that ended with so much potential unfulfilled. The dam of the great Bhojpur lake was breached, its waters draining away just as the prosperity of Malwa drained into the coffers of its conquerors.
+The great Shiva temple at **Bhojpur**, with its massive lingam and cyclopean walls, remained unfinished, a stone metaphor for a reign that ended with so much potential unfulfilled. The dam of the great Bhojpur lake was breached, its waters draining away just as the prosperity of Malwa drained into the coffers of its conquerors.
 
 ### The Paradox of Power
 

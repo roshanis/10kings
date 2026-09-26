@@ -177,7 +177,7 @@ For a moment, nothing happened.
 
 Then the scent hit.
 
-The warhorse threw its head up, nostrils flaring wide. Its ears pinned back. A low, guttural whinny tore from its throat—a sound of primal terror. The groom, a strong man, was suddenly fighting a hurricane. The horse reared, hooves slashing the air, eyes rolling white. It wasn't just startled; it was terrified. It bucked violently, dragging the groom across the dust, kicking out at invisible enemies.
+The warhorse threw its head up, nostrils flaring wide. Its ears pinned back. A low, guttural whinny tore from its throat, a sound of primal terror. The groom, a strong man, was suddenly fighting a hurricane. The horse reared, hooves slashing the air, eyes rolling white. It wasn't just startled; it was terrified. It bucked violently, dragging the groom across the dust, kicking out at invisible enemies.
 
 "That is one horse, Sultan," I said, my voice cutting through the animal's screams. "Imagine a thousand. Imagine a whole tumen of Mongol ponies, who are even more sensitive to that smell. They won't charge. They won't hold a line. They will trample their own riders before a single sword is drawn."
 

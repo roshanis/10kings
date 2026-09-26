@@ -459,7 +459,7 @@ For a moment, nothing happened.
 
 Then the scent hit.
 
-The warhorse threw its head up, nostrils flaring wide. Its ears pinned back. A low, guttural whinny tore from its throat—a sound of primal terror. The groom, a strong man, was suddenly fighting a hurricane. The horse reared, hooves slashing the air, eyes rolling white. It wasn't just startled; it was terrified. It bucked violently, dragging the groom across the dust, kicking out at invisible enemies.
+The warhorse threw its head up, nostrils flaring wide. Its ears pinned back. A low, guttural whinny tore from its throat, a sound of primal terror. The groom, a strong man, was suddenly fighting a hurricane. The horse reared, hooves slashing the air, eyes rolling white. It wasn't just startled; it was terrified. It bucked violently, dragging the groom across the dust, kicking out at invisible enemies.
 
 "That is one horse, Sultan," I said, my voice cutting through the animal's screams. "Imagine a thousand. Imagine a whole tumen of Mongol ponies, who are even more sensitive to that smell. They won't charge. They won't hold a line. They will trample their own riders before a single sword is drawn."
 
@@ -1772,7 +1772,7 @@ Yet when I finally laid down my command and stood on the docks watching merchant
 
 Before I retired, I witnessed one final act that defined his legacy more than any battle. It was at Srirangam, the great temple island in the Kaveri, where Sundara had commanded his engineers to perform a miracle not of war, but of devotion.
 
-I stood with thousands of others as the king, now known to all as *Pon Veintha Perumal* ("The King Who Covered the World with Gold")—stepped onto the *Tulabhara* scale. On one side stood the conqueror of the South; on the other, attendants piled heaps of gold, emeralds, and pearls taken from the treasuries of the Cholas, the Hoysalas, and the Lankans.
+I stood with thousands of others as the king, now known to all as *Pon Veintha Perumal* ("The King Who Covered the World with Gold"), stepped onto the *Tulabhara* scale. On one side stood the conqueror of the South; on the other, attendants piled heaps of gold, emeralds, and pearls taken from the treasuries of the Cholas, the Hoysalas, and the Lankans.
 
 As the scale tipped, lifting the king toward the heavens, the crowds roared. But I looked not at the scale, but at the temple roof above him. It shone with a blinding brilliance, plated entirely in gold from his conquests. He had turned the blood of battles into the glory of gods. This was his answer to mortality: wealth so vast it became divine, power so absolute it could buy the favor of heaven itself.
 
@@ -2002,7 +2002,7 @@ Ghiyas ud din Balban, the man I once sought to replace, the man whose shadow I l
 
 We were rivals, Balban and I. He, the leader of the "Forty" Turkish slave nobles, the *Chahalgani*, who believed power was their birthright. I, Imad al-Din Raihan, the Indian-born Muslim whom they sneered at, the "upstart" who dared to challenge their Turkish monopoly. For one glorious year in 1253, I held the post of *Wakil-i-Dar*, whispering in Sultan Nasiruddin's ear while Balban sat in exile, fuming at the audacity of an Indian wielding power over Turks.
 
-But power without a foundation is smoke. Balban returned with his armies, and the weak Sultan engaged in the only diplomacy he knew: betrayal. I was dismissed, exiled, and finally, inevitably, imprisoned. Yet, in a twist of irony that only God could script, Balban did not execute me immediately. Instead, he kept me—first as a prisoner, then, strangely, as a secret advisor in this very cell.
+But power without a foundation is smoke. Balban returned with his armies, and the weak Sultan engaged in the only diplomacy he knew: betrayal. I was dismissed, exiled, and finally, inevitably, imprisoned. Yet, in a twist of irony that only God could script, Balban did not execute me immediately. Instead, he kept me: first as a prisoner, then, strangely, as a secret advisor in this very cell.
 
 "You understand them, Raihan," he told me once, standing in the shadows of my confinement. "The Indian nobles, the local chiefs, the men my Turks despise. I need your eyes to see what my arrogance misses."
 
@@ -2056,7 +2056,7 @@ But I no longer believe I was innocent in that calculation.
 
 ### The Systematic Elimination of Opposition
 
-For three years, I catalogued the weaknesses of every member of the Chahalgani. My agents—men I directed from this very cell—infiltrated their households. I learned which noble was indebted to moneylenders, which concealed revenue, which maintained secret correspondence.
+For three years, I catalogued the weaknesses of every member of the Chahalgani. My agents, men I directed from this very cell, infiltrated their households. I learned which noble was indebted to moneylenders, which concealed revenue, which maintained secret correspondence.
 
 Balban smiled as I presented my reports. "Individually powerful," he observed, "but isolated by pride."
 
@@ -2080,7 +2080,7 @@ But the *Barid* network was my masterpiece. Spies. Reporters. News-writers.
 
 "The naive ruler trusts his governors," I told Balban. "The wise ruler watches them."
 
-I recruited men who existed in the shadows—scribes, merchants, beggars. They reported directly to the *Barid-i-Mumalik*, who reported to Balban. Every provincial governor knew that his own servants might be the Sultan's eyes.
+I recruited men who existed in the shadows: scribes, merchants, beggars. They reported directly to the *Barid-i-Mumalik*, who reported to Balban. Every provincial governor knew that his own servants might be the Sultan's eyes.
 
 When Tughril Khan rebelled in Bengal, assuming the distance would protect him, it was my network that alerted Balban days before the official news arrived. It was the *Barid* system that allowed Balban to march across the subcontinent and crush the rebellion with a ruthlessness that terrified the eastern provinces for a generation. "Rebellion," Balban declared after hanging Tughril's followers along two miles of frantic road, "is not a political act. It is a suicide pact."
 
@@ -2226,7 +2226,7 @@ His strength lay not merely in numbers but in the calculating intelligence that 
 
 My first encounter with Kapilendra's methods came not on a battlefield but in the shadow of assassination, when he eliminated the last ruler of the Eastern Gangas in 1435. It was a coup so perfectly executed that most of his subjects learned about the change of dynasty only when they heard the new proclamation from the great temple at Puri.
 
-He did not declare himself King in the traditional sense. Standing before the idol of Lord Jagannatha, he took the title of *Rauta*—the Servant. He proclaimed that the empire belonged to the God, and he was merely its custodian.
+He did not declare himself King in the traditional sense. Standing before the idol of Lord Jagannatha, he took the title of *Rauta*, the Servant. He proclaimed that the empire belonged to the God, and he was merely its custodian.
 
 "It was a masterstroke," explained Narasimha Das, the royal treasurer I interviewed years later. "By ruling in the name of Jagannatha, he made rebellion against him a sin against the Divine. He legitimized a usurpation by wrapping it in the most sacred cloth of Odisha."
 
@@ -2350,7 +2350,7 @@ The economic benefits that resulted from this integration created popular suppor
 
 Beyond conquest, Kapilendra turned Cuttack and Puri into centers of a cultural revolution that paralleled his military one. While Sanskrit remained the language of the court rituals, he unleashed the power of the people's tongue.
 
-It was in his reign that the peasant-poet Sarala Das composed the *Mahabharata* not in the high Sanskrit of the Brahmins, but in the earthy, vigorous Odia of the ploughman and the soldier. I heard these verses sung in the camps of the Gajapati army—stories of heroes that sounded suspiciously like Odia warriors, fighting wars that mirrored Kapilendra's own campaigns. The King understood what the Sultans often missed: a people united by a language and a story are harder to conquer than a people united only by fear.
+It was in his reign that the peasant-poet Sarala Das composed the *Mahabharata* not in the high Sanskrit of the Brahmins, but in the earthy, vigorous Odia of the ploughman and the soldier. I heard these verses sung in the camps of the Gajapati army: stories of heroes that sounded suspiciously like Odia warriors, fighting wars that mirrored Kapilendra's own campaigns. The King understood what the Sultans often missed: a people united by a language and a story are harder to conquer than a people united only by fear.
 
 ### The Emperor's Reflection
 
@@ -2360,7 +2360,7 @@ At seventy, he retained the intellectual acuity that had made his conquests poss
 
 His eyes drifted to the courtyard where his sons were training. "Hamvira is the sword of this empire," he murmured, watching his eldest, the hero of the southern campaigns. "But a sword cannot rule. It can only cut."
 
-He sounded like a man who knew he was planting the seeds of his own dynasty's destruction. By favoring his younger son Purushottama—who claimed the blessing of Lord Jagannatha—he was alienating Hamvira, the general who had actually built the empire.
+He sounded like a man who knew he was planting the seeds of his own dynasty's destruction. By favoring his younger son Purushottama, who claimed the blessing of Lord Jagannatha, he was alienating Hamvira, the general who had actually built the empire.
 
 "Tell your sultans," he instructed me, turning away from the sight of his feuding sons. "The Gajapati Empire will survive my death, but the wolves are already circling inside the house. The age of unlimited Hindu expansion is ending with my reign, not because of your strength, but because of our own divisions."
 
@@ -2424,7 +2424,7 @@ Rajyapala had fled his capital when our army approached, surrendering the city w
 
 ### The Builder's Obsession
 
-What made Vidyadhara truly dangerous was not his fanaticism—we had encountered that before—but the methodical care with which he had prepared for war. When our intelligence agents finally penetrated his territories, they reported something we had never seen: a Hindu ruler who studied Islamic military methods with the same devotion he applied to temple architecture.
+What made Vidyadhara truly dangerous was not his fanaticism (we had encountered that before) but the methodical care with which he had prepared for war. When our intelligence agents finally penetrated his territories, they reported something we had never seen: a Hindu ruler who studied Islamic military methods with the same devotion he applied to temple architecture.
 
 His capital at Khajuraho was not merely a city but a vast arsenal disguised as a religious center. While pilgrims came to worship at his magnificent temples, his engineers tested siege engines in the courtyards behind the sanctuaries. While sculptors carved dancing apsaras on temple walls, his blacksmiths forged weapons to counter Turkish armor and cavalry tactics.
 
@@ -2440,7 +2440,7 @@ It was a weakness we noted carefully. The same artistic genius that created the 
 
 The first time we truly understood the scale of the threat was during our campaign of 1019. Sultan Mahmud marched to confront this insolent Chandela, confident that he would crumble like the others. But when we reached the banks of the river where Vidyadhara's army was encamped, even the Sultan faltered.
 
-The chronicles will say we won a tactical victory, that the Hindus retreated in the night. But I was there. I saw the Sultan stand on a hillock, looking down at an ocean of men that stretched to the horizon—infantry, cavalry, and a wall of elephants that seemed to have no end.
+The chronicles will say we won a tactical victory, that the Hindus retreated in the night. But I was there. I saw the Sultan stand on a hillock, looking down at an ocean of men that stretched to the horizon: infantry, cavalry, and a wall of elephants that seemed to have no end.
 
 "His army is vast," Mahmud muttered, his face grim. "More vast than any we have faced."
 
@@ -2454,7 +2454,7 @@ For months, we battered its walls. Our mangonels hurled stones that shattered ag
 
 Finally, the Sultan realized the futility of the siege. He could not stay in India forever; his empire in Ghazni needed him. He sent an emissary to offer terms.
 
-The result was unique in the history of our Indian campaigns. We did not sack the fort. We did not execute the king. Instead, we accepted a tribute—**300 war elephants**—and turned back. Vidyadhara remained on his throne, the only ruler in Hindustan who had looked Mahmud of Ghazni in the eye and forced him to blink. He even sent a poem to the Sultan, praising his courage—a final, elegant insult from a warrior-poet who knew he had won the war of survival.
+The result was unique in the history of our Indian campaigns. We did not sack the fort. We did not execute the king. Instead, we accepted a tribute, **300 war elephants**, and turned back. Vidyadhara remained on his throne, the only ruler in Hindustan who had looked Mahmud of Ghazni in the eye and forced him to blink. He even sent a poem to the Sultan, praising his courage: a final, elegant insult from a warrior-poet who knew he had won the war of survival.
 
 ### The Teacher's Lesson
 
@@ -2582,7 +2582,7 @@ The destruction of Dhara was not born of a single war, but of a calculated allia
 
 "It was a pincer," explained Krishnadeva, Bhoja's former minister. "Bhima attacked from the west while Karna struck from the east. They realized that neither could defeat the scholar-king alone, but together, they could tear Malwa apart."
 
-Bhoja had fought them before—he had even defeated them in separate campaigns. He had survived the sack of Dhara by Someshvara I years earlier and rebuilt his city greater than before. But this time was different. This time, he was old, his body failing him just as his enemies joined hands.
+Bhoja had fought them before; he had even defeated them in separate campaigns. He had survived the sack of Dhara by Someshvara I years earlier and rebuilt his city greater than before. But this time was different. This time, he was old, his body failing him just as his enemies joined hands.
 
 ### The Widow of the World
 
@@ -2620,7 +2620,7 @@ It was Madhava who saved me. The old librarian threw himself between us, crying 
 
 The scar on my neck has faded over the years, but I still feel the ghost of that blade when I read the manuscripts I carried out of Dhara. I was spared to witness. Perhaps that was my purpose all along.
 
-The great Shiva temple at **Bhojpur**, with its massive lingam and cyclopean walls, remained unfinished—a stone metaphor for a reign that ended with so much potential unfulfilled. The dam of the great Bhojpur lake was breached, its waters draining away just as the prosperity of Malwa drained into the coffers of its conquerors.
+The great Shiva temple at **Bhojpur**, with its massive lingam and cyclopean walls, remained unfinished, a stone metaphor for a reign that ended with so much potential unfulfilled. The dam of the great Bhojpur lake was breached, its waters draining away just as the prosperity of Malwa drained into the coffers of its conquerors.
 
 ### The Paradox of Power
 

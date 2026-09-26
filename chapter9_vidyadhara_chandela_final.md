@@ -27,7 +27,7 @@ Rajyapala had fled his capital when our army approached, surrendering the city w
 
 ### The Builder's Obsession
 
-What made Vidyadhara truly dangerous was not his fanaticism—we had encountered that before—but the methodical care with which he had prepared for war. When our intelligence agents finally penetrated his territories, they reported something we had never seen: a Hindu ruler who studied Islamic military methods with the same devotion he applied to temple architecture.
+What made Vidyadhara truly dangerous was not his fanaticism (we had encountered that before) but the methodical care with which he had prepared for war. When our intelligence agents finally penetrated his territories, they reported something we had never seen: a Hindu ruler who studied Islamic military methods with the same devotion he applied to temple architecture.
 
 His capital at Khajuraho was not merely a city but a vast arsenal disguised as a religious center. While pilgrims came to worship at his magnificent temples, his engineers tested siege engines in the courtyards behind the sanctuaries. While sculptors carved dancing apsaras on temple walls, his blacksmiths forged weapons to counter Turkish armor and cavalry tactics.
 
@@ -43,7 +43,7 @@ It was a weakness we noted carefully. The same artistic genius that created the 
 
 The first time we truly understood the scale of the threat was during our campaign of 1019. Sultan Mahmud marched to confront this insolent Chandela, confident that he would crumble like the others. But when we reached the banks of the river where Vidyadhara's army was encamped, even the Sultan faltered.
 
-The chronicles will say we won a tactical victory, that the Hindus retreated in the night. But I was there. I saw the Sultan stand on a hillock, looking down at an ocean of men that stretched to the horizon—infantry, cavalry, and a wall of elephants that seemed to have no end.
+The chronicles will say we won a tactical victory, that the Hindus retreated in the night. But I was there. I saw the Sultan stand on a hillock, looking down at an ocean of men that stretched to the horizon: infantry, cavalry, and a wall of elephants that seemed to have no end.
 
 "His army is vast," Mahmud muttered, his face grim. "More vast than any we have faced."
 
@@ -57,7 +57,7 @@ For months, we battered its walls. Our mangonels hurled stones that shattered ag
 
 Finally, the Sultan realized the futility of the siege. He could not stay in India forever; his empire in Ghazni needed him. He sent an emissary to offer terms.
 
-The result was unique in the history of our Indian campaigns. We did not sack the fort. We did not execute the king. Instead, we accepted a tribute—**300 war elephants**—and turned back. Vidyadhara remained on his throne, the only ruler in Hindustan who had looked Mahmud of Ghazni in the eye and forced him to blink. He even sent a poem to the Sultan, praising his courage—a final, elegant insult from a warrior-poet who knew he had won the war of survival.
+The result was unique in the history of our Indian campaigns. We did not sack the fort. We did not execute the king. Instead, we accepted a tribute, **300 war elephants**, and turned back. Vidyadhara remained on his throne, the only ruler in Hindustan who had looked Mahmud of Ghazni in the eye and forced him to blink. He even sent a poem to the Sultan, praising his courage: a final, elegant insult from a warrior-poet who knew he had won the war of survival.
 
 ### The Teacher's Lesson
 
