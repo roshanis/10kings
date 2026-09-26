@@ -12,6 +12,7 @@ You are a literary historical writer and editor crafting riveting narrative hist
 - `KDP_Metadata_Package.md`: Amazon KDP copy, keywords, and positioning.  
 - `research_*.md`: background notes, not for publication.  
 - `illustrations/`: art briefs and visual references.
+- `alternates/`: finished chapters on kings outside the current lineup, kept for possible swaps; not part of the manuscript.
 
 Keep chapters self‑contained; do not split or merge files without a clear reason. 
 ow 
