@@ -21,7 +21,7 @@ His strength lay not merely in numbers but in the calculating intelligence that 
 
 My first encounter with Kapilendra's methods came not on a battlefield but in the shadow of assassination, when he eliminated the last ruler of the Eastern Gangas in 1435. It was a coup so perfectly executed that most of his subjects learned about the change of dynasty only when they heard the new proclamation from the great temple at Puri.
 
-He did not declare himself King in the traditional sense. Standing before the idol of Lord Jagannatha, he took the title of *Rauta*—the Servant. He proclaimed that the empire belonged to the God, and he was merely its custodian.
+He did not declare himself King in the traditional sense. Standing before the idol of Lord Jagannatha, he took the title of *Rauta*, the Servant. He proclaimed that the empire belonged to the God, and he was merely its custodian.
 
 "It was a masterstroke," explained Narasimha Das, the royal treasurer I interviewed years later. "By ruling in the name of Jagannatha, he made rebellion against him a sin against the Divine. He legitimized a usurpation by wrapping it in the most sacred cloth of Odisha."
 
@@ -145,7 +145,7 @@ The economic benefits that resulted from this integration created popular suppor
 
 Beyond conquest, Kapilendra turned Cuttack and Puri into centers of a cultural revolution that paralleled his military one. While Sanskrit remained the language of the court rituals, he unleashed the power of the people's tongue.
 
-It was in his reign that the peasant-poet Sarala Das composed the *Mahabharata* not in the high Sanskrit of the Brahmins, but in the earthy, vigorous Odia of the ploughman and the soldier. I heard these verses sung in the camps of the Gajapati army—stories of heroes that sounded suspiciously like Odia warriors, fighting wars that mirrored Kapilendra's own campaigns. The King understood what the Sultans often missed: a people united by a language and a story are harder to conquer than a people united only by fear.
+It was in his reign that the peasant-poet Sarala Das composed the *Mahabharata* not in the high Sanskrit of the Brahmins, but in the earthy, vigorous Odia of the ploughman and the soldier. I heard these verses sung in the camps of the Gajapati army: stories of heroes that sounded suspiciously like Odia warriors, fighting wars that mirrored Kapilendra's own campaigns. The King understood what the Sultans often missed: a people united by a language and a story are harder to conquer than a people united only by fear.
 
 ### The Emperor's Reflection
 
@@ -155,7 +155,7 @@ At seventy, he retained the intellectual acuity that had made his conquests poss
 
 His eyes drifted to the courtyard where his sons were training. "Hamvira is the sword of this empire," he murmured, watching his eldest, the hero of the southern campaigns. "But a sword cannot rule. It can only cut."
 
-He sounded like a man who knew he was planting the seeds of his own dynasty's destruction. By favoring his younger son Purushottama—who claimed the blessing of Lord Jagannatha—he was alienating Hamvira, the general who had actually built the empire.
+He sounded like a man who knew he was planting the seeds of his own dynasty's destruction. By favoring his younger son Purushottama, who claimed the blessing of Lord Jagannatha, he was alienating Hamvira, the general who had actually built the empire.
 
 "Tell your sultans," he instructed me, turning away from the sight of his feuding sons. "The Gajapati Empire will survive my death, but the wolves are already circling inside the house. The age of unlimited Hindu expansion is ending with my reign, not because of your strength, but because of our own divisions."
 

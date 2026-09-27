@@ -139,7 +139,7 @@ Yet when I finally laid down my command and stood on the docks watching merchant
 
 Before I retired, I witnessed one final act that defined his legacy more than any battle. It was at Srirangam, the great temple island in the Kaveri, where Sundara had commanded his engineers to perform a miracle not of war, but of devotion.
 
-I stood with thousands of others as the king, now known to all as *Pon Veintha Perumal* ("The King Who Covered the World with Gold")—stepped onto the *Tulabhara* scale. On one side stood the conqueror of the South; on the other, attendants piled heaps of gold, emeralds, and pearls taken from the treasuries of the Cholas, the Hoysalas, and the Lankans.
+I stood with thousands of others as the king, now known to all as *Pon Veintha Perumal* ("The King Who Covered the World with Gold"), stepped onto the *Tulabhara* scale. On one side stood the conqueror of the South; on the other, attendants piled heaps of gold, emeralds, and pearls taken from the treasuries of the Cholas, the Hoysalas, and the Lankans.
 
 As the scale tipped, lifting the king toward the heavens, the crowds roared. But I looked not at the scale, but at the temple roof above him. It shone with a blinding brilliance, plated entirely in gold from his conquests. He had turned the blood of battles into the glory of gods. This was his answer to mortality: wealth so vast it became divine, power so absolute it could buy the favor of heaven itself.
 

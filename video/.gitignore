@@ -1,0 +1,8 @@
+node_modules/
+out/
+public/
+src/mapData.json
+src/timeline.json
+models/
+build/
+__pycache__/
