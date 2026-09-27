@@ -14,6 +14,7 @@ You are a literary historical writer and editor crafting riveting narrative hist
 - `illustrations/`: art briefs and visual references.
 - `alternates/`: finished chapters on kings outside the current lineup, kept for possible swaps; not part of the manuscript.
 - `video/`: Remotion source for the book's teaser video; renders and copied assets are not committed.
+- `kafur/`: a separate novel, *The Right Hand*, about Alauddin Khilji as told by his slave-general Malik Kafur. It is not part of the *Blood and Thrones* manuscript. The same writing standards apply.
 
 Keep chapters self‑contained; do not split or merge files without a clear reason. 
 ow 
