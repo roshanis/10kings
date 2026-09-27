@@ -1,0 +1,76 @@
+{
+  "voice": "bf_emma",
+  "speed": 0.92,
+  "lang": "en-gb",
+  "pronunciations": {
+    "Vidyadhara": "vɪdjˈɑːdəɹə",
+    "Bhoja": "bˈəʊdʒɑː",
+    "Simhana": "sˈɪmhənə",
+    "Devagiri": "dˈeɪvəɡɪɹi",
+    "Jatavarman": "dʒətˈɑːvəmən",
+    "Sundara": "sˈʊndəɹə",
+    "Pandyan": "pˈɑːndjən",
+    "Hoysala": "hˈɔɪsələ",
+    "Alauddin": "ˌalaʊdˈiːn",
+    "Khilji": "kˈɪldʒiː",
+    "Bukka": "bˈʊkə",
+    "Raya": "ɹˈɑːjə",
+    "Vijayanagara": "vˌɪdʒəjənˈɑːɡəɹə",
+    "Kapilendra": "kˌapɪlˈɛndɹə",
+    "Deva": "dˈeɪvə",
+    "Ganga": "ɡˈaŋɡɑː",
+    "Kaveri": "kˈɑːvəɹi",
+    "Lachit": "lˈɑːtʃɪt",
+    "Borphukan": "bˈɔːpʊkən",
+    "Marthanda": "mˈɑːtɑːndə",
+    "Varma": "vˈɑːmə",
+    "Kannauj": "kənˈaʊdʒ",
+    "Mahmud": "mɑːmˈuːd",
+    "Chandelas": "tʃʌndˈeɪləz",
+    "Madurai": "mˈʌdʊɹˌaɪ"
+  },
+  "opening": [
+    "Ten rulers.",
+    "Seven centuries.",
+    "One subcontinent.",
+    {
+      "text": "And a history most of the world has never heard.",
+      "speed": 0.8
+    }
+  ],
+  "map": [
+    {
+      "text": "In ten nineteen, {Mahmud} of Ghazni marched on the {Chandelas}.",
+      "events": 3
+    },
+    {
+      "text": "In twelve ninety-six, a raid on {Devagiri} paid for a murder, and a throne.",
+      "events": 5
+    },
+    {
+      "text": "By thirteen eleven, the armies of Delhi had reached {Madurai}.",
+      "events": 1
+    },
+    {
+      "text": "Out of the wreckage, new kingdoms rose.",
+      "events": 4
+    },
+    {
+      "text": "And in seventeen forty-one, on a beach in Travancore, a Dutch force surrendered to an Indian king.",
+      "events": 2
+    }
+  ],
+  "cards": [
+    "{Vidyadhara} had the king of {Kannauj} killed, for running from {Mahmud} of Ghazni. Then he bought his own peace, with three hundred elephants, and a poem.",
+    "{Bhoja} was credited with books on poetry, temples, even machines. He lost his last war. He won his name.",
+    "{Simhana} made {Devagiri} the prize of the Deccan. Fifty years after his death, its gold bought a sultan his throne.",
+    "{Jatavarman} {Sundara} {Pandyan} took tribute from Lanka, killed a {Hoysala} king, and had himself weighed against gold.",
+    "Balban was sold as a slave. As sultan, he made the lords of Delhi kiss his feet. In public, he never laughed.",
+    "{Alauddin} {Khilji} fixed the price of grain, to pay the army that beat the Mongols. Then he massacred the Mongols who had fought for him.",
+    "{Bukka} {Raya} helped found {Vijayanagara}, and called himself Sultan among Hindu kings.",
+    "{Kapilendra} {Deva} seized a throne, and carried it from the {Ganga} to the {Kaveri}. His sons tore it apart.",
+    "{Lachit} {Borphukan} was gravely ill when the Mughal fleet came. He had himself carried onto a boat, and turned it back.",
+    "{Marthanda} {Varma} beat the Dutch, made their captured officer his general, then gave his kingdom to a god."
+  ],
+  "end": "Blood and Thrones. A history, in ten lives."
+}

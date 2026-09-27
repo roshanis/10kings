@@ -1,6 +1,7 @@
 import React from 'react';
 import {AbsoluteFill, Easing, Img, interpolate, spring, staticFile, useCurrentFrame, useVideoConfig} from 'remotion';
 import mapData from './mapData.json';
+import timeline from './timeline.json';
 import {events, kings, labels, ORIGINS, SUBTITLE, TITLE, type King} from './data';
 import {C, caps, serif} from './theme';
 
@@ -22,21 +23,34 @@ const Backdrop: React.FC<{children: React.ReactNode}> = ({children}) => (
   </AbsoluteFill>
 );
 
-// Opening: three lines, one at a time.
+// Opening: each line appears as the narrator speaks it.
 export const Opening: React.FC = () => {
   const frame = useCurrentFrame();
   const opacity = useSceneFade(1, 18);
-  const lines = ['Ten rulers.', 'Seven centuries.', 'One subcontinent.'];
+  const lines = timeline.opening.lines;
   return (
     <Backdrop>
       <AbsoluteFill style={{justifyContent: 'center', alignItems: 'center', opacity}}>
-        {lines.map((line, i) => {
-          const start = 10 + i * 28;
-          const o = interpolate(frame, [start, start + 16], [0, 1], clamp);
-          const y = interpolate(frame, [start, start + 16], [18, 0], {...clamp, easing: Easing.out(Easing.cubic)});
+        {lines.map(({text, at}, i) => {
+          const last = i === lines.length - 1;
+          const o = interpolate(frame, [at, at + 14], [0, 1], clamp);
+          const y = interpolate(frame, [at, at + 14], [18, 0], {...clamp, easing: Easing.out(Easing.cubic)});
           return (
-            <div key={line} style={{fontFamily: serif, fontWeight: 500, fontSize: 84, color: C.ink, opacity: o, transform: `translateY(${y}px)`, lineHeight: 1.25}}>
-              {line}
+            <div
+              key={text}
+              style={{
+                fontFamily: serif,
+                fontWeight: 500,
+                fontStyle: last ? 'italic' : 'normal',
+                fontSize: last ? 50 : 84,
+                color: last ? C.gold : C.ink,
+                marginTop: last ? 34 : 0,
+                opacity: o,
+                transform: `translateY(${y}px)`,
+                lineHeight: 1.25,
+              }}
+            >
+              {text}
             </div>
           );
         })}
@@ -45,11 +59,9 @@ export const Opening: React.FC = () => {
   );
 };
 
-// Map: kingdoms appear in reign order; arcs show the collisions between them.
-export const MAP_INTRO = 24;
-export const MAP_SLOT = 27;
-export const MAP_OUTRO = 50;
-export const MAP_DURATION = MAP_INTRO + events.length * MAP_SLOT + MAP_OUTRO;
+// Map: kingdoms appear in reign order, in step with the narration; arcs show the collisions.
+const eventStarts: number[] = timeline.map.events;
+const MAP_INTRO = eventStarts[0];
 
 type XY = [number, number];
 const places = mapData.places as Record<string, XY>;
@@ -80,10 +92,10 @@ const arcGeometry = (from: XY, to: XY, bend: number) => {
 export const MapScene: React.FC = () => {
   const frame = useCurrentFrame();
   const opacity = useSceneFade(14, 18);
-  const startOf = (i: number) => MAP_INTRO + i * MAP_SLOT;
+  const startOf = (i: number) => eventStarts[i];
 
-  // Year counter: glide from one event's year to the next at the start of each slot.
-  const index = Math.max(0, Math.min(events.length - 1, Math.floor((frame - MAP_INTRO) / MAP_SLOT)));
+  // Year counter: glide from one event's year to the next as each event begins.
+  const index = Math.max(0, eventStarts.filter((start) => frame >= start).length - 1);
   const fromYear = index === 0 ? 1000 : events[index - 1].year;
   const year = Math.round(
     interpolate(frame, [startOf(index), startOf(index) + 14], [fromYear, events[index].year], {...clamp, easing: Easing.inOut(Easing.quad)}),

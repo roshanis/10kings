@@ -1,14 +1,15 @@
 {
   "name": "ten-kings-video",
   "version": "1.0.0",
-  "description": "Remotion teaser for the ten-kings manuscript: animated map in reign order plus one card per ruler.",
+  "description": "Remotion teaser for the ten-kings manuscript: narrated, with an animated map in reign order and one card per ruler.",
   "scripts": {
     "assets": "node scripts/copy-assets.mjs",
-    "prestudio": "npm run assets",
+    "audio": "python3 scripts/audio.py",
+    "prestudio": "npm run assets && npm run audio",
     "studio": "remotion studio src/index.ts",
-    "prerender": "npm run assets",
+    "prerender": "npm run assets && npm run audio",
     "render": "remotion render src/index.ts Trailer out/ten-kings-teaser.mp4 --codec=h264 --crf=20",
-    "prestill": "npm run assets",
+    "prestill": "npm run assets && npm run audio",
     "still": "remotion still src/index.ts Trailer out/still.png"
   },
   "dependencies": {
