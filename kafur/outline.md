@@ -111,7 +111,7 @@ These dates were checked against modern summaries of the chronicles, not against
   - Sumbul's rider comes back: it is done. Kafur's reaction shows in his body, not in words.
   - Khizr Khan as Kafur knew him:
     - the heir who loved a captive princess, Deval Devi, the subject of Amir Khusrau's poem;
-    - a disciple of the Sufi Nizamuddin Auliya (verify).
+    - by later accounts, a disciple of the Sufi Nizamuddin Auliya (check the chronicles).
   - The boy asks whether his brothers are coming to see him.
 - **The turn:** Kafur must choose between the truth and a lie for the boy. Decide which in drafting.
 - **Record:** the blinding at Gwalior by Malik Sumbul's men; Khusrau's *Duval Rani Khizr Khan*.

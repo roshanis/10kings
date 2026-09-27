@@ -202,17 +202,17 @@ The principals follow the character sketch in `Notes/18 Character Sketch`. Each 
 
 | Name | Who | Fate | Status |
 |---|---|---|---|
-| Khizr Khan | Alauddin's eldest son and heir until 1315; husband of Deval Devi; subject of Amir Khusrau's *Duval Rani Khizr Khan*; disciple of Nizamuddin Auliya (verify) | Imprisoned at Gwalior, blinded on Kafur's order in January 1316, killed on Mubarak's in 1318 | Real |
+| Khizr Khan | Alauddin's eldest son by Mahru, and heir until 1315; husband of Deval Devi; subject of Amir Khusrau's *Duval Rani Khizr Khan*. Later accounts make him a disciple of Nizamuddin Auliya and credit him with the Jamat Khana mosque at the saint's hospice; the chronicles need checking on both | Imprisoned at Gwalior, blinded on Kafur's order in January 1316, killed on Mubarak's in 1318 | Real |
 | Shadi Khan | Alauddin's son, imprisoned with Khizr Khan | Blinded with him; killed in 1318 | Real |
 | The Malika-i-Jahan | Alauddin's first wife, daughter of Jalaluddin, the uncle killed at Kara | Imprisoned by Kafur; her fate after his fall needs checking | Real |
-| Alp Khan | Governor of Gujarat, brother of Alauddin's wife Mahru, father-in-law of Khizr Khan | Executed in December 1315, possibly on Kafur's contrivance; Gujarat rose in revolt | Real |
+| Alp Khan | Governor of Gujarat, brother of Alauddin's wife Mahru, and so Khizr Khan's maternal uncle. Mahru pressed Khizr Khan to marry Alp Khan's daughter | Executed in December 1315, possibly on Kafur's contrivance; Gujarat rose in revolt | Real |
 | Malik Sumbul | Eunuch sent to Gwalior to blind the princes. His long service to Kafur is invented | Unknown | Real |
 | The paiks | Alauddin's foot guards, at every door of the palace | Killed Kafur; dispersed by Mubarak. Check the chronicles for their leaders' names | Real |
 | Nusrat Khan | Alauddin's general, who took Kafur at Khambhat | Killed by a stone at the siege of Ranthambore, 1301 | Real |
 | Malik Tughluq (Ghazi Malik) | Led Kafur's vanguard on the Ravi in 1306; governor of Dipalpur | Overthrew Khusrau Khan in 1320 and founded the Tughluq dynasty | Real |
 | Ramachandra | Yadava king of Devagiri; Jhatyapali's father | Honoured in Delhi in 1308 as *Rai Rayan*; restored as a vassal | Real |
 | Amir Khusrau | Poet of the court and eyewitness chronicler of the campaigns in *Khaza'in ul-Futuh* | Outlived them all | Real |
-| Deval Devi | Daughter of Karna of Gujarat, captured in 1308, married to Khizr Khan | Later married by Mubarak and then by Khusrau Khan (verify) | Real |
+| Deval Devi | Daughter of Karna of Gujarat, captured in 1308, married to Khizr Khan | Later married by Mubarak, and then by Khusrau Khan | Real |
 | Zafar Khan | Alauddin's most popular general | Killed at Kili, 1299 | Real |
 | The khwaja of Khambhat | Kafur's first master | Unknown; the novel never names him | Real, unnamed |
 | The washers, the qazi, the amirs at the grave | Chapter 1 | | Invented |
