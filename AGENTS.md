@@ -13,6 +13,7 @@ You are a literary historical writer and editor crafting riveting narrative hist
 - `research_*.md`: background notes, not for publication.  
 - `illustrations/`: art briefs and visual references.
 - `alternates/`: finished chapters on kings outside the current lineup, kept for possible swaps; not part of the manuscript.
+- `video/`: Remotion source for the book's teaser video; renders and copied assets are not committed.
 
 Keep chapters self‑contained; do not split or merge files without a clear reason. 
 ow 
