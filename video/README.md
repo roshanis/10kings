@@ -12,11 +12,18 @@ The pictures follow the voice: every scene takes its timing from the narration.
 ## Files
 
 - **`narration.json`** holds what the narrator says:
-  - the voice;
-  - hand-set pronunciations for the Indian names;
+  - the voice and its speed;
+  - the accent;
+  - how each name is pronounced;
   - the lines themselves.
 
-  Edit this file to change the words, the voice (`bf_emma`, `bm_george`, `bm_fable`, `am_michael`, `af_heart`, and others) or the pacing. To pace a single line differently, write it as `{"text": ..., "speed": 0.8}`.
+  With `"accent": "indian"`, the narrator speaks Indian English with a Hindi-trained voice (`hm_psi`, `hm_omega`, `hf_alpha` or `hf_beta`):
+  - the English follows the rules in `scripts/indian_english.py`: retroflex t and d, tapped r, one sound for v and w, and pure e and o vowels;
+  - each `{Name}` is said the Hindi way, from its spelling under `devanagari`.
+
+  Without an accent, a British or American voice (`bf_emma`, `bm_george`, `am_michael`, and others) reads the names from the phonetic spellings under `pronunciations`.
+
+  To pace a single line differently, write it as `{"text": ..., "speed": 0.8}`.
 - **`src/data.ts`** holds the text on screen: the title, the rulers, their hooks, and the map events. The hooks follow `research_original_kings_review.md`.
 - **`scripts/audio.py`** builds the sound:
   - It speaks the narration with Kokoro, an open neural text-to-speech model (Apache 2.0). The model downloads from GitHub into `models/` on first run.

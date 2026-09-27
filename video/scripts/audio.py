@@ -2,7 +2,8 @@
 """Build the teaser soundtrack and the timeline the scenes follow.
 
 1. Narration: each line of narration.json is spoken by Kokoro (an open neural
-   TTS model), with hand-set pronunciations for the Indian names.
+   TTS model). In the Indian accent, the English is reshaped by the rules in
+   indian_english.py and the names are said the Hindi way, from Devanagari.
 2. Timeline: scene lengths and on-screen cues are laid out around the lines.
 3. Score: a tanpura drone, a low pad, hits on the cuts and whooshes into the
    ruler cards are synthesised to fit the timeline, then ducked under the voice.
@@ -20,6 +21,8 @@ from pathlib import Path
 import numpy as np
 import soundfile as sf
 from scipy.signal import butter, fftconvolve, resample_poly, sosfilt
+
+from indian_english import indian_english
 
 ROOT = Path(__file__).resolve().parent.parent
 MODELS = ROOT / 'models'
@@ -68,18 +71,19 @@ def ensure_models():
                 urllib.request.urlretrieve(MODEL_URL + name, path)
 
 
-def to_phonemes(kokoro, text, pronunciations, lang):
-    """Phonemise a line, substituting the hand-set pronunciation for each {Name}."""
+def to_phonemes(text, name_phonemes, phonemize):
+    """Phonemise a line; each {Name} gets its own pronunciation when one is set."""
     pieces = []
     for part in re.split(r'(\{[^}]+\})', text):
         if not part.strip():
             continue
         if part.startswith('{'):
-            pieces.append(pronunciations[part[1:-1]])
+            name = part[1:-1]
+            pieces.append(name_phonemes(name) or phonemize(name))
         elif re.fullmatch(r'[\s,.;:!?]+', part):
             pieces.append(part.strip())
         else:
-            pieces.append(kokoro.tokenizer.phonemize(part, lang).strip())
+            pieces.append(phonemize(part).strip())
     phonemes = ' '.join(p for p in pieces if p)
     return re.sub(r'\s+([,.;:!?])', r'\1', phonemes)
 
@@ -91,10 +95,18 @@ class Voice:
         ensure_models()
         self.kokoro = Kokoro(str(MODELS / 'kokoro-v1.0.onnx'), str(MODELS / 'voices-v1.0.bin'))
         self.voice, self.speed, self.lang = config['voice'], config['speed'], config['lang']
-        self.pronunciations = config['pronunciations']
-        vocab = self.kokoro.tokenizer.vocab
-        for name, ipa in self.pronunciations.items():
-            missing = [ch for ch in ipa if ch not in vocab]
+        tokenizer = self.kokoro.tokenizer
+        if config.get('accent') == 'indian':
+            # Indian English: English phonemes reshaped by rule; names said in Hindi from Devanagari.
+            devanagari = config['devanagari']
+            self.phonemize = lambda text: indian_english(tokenizer.phonemize(text, 'en-us'))
+            names = {name: tokenizer.phonemize(spelling, 'hi') for name, spelling in devanagari.items()}
+        else:
+            self.phonemize = lambda text: tokenizer.phonemize(text, self.lang)
+            names = config['pronunciations']
+        self.name_phonemes = names.get
+        for name, ipa in names.items():
+            missing = [ch for ch in ipa if ch not in tokenizer.vocab]
             if missing:
                 raise SystemExit(f'pronunciation for {name} uses symbols the model lacks: {missing}')
 
@@ -102,7 +114,7 @@ class Voice:
         """Speak a line: a string, or {"text": ..., "speed": ...} to pace one line differently."""
         text, speed = (line['text'], line['speed']) if isinstance(line, dict) else (line, self.speed)
         voice = voice or self.voice
-        phonemes = to_phonemes(self.kokoro, text, self.pronunciations, self.lang)
+        phonemes = to_phonemes(text, self.name_phonemes, self.phonemize)
         key = hashlib.sha1(f'{voice}|{speed}|{phonemes}'.encode()).hexdigest()[:16]
         path = CACHE / f'{key}.wav'
         if not path.exists():

@@ -1,7 +1,42 @@
 {
-  "voice": "bf_emma",
-  "speed": 0.92,
-  "lang": "en-gb",
+  "voice": "hm_psi",
+  "speed": 1.0,
+  "lang": "en-us",
+  "accent": "indian",
+  "devanagari": {
+    "Vidyadhara": "विद्याधर",
+    "Bhoja": "भोज",
+    "Simhana": "सिंघण",
+    "Devagiri": "देवगिरि",
+    "Jatavarman": "जटावर्मन",
+    "Sundara": "सुंदर",
+    "Pandyan": "पांड्यन",
+    "Hoysala": "होय्सल",
+    "Balban": "बल्बन",
+    "Alauddin": "अलाउद्दीन",
+    "Khilji": "खिलजी",
+    "Bukka": "बुक्का",
+    "Raya": "राया",
+    "Vijayanagara": "विजयनगर",
+    "Kapilendra": "कपिलेंद्र",
+    "Deva": "देव",
+    "Ganga": "गंगा",
+    "Kaveri": "कावेरी",
+    "Lachit": "लचित",
+    "Borphukan": "बोरफुकन",
+    "Marthanda": "मार्तांडा",
+    "Varma": "वर्मा",
+    "Kannauj": "कन्नौज",
+    "Mahmud": "मह्मूद",
+    "Ghazni": "गज़नी",
+    "Chandelas": "चंदेलस",
+    "Madurai": "मदुराई",
+    "Deccan": "दक्कन",
+    "Lanka": "लंका",
+    "Mughal": "मुगल",
+    "Travancore": "त्रावणकोर",
+    "Delhi": "डेल्ही"
+  },
   "pronunciations": {
     "Vidyadhara": "vɪdjˈɑːdəɹə",
     "Bhoja": "bˈəʊdʒɑː",
@@ -35,12 +70,12 @@
     "One subcontinent.",
     {
       "text": "And a history most of the world has never heard.",
-      "speed": 0.8
+      "speed": 0.88
     }
   ],
   "map": [
     {
-      "text": "In ten nineteen, {Mahmud} of Ghazni marched on the {Chandelas}.",
+      "text": "In the year ten nineteen, {Mahmud} of {Ghazni} marched on the {Chandelas}.",
       "events": 3
     },
     {
@@ -48,7 +83,7 @@
       "events": 5
     },
     {
-      "text": "By thirteen eleven, the armies of Delhi had reached {Madurai}.",
+      "text": "By thirteen eleven, the armies of {Delhi} had reached {Madurai}.",
       "events": 1
     },
     {
@@ -56,20 +91,20 @@
       "events": 4
     },
     {
-      "text": "And in seventeen forty-one, on a beach in Travancore, a Dutch force surrendered to an Indian king.",
+      "text": "And in seventeen forty-one, on a beach in {Travancore}, a Dutch force surrendered to an Indian king.",
       "events": 2
     }
   ],
   "cards": [
-    "{Vidyadhara} had the king of {Kannauj} killed, for running from {Mahmud} of Ghazni. Then he bought his own peace, with three hundred elephants, and a poem.",
+    "{Vidyadhara} had the king of {Kannauj} killed, for running from {Mahmud} of {Ghazni}. Then he bought his own peace, with three hundred elephants, and a poem.",
     "{Bhoja} was credited with books on poetry, temples, even machines. He lost his last war. He won his name.",
-    "{Simhana} made {Devagiri} the prize of the Deccan. Fifty years after his death, its gold bought a sultan his throne.",
-    "{Jatavarman} {Sundara} {Pandyan} took tribute from Lanka, killed a {Hoysala} king, and had himself weighed against gold.",
-    "Balban was sold as a slave. As sultan, he made the lords of Delhi kiss his feet. In public, he never laughed.",
-    "{Alauddin} {Khilji} fixed the price of grain, to pay the army that beat the Mongols. Then he massacred the Mongols who had fought for him.",
+    "{Simhana} made {Devagiri} the prize of the {Deccan}. Fifty years after his death, its gold bought a sultan his throne.",
+    "{Jatavarman} {Sundara} {Pandyan} took tribute from {Lanka}, killed a {Hoysala} king, and had himself weighed against gold.",
+    "{Balban} was sold as a slave. As sultan, he made the lords of {Delhi} kiss his feet. In public, he never laughed.",
+    "{Alauddin} {Khilji} fixed the price of grain, so he could pay the army that beat the Mongols. Then he massacred the Mongols who had fought for him.",
     "{Bukka} {Raya} helped found {Vijayanagara}, and called himself Sultan among Hindu kings.",
     "{Kapilendra} {Deva} seized a throne, and carried it from the {Ganga} to the {Kaveri}. His sons tore it apart.",
-    "{Lachit} {Borphukan} was gravely ill when the Mughal fleet came. He had himself carried onto a boat, and turned it back.",
+    "{Lachit} {Borphukan} was gravely ill when the {Mughal} fleet came. He had himself carried onto a boat, and turned it back.",
     "{Marthanda} {Varma} beat the Dutch, made their captured officer his general, then gave his kingdom to a god."
   ],
   "end": "Blood and Thrones. A history, in ten lives."
